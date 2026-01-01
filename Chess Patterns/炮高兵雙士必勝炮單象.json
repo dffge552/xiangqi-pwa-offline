@@ -1,0 +1,290 @@
+[
+  {
+    "fen": "6c2/4k4/9/9/2b1P4/8C/9/3A5/3K5/5A3 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "c": 1,
+        "b": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i4c4\u0000",
+    "bestMove": "i4c4\u0000",
+    "timestamp": "2025-10-25T04:21:06.705Z"
+  },
+  {
+    "fen": "9/3k5/2C5b/9/7P1/9/9/3A5/c8/3AK4 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:c7c0\u0000",
+    "bestMove": "c7c0\u0000",
+    "timestamp": "2025-10-25T04:21:08.469Z"
+  },
+  {
+    "fen": "5kb2/9/9/9/8P/8C/1c7/3K5/4A4/9 w - - 0 1",
+    "type": "單仕單炮單兵 vs 單象單砲",
+    "typeFull": "單仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "單仕單炮單兵 vs 單象單砲",
+      "typeFull": "單仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i4i0\u0000",
+    "bestMove": "i4i0\u0000",
+    "timestamp": "2025-10-25T04:21:09.656Z"
+  },
+  {
+    "fen": "9/3k5/8b/2C2P3/9/9/9/4KA3/4A4/6c2 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e1f0\u0000",
+    "bestMove": "e1f0\u0000",
+    "timestamp": "2025-10-25T04:21:13.363Z"
+  },
+  {
+    "fen": "3k2b2/9/9/7C1/5cP2/9/9/5A3/4A4/5K3 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:g5f5\u0000",
+    "bestMove": "g5f5\u0000",
+    "timestamp": "2025-10-25T04:21:15.976Z"
+  },
+  {
+    "fen": "C8/9/3k5/9/2b2P3/c8/9/3A1A3/4K4/9 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a9g9\u0000",
+    "bestMove": "a9g9\u0000",
+    "timestamp": "2025-10-25T04:21:17.752Z"
+  },
+  {
+    "fen": "5k3/9/9/7P1/6b2/9/9/9/4Ac3/3AK3C w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "A": 2,
+        "C": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e1f2\u0000",
+    "bestMove": "e1f2\u0000",
+    "timestamp": "2025-10-25T04:21:19.013Z"
+  },
+  {
+    "fen": "5k3/9/b8/5c1P1/C8/9/9/9/3K5/3A1A3 w - - 0 1",
+    "type": "2仕單炮單兵 vs 單象單砲",
+    "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+    "classification": {
+      "type": "2仕單炮單兵 vs 單象單砲",
+      "typeFull": "2仕單炮單兵 vs 單象單砲 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d1d2\u0000",
+    "bestMove": "d1d2\u0000",
+    "timestamp": "2025-10-25T04:21:21.479Z"
+  }
+]

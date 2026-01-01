@@ -1,0 +1,70 @@
+[
+  {
+    "fen": "9/4k4/4b4/9/2b6/5R3/3pp4/9/9/4K4 w - - 0 1",
+    "type": "單俥 vs 雙象雙卒",
+    "typeFull": "單俥 vs 雙象雙卒 [黑:高卒2]",
+    "classification": {
+      "type": "單俥 vs 雙象雙卒",
+      "typeFull": "單俥 vs 雙象雙卒 [黑:高卒2]",
+      "redPieces": {
+        "R": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "p": 2
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 2,
+          "low": 2,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T09:08:39.000Z"
+  },
+  {
+    "fen": "3k2b2/9/4b4/9/9/5R3/3pp4/9/9/4K4 w - - 0 1",
+    "type": "單俥 vs 雙象雙卒",
+    "typeFull": "單俥 vs 雙象雙卒 [黑:高卒2]",
+    "classification": {
+      "type": "單俥 vs 雙象雙卒",
+      "typeFull": "單俥 vs 雙象雙卒 [黑:高卒2]",
+      "redPieces": {
+        "R": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "p": 2
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 2,
+          "low": 2,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T09:08:40.000Z"
+  }
+]

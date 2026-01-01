@@ -1,0 +1,1283 @@
+[
+  {
+    "fen": "9/4n1P2/3abk1Pb/9/9/1p4B2/9/9/4K4/4C4 w - - 0 1",
+    "name": "羊腸九曲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:00.000Z"
+  },
+  {
+    "fen": "3k5/4P4/4b4/9/4N1b1p/3c2r2/9/9/9/3K5 w - - 0 1",
+    "name": "疑難雜症1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:01.000Z"
+  },
+  {
+    "fen": "1P3nb1P/4P4/3k5/4P4/9/9/9/9/4Ar3/4K4 w - - 0 1",
+    "name": "孤島擎天",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:02.000Z"
+  },
+  {
+    "fen": "1Cba5/4k4/3ar4/9/9/9/9/4B4/4CK3/2B6 w - - 0 1",
+    "name": "疑難雜症2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:03.000Z"
+  },
+  {
+    "fen": "9/5k3/5N3/6c2/9/9/9/B2A1K3/4A4/4C4 w - - 0 1",
+    "name": "請君入甕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:04.000Z"
+  },
+  {
+    "fen": "5k3/4P4/5P3/2p1n1p2/9/2P3P1p/9/4B4/3pA2p1/3A1KB2 w - - 0 1",
+    "name": "疑難雜症3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:05.000Z"
+  },
+  {
+    "fen": "4c4/4ak3/4c4/9/9/9/1n5n1/3C1C3/3R1R3/3AKA3 w - - 0 1",
+    "name": "疑難雜症4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:06.000Z"
+  },
+  {
+    "fen": "1PP1k4/2P1a4/9/1R7/3P5/8P/ppp6/rcp6/nrp1K4/1nc5C w - - 0 1",
+    "name": "疑難雜症5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:07.000Z"
+  },
+  {
+    "fen": "2rrkcc2/9/2PPPPP2/9/9/9/9/9/3K5/9 w - - 0 1",
+    "name": "五子登科",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:08.000Z"
+  },
+  {
+    "fen": "4k4/9/9/4P4/4p4/R8/4p1pRC/5K3/7r1/3n5 w - - 0 1",
+    "name": "黃雀在後",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:09.000Z"
+  },
+  {
+    "fen": "3k4C/2P1a4/3Nb4/6pR1/p1p6/9/9/B8/1r2rnp2/3K1A3 w - - 0 1",
+    "name": "封侯列爵1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:10.000Z"
+  },
+  {
+    "fen": "9/3k5/9/9/9/4C4/2P6/3A5/4p4/1p1K5 w - - 0 1",
+    "name": "疑難雜症6",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:11.000Z"
+  },
+  {
+    "fen": "n1b2k3/9/9/2P6/9/9/9/p3B4/9/4KC3 w - - 0 1",
+    "name": "失街亭",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:12.000Z"
+  },
+  {
+    "fen": "9/4N4/4k4/1n7/9/4r4/9/4B4/4C4/4K4 w - - 0 1",
+    "name": "疑難雜症7",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:13.000Z"
+  },
+  {
+    "fen": "9/4P4/5k3/9/9/6B2/9/4K2c1/4A4/3A1C3 w - - 0 1",
+    "name": "炮火連天",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:14.000Z"
+  },
+  {
+    "fen": "5k3/9/9/5N3/9/5rC2/9/9/9/4KC3 w - - 0 1",
+    "name": "三英戰呂布",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:15.000Z"
+  },
+  {
+    "fen": "5c3/9/5k3/4P4/9/9/9/3KB4/9/4C4 w - - 0 1",
+    "name": "孤生無依",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:16.000Z"
+  },
+  {
+    "fen": "4ka3/3Pa4/8b/7Cp/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "鐵門拴",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:17.000Z"
+  },
+  {
+    "fen": "3k2b2/3nP4/8b/1C7/9/9/9/9/9/3K5 w - - 0 1",
+    "name": "遠兵取勝",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:18.000Z"
+  },
+  {
+    "fen": "1P1k5/4P4/4b4/c8/9/9/4C2p1/9/4K4/9 w - - 0 1",
+    "name": "疑難雜症8",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:19.000Z"
+  },
+  {
+    "fen": "5k3/6CN1/5a3/9/9/9/5r3/9/9/4K4 w - - 0 1",
+    "name": "殘炮歸家",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:20.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/4r4/4CP3/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症9",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:21.000Z"
+  },
+  {
+    "fen": "9/9/3k5/9/9/9/5R3/4BA2B/4A1r2/4K4 w - - 0 1",
+    "name": "欲哭無淚",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:22.000Z"
+  },
+  {
+    "fen": "2cakC3/4aP3/9/9/9/9/9/9/4K4/9 w - - 0 1",
+    "name": "舟擱淺攤",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:23.000Z"
+  },
+  {
+    "fen": "N1Pakab2/r3n1P2/9/9/9/2C6/9/4K4/9/9 w - - 0 1",
+    "name": "疑難雜症10",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:24.000Z"
+  },
+  {
+    "fen": "4Ca3/3cnk3/5a3/9/9/9/9/1C7/4AK3/3Ar4 w - - 0 1",
+    "name": "高官得中",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:25.000Z"
+  },
+  {
+    "fen": "4ra1CP/4a4/4k4/9/9/5N2p/7p1/3K5/9/9 w - - 0 1",
+    "name": "疑難雜症12",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:26.000Z"
+  },
+  {
+    "fen": "4k4/2P2P3/9/9/2cCc4/9/9/9/1p3p3/4K4 w - - 0 1",
+    "name": "疑難雜症13",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:27.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6B2/9/6CNc/3KA1Nnp/1ppp1Anrr w - - 0 1",
+    "name": "三進山城",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:28.000Z"
+  },
+  {
+    "fen": "9/2P6/3kraC2/9/9/2B6/5r3/B7C/4A4/4KA3 w - - 0 1",
+    "name": "疑難雜症14",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:29.000Z"
+  },
+  {
+    "fen": "5kb2/3P2Pn1/4b4/9/9/9/2p6/3r5/4K4/1C7 w - - 0 1",
+    "name": "小曲徑通幽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:30.000Z"
+  },
+  {
+    "fen": "3ak2r1/5PPC1/9/9/9/6B2/9/5K3/9/9 w - - 0 1",
+    "name": "火燒新野",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:31.000Z"
+  },
+  {
+    "fen": "7P1/2P2k3/8b/9/6b2/6B2/9/B3K4/1C7/8p w - - 0 1",
+    "name": "疑難雜症15",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:32.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/C8/9/B8/4AK3/p1p1c1B2 w - - 0 1",
+    "name": "疑難雜症16",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:33.000Z"
+  },
+  {
+    "fen": "2b1k4/5P3/4b4/9/4c4/6B2/9/5A3/3KC4/2BA5 w - - 0 1",
+    "name": "疑難雜症17",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:34.000Z"
+  },
+  {
+    "fen": "9/4N4/4k4/9/9/9/9/3p5/3p1K3/6C2 w - - 0 1",
+    "name": "看孩子",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:35.000Z"
+  },
+  {
+    "fen": "4R4/4a4/3abk3/9/5P3/9/9/9/3pp4/5K3 w - - 0 1",
+    "name": "疑難雜症18",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:36.000Z"
+  },
+  {
+    "fen": "4k4/1P2NP3/8b/6p1r/9/9/9/9/4K2p1/9 w - - 0 1",
+    "name": "泥丸封侯",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:37.000Z"
+  },
+  {
+    "fen": "7rR/3na2C1/3k5/9/6pC1/6pp1/6pp1/r2cK4/2c6/6n2 w - - 0 1",
+    "name": "鐵硯磨穿",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:38.000Z"
+  },
+  {
+    "fen": "5a3/4a4/3k5/9/9/9/9/B4K3/c4R3/rcB2C3 w - - 0 1",
+    "name": "關門打狗",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:39.000Z"
+  },
+  {
+    "fen": "3k4n/4aP3/3a5/2P6/9/9/9/9/p7p/1C2K4 w - - 0 1",
+    "name": "送子學藝",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:40.000Z"
+  },
+  {
+    "fen": "3ar1bCP/3krc1PP/3n5/1n1P2C1p/9/2B6/9/B8/4A4/3KcA3 w - - 0 1",
+    "name": "疑難雜症19",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:41.000Z"
+  },
+  {
+    "fen": "2bak4/4a4/9/4pNpNn/6b2/9/4P4/3p5/crR1K3C/2nr2B2 w - - 0 1",
+    "name": "垂江救主",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:42.000Z"
+  },
+  {
+    "fen": "PPP1ka3/c3n4/b4a2b/4c3p/9/9/8C/8C/9/p1pp1KB2 w - - 0 1",
+    "name": "綿裡藏針",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:43.000Z"
+  },
+  {
+    "fen": "2bk2P2/3n5/b8/9/9/9/5C3/3K5/7n1/2B6 w - - 0 1",
+    "name": "趙殿宗作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:44.000Z"
+  },
+  {
+    "fen": "P1P1k1b2/4nn3/3a5/p8/9/9/P3P4/7p1/9/3C1K3 w - - 0 1",
+    "name": "朱小堅作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:45.000Z"
+  },
+  {
+    "fen": "n2ak4/9/2P6/9/9/9/8P/3KB4/9/3AcA3 w - - 0 1",
+    "name": "疑難雜症20",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:46.000Z"
+  },
+  {
+    "fen": "2cnr1b2/4ak1P1/5a1C1/2p6/8p/9/9/1p7/4p2c1/2p2K2C w - - 0 1",
+    "name": "龍遊四海",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:47.000Z"
+  },
+  {
+    "fen": "4k4/9/P8/P8/P8/9/9/2NK5/pppnA4/rcrncA3 w - - 0 1",
+    "name": "駑馬十駕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:48.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/9/9/9/1p5p1/9/p1n1KCp1p/8c/9 w - - 0 1",
+    "name": "持久和平",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:49.000Z"
+  },
+  {
+    "fen": "5k3/4P4/4b4/9/9/9/9/9/C4p3/3AK4 w - - 0 1",
+    "name": "疑難雜症21",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:50.000Z"
+  },
+  {
+    "fen": "4ka3/9/9/9/9/9/P1C1N4/4B3B/3KA4/4r1p2 w - - 0 1",
+    "name": "疑難雜症22",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:51.000Z"
+  },
+  {
+    "fen": "5k3/4P2P1/4b4/9/9/2B6/9/5C3/5r3/p3K4 w - - 0 1",
+    "name": "疑難雜症23",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:52.000Z"
+  },
+  {
+    "fen": "9/4r3P/3k5/9/2P6/6p2/9/4p4/9/3C1K3 w - - 0 1",
+    "name": "趙殿忠作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:53.000Z"
+  },
+  {
+    "fen": "3a1k3/1P2a4/3PbP2b/2P6/9/9/9/pppp1K3/crnp5/1nrc2R1C w - - 0 1",
+    "name": "遠水難救近火",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:54.000Z"
+  },
+  {
+    "fen": "1n7/1P4C2/3k5/9/9/9/9/9/4K4/9 w - - 0 1",
+    "name": "疑難雜症23",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:55.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/9/9/9/9/P8/9/c2C5/3K5 w - - 0 1",
+    "name": "趙殿忠作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:56.000Z"
+  },
+  {
+    "fen": "3a5/C8/5k3/9/9/9/9/B2AKA3/9/2Br1p3 w - - 0 1",
+    "name": "疑難雜症11",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:57.000Z"
+  },
+  {
+    "fen": "3a5/1n2a4/5k1P1/1n4NN1/9/7cc/9/9/5p3/1rp1K4 w - - 0 1",
+    "name": "鬼地捉妖",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:58.000Z"
+  },
+  {
+    "fen": "4k4/9/1N7/1n7/9/9/9/3K5/4A3c/7C1 w - - 0 1",
+    "name": "一伐中原",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:00.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/4n4/p3C4/9/6cC1/P8/1p7/4p4/3K3p1 w - - 0 1",
+    "name": "凌波微步",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:01.000Z"
+  },
+  {
+    "fen": "9/4k4/9/9/9/9/9/5K3/C7C/1p5p1 w - - 0 1",
+    "name": "疑難雜症24",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:02.000Z"
+  },
+  {
+    "fen": "3k5/9/3P1a3/9/2p6/2B6/9/3AB4/4K4/9 w - - 0 1",
+    "name": "疑難雜症25",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:03.000Z"
+  },
+  {
+    "fen": "3k5/9/9/3C5/9/9/6cC1/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症26",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:04.000Z"
+  },
+  {
+    "fen": "3k5/9/9/3C5/9/9/6cC1/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症26",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:05.000Z"
+  },
+  {
+    "fen": "1PP1k1PPP/1C1cnn3/8b/6p2/9/9/9/9/1p2r1p2/5K3 w - - 0 1",
+    "name": "疑難雜症27",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:06.000Z"
+  },
+  {
+    "fen": "3a1k3/9/9/9/9/5C3/4p4/5K3/9/5C3 w - - 0 1",
+    "name": "逃紅炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:07.000Z"
+  },
+  {
+    "fen": "4k1n2/4a1P2/3a1r1C1/9/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "山窮水盡",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:08.000Z"
+  },
+  {
+    "fen": "9/4C4/5k3/9/9/9/5c3/4BA2B/4K4/4Rr1pp w - - 0 1",
+    "name": "棋話三國之七擒孟獲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:09.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/8B/5K1N1/4pcB2 w - - 0 1",
+    "name": "疑難雜症28",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:10.000Z"
+  },
+  {
+    "fen": "9/9/5k1N1/9/9/9/9/3K1A3/c8/3nC4 w - - 0 1",
+    "name": "疑難雜症29",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:11.000Z"
+  },
+  {
+    "fen": "9/3k5/3N5/9/9/6B2/9/c2K1A3/4A4/6C2 w - - 0 1",
+    "name": "救小馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:12.000Z"
+  },
+  {
+    "fen": "5r3/5r3/5k3/9/4Pn3/9/6R2/9/4K4/9 w - - 0 1",
+    "name": "獨木難支",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:13.000Z"
+  },
+  {
+    "fen": "3nrkbc1/1P2a4/9/4p4/9/9/9/3K1N3/4A4/4C4 w - - 0 1",
+    "name": "綠皮作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:14.000Z"
+  },
+  {
+    "fen": "6b2/3k5/3N4b/8p/9/6P1P/8p/4B4/9/3K2B1C w - - 0 1",
+    "name": "疑難雜症30",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:00.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/2B6/9/cNC6/pnN1AK3/rrnA1ppp1 w - - 0 1",
+    "name": "疑難雜症31",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:01.000Z"
+  },
+  {
+    "fen": "8P/P8/1N1k1a3/9/9/9/9/9/5pC2/4K1p2 w - - 0 1",
+    "name": "疑難雜症32",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:02.000Z"
+  },
+  {
+    "fen": "3aka3/4nP3/8c/9/9/6B1C/9/9/8n/3AK4 w - - 0 1",
+    "name": "疑難雜症33",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:03.000Z"
+  },
+  {
+    "fen": "9/4k4/9/9/5C3/9/4C4/9/3K5/6ppp w - - 0 1",
+    "name": "疑難雜症34",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:04.000Z"
+  },
+  {
+    "fen": "9/4k4/9/9/9/9/P8/3KB4/9/2BAr1N2 w - - 0 1",
+    "name": "疑難雜症35",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:05.000Z"
+  },
+  {
+    "fen": "2Cackr2/3Nan3/9/6N2/9/9/9/9/9/5K3 w - - 0 1",
+    "name": "疑難雜症36",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:06.000Z"
+  },
+  {
+    "fen": "1Cnaka3/4n4/9/9/9/8p/6P2/4B4/9/4K1c2 w - - 0 1",
+    "name": "綠皮作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:07.000Z"
+  },
+  {
+    "fen": "1Ccrkab2/4n2c1/3a1p2b/7N1/9/p7p/9/4K4/1p2n1p2/9 w - - 0 1",
+    "name": "小馬犁地",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:08.000Z"
+  },
+  {
+    "fen": "9/9/4k4/9/9/9/9/3A1K1C1/2p6/3A1nB2 w - - 0 1",
+    "name": "疑難雜症37",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:09.000Z"
+  },
+  {
+    "fen": "4ka3/3Pa1c2/4c4/2p6/9/9/2P6/4C4/3pA1C2/4KA3 w - - 0 1",
+    "name": "盲公頂棍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:10.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/9/9/9/9/9/4NA3/n1p1K4/5A3 w - - 0 1",
+    "name": "疑難雜症38",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:11.000Z"
+  },
+  {
+    "fen": "4k1P1P/5P1r1/3a1a3/7C1/9/9/9/9/1pp6/3K5 w - - 0 1",
+    "name": "疑難雜症39",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:12.000Z"
+  },
+  {
+    "fen": "4kab2/4a4/4b4/9/9/9/9/2CK5/2C1A4/2B1rA3 w - - 0 1",
+    "name": "甕中捉鱉",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:13.000Z"
+  },
+  {
+    "fen": "4ka3/3Pa1c2/4c4/9/9/9/9/4C4/3pA1C2/4KA3 w - - 0 1",
+    "name": "雙炮禁雙炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:14.000Z"
+  },
+  {
+    "fen": "8P/5k3/4bN3/6p2/9/9/9/4B3C/9/5K1p1 w - - 0 1",
+    "name": "雷區蹦迪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:15.000Z"
+  },
+  {
+    "fen": "PPP1ka3/c3n4/b4a2b/4c3p/9/9/8C/8C/9/p1p2KB2 w - - 0 1",
+    "name": "疑難雜症40",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:16.000Z"
+  },
+  {
+    "fen": "rCbrka3/5P3/3a5/9/2b1C4/9/9/9/5K3/9 w - - 0 1",
+    "name": "炮轟連甲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:17.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/9/9/9/9/2P6/3A1A2B/N2K5/cp2p4 w - - 0 1",
+    "name": "綠皮作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:18.000Z"
+  },
+  {
+    "fen": "4k3C/9/4P3b/9/6b2/9/9/5p3/9/4KA3 w - - 0 1",
+    "name": "疑難雜症41",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:00.000Z"
+  },
+  {
+    "fen": "3aka3/3P5/9/9/9/9/8c/4C4/4K4/9 w - - 0 1",
+    "name": "疑難雜症42",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:01.000Z"
+  },
+  {
+    "fen": "3ak4/4a4/8C/8p/1P7/9/9/4K3p/9/9 w - - 0 1",
+    "name": "疑難雜症43",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:02.000Z"
+  },
+  {
+    "fen": "3ak4/1C1r1C3/3a5/9/9/9/9/4BK3/4A4/2BAcpppp w - - 0 1",
+    "name": "紅玉擊鼓",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:03.000Z"
+  },
+  {
+    "fen": "3r5/4a4/3ak2C1/6P2/9/9/9/1p2BK3/9/3A5 w - - 0 1",
+    "name": "疑難雜症44",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:04.000Z"
+  },
+  {
+    "fen": "3P1k3/9/9/9/2p1p4/9/6N2/B8/3KA4/4p4 w - - 0 1",
+    "name": "疑難雜症45",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:05.000Z"
+  },
+  {
+    "fen": "9/4k4/3a5/2p6/9/9/4P4/B8/7C1/5K1n1 w - - 0 1",
+    "name": "疑難雜症46",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:06.000Z"
+  },
+  {
+    "fen": "4ka3/9/9/9/9/9/9/7p1/3KAN3/2Bnpp3 w - - 0 1",
+    "name": "疑難雜症47",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "3k3P1/3nP4/4b4/9/3r5/9/9/3C5/9/3K1A3 w - - 0 1",
+    "name": "出奇致勝",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "2br1a2P/2Cnak3/5c3/5P3/9/9/9/9/2C1K4/9 w - - 0 1",
+    "name": "疑難雜症48",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "9/5k3/9/9/N1p6/2B6/9/4Bn3/5K3/4p4 w - - 0 1",
+    "name": "疑難雜症49",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "2rakrbC1/1C2a4/1P7/9/p8/9/P8/4B4/9/2B1K4 w - - 0 1",
+    "name": "運炮歸家",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "4r4/4a4/3k1a3/9/9/9/9/4B4/6C2/3CK4 w - - 0 1",
+    "name": "疑難雜症50",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "2bar1NC1/4a3r/4k4/9/9/9/9/9/4AK3/4pAB2 w - - 0 1",
+    "name": "金鉤釣鱉",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "3k5/8R/9/9/r6rp/R8/8P/4B4/9/2BAKA3 w - - 0 1",
+    "name": "疑難雜症51",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "9/C2kaP3/3aN4/3P5/9/9/9/9/3p1pr2/2R1K4 w - - 0 1",
+    "name": "火牛坡壘",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "3arab2/9/4bk3/9/5P3/9/9/p8/4A4/5K2C w - - 0 1",
+    "name": "綠皮作品4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "1r1aka3/1C2r4/P3b4/4C4/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "雙車遭困",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "r1r1kab2/4a4/4b4/3R5/3RC4/9/9/4B4/4A4/2BK1A3 w - - 0 1",
+    "name": "疑難雜症52",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "3rn4/4a4/3k1a3/N1p1p1p2/8n/9/3C2c2/2p1Kcr2/5p3/9 w - - 0 1",
+    "name": "迎風而舞",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "4k1P1r/8C/P7P/9/9/9/9/9/9/1pp2K1C1 w - - 0 1",
+    "name": "虎落平陽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "1P1n2P2/C2N5/b3k1r2/4pn3/9/5C3/2p6/3KRR1cc/2r6/9 w - - 0 1",
+    "name": "一馬平川",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "3ak4/4a4/9/r3p4/9/4C4/P8/4C3B/9/5K3 w - - 0 1",
+    "name": "疑難雜症53",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/9/4P1P2/5p2B/7p1/5K3 w - - 0 1",
+    "name": "疑難雜症54",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "9/9/4k1P2/9/9/9/9/9/1pppA4/4KCB2 w - - 0 1",
+    "name": "三仙成丹",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "9/2Cca4/3k1C3/4P1p2/4N1b2/4R1r2/4c1n2/3p1n3/2rNK4/9 w - - 0 1",
+    "name": "疑難雜症55",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3a1k3/9/9/9/9/9/9/5p3/2CRC1p2/2RNNK3 w - - 0 1",
+    "name": "疑難雜症56",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "4na3/2cn5/4k4/5P3/4C4/9/9/2ppcK3/9/4p4 w - - 0 1",
+    "name": "近卒雙星",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "5kn2/6P2/8b/4P4/9/9/9/9/3KA4/9 w - - 0 1",
+    "name": "疑難雜症57",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "6c2/5k1P1/4N3b/PP2p3p/1Rn1C4/p1P1p4/1r2P4/1p3A3/1C4N2/2rnKc3 w - - 0 1",
+    "name": "蛇年大吉",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "5nb2/5kN2/6P1b/9/6p2/9/6P2/9/9/4K4 w - - 0 1",
+    "name": "隔案觀火",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "3aka3/4nC3/9/8p/9/3p5/8P/9/4K4/9 w - - 0 1",
+    "name": "疑難雜症58",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "6b2/4P4/Crr2k3/7P1/9/6p1C/9/n8/3p5/4K1B2 w - - 0 1",
+    "name": "疑難雜症59",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:25.000Z"
+  },
+  {
+    "fen": "3aka3/4r4/4n4/6C2/4C4/9/9/9/4K4/6r2 w - - 0 1",
+    "name": "翻山炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:26.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/9/9/9/6B2/9/3p5/4p1C2/3K4R w - - 0 1",
+    "name": "萬紫千紅",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:27.000Z"
+  },
+  {
+    "fen": "3k5/4P4/4b4/9/2b6/9/9/4p4/9/3AKC3 w - - 0 1",
+    "name": "計步行程",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:28.000Z"
+  },
+  {
+    "fen": "3a5/4ak3/2c3PN1/9/9/7p1/9/3A5/9/4K4 w - - 0 1",
+    "name": "疑難雜症60",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:29.000Z"
+  },
+  {
+    "fen": "3aka3/4n4/9/9/9/9/9/3AN4/4K1p1n/3A5 w - - 0 1",
+    "name": "的盧越溪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:30.000Z"
+  },
+  {
+    "fen": "9/4a4/3k1a3/1n7/1CP6/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症61",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "3n5/N1Nk5/2P2n3/p1P6/9/2B6/p8/4K4/1p7/1c7 w - - 0 1",
+    "name": "疑難雜症62",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "6P1r/4k1C2/1P5CP/4p4/9/9/9/9/3K5/9 w - - 0 1",
+    "name": "隨遇而安",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "2bakcb2/4a4/9/2N6/1C7/3R5/4R4/4K4/5r3/2n2r3 w - - 0 1",
+    "name": "猛虎入山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "8n/5k3/4C1P2/9/9/9/9/3p5/9/4K4 w - - 0 1",
+    "name": "疑難雜症62",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "3a5/4a4/3C1k3/9/2b2P3/6c2/9/4BK3/9/9 w - - 0 1",
+    "name": "肝膽相照",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "2Prk4/3Pa1P2/9/9/9/9/2PC5/9/1p2p4/3K5 w - - 0 1",
+    "name": "圍魏救趙",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "3kn2cC/3nC4/9/8p/9/9/9/9/9/3K5 w - - 0 1",
+    "name": "雙炮雄風",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "3aka3/3P5/9/1N7/9/4n4/9/9/9/4K4 w - - 0 1",
+    "name": "攀猿扣馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "4ka3/3Pa1n2/3r4C/8C/9/9/9/9/9/5K3 w - - 0 1",
+    "name": "請君讓路",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "2r6/4PP3/bP1k5/P1p6/9/9/2P6/9/9/2B1K4 w - - 0 1",
+    "name": "疑難雜症63",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "3cn4/4ak2C/5aP2/9/9/9/9/9/9/5K3 w - - 0 1",
+    "name": "龍宮探寶",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "3a5/1P4C2/1Crak4/9/9/9/9/4BK3/9/9 w - - 0 1",
+    "name": "炮兵傳奇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "3ak4/4aP3/2n6/6N2/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症64",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "5k3/9/5n3/9/9/5n3/5C3/3A1A3/9/4K1B2 w - - 0 1",
+    "name": "疑難雜症65",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "1c2k2c1/9/4P4/9/2R1P1R2/9/4p4/4B4/2p1K1p2/C2pNp2C w - - 0 1",
+    "name": "疑難雜症67",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "2P1k1PP1/r8/9/4P4/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症68",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "9/5k3/4P4/9/8C/5p3/9/9/5K3/4p4 w - - 0 1",
+    "name": "疑難雜症69",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "3a5/5PC1n/4k3b/5PN2/9/9/9/9/4r4/3K5 w - - 0 1",
+    "name": "疑難雜症70",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3k5/4a4/9/2pN5/1P7/4C4/9/9/4p4/3K1p3 w - - 0 1",
+    "name": "疑難雜症71",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "3aka3/9/9/1C2n4/1C7/9/8P/B8/3K5/r1B6 w - - 0 1",
+    "name": "長纓縛倉龍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "5a3/3kn1c2/3a5/p5p2/9/3N3p1/8C/9/1p3p3/4K4 w - - 0 1",
+    "name": "巧計渡河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "9/4r4/3a1k3/9/9/9/9/9/4c2R1/3K5 w - - 0 1",
+    "name": "疑難雜症72",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "5k3/9/9/2p6/9/4P4/9/7C1/3p4p/4K4 w - - 0 1",
+    "name": "炮打三怪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "3akab2/4nc3/9/1N7/4n2RC/9/8P/9/4Ar3/3AK1c2 w - - 0 1",
+    "name": "源遠流長",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "3k3P1/N8/P7b/9/9/9/9/7C1/5pr2/2B1K4 w - - 0 1",
+    "name": "運子有方",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:25.000Z"
+  },
+  {
+    "fen": "1n1a5/nC1k5/3a5/9/6p2/9/9/1p2K2C1/9/9 w - - 0 1",
+    "name": "疑難雜症73",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:26.000Z"
+  },
+  {
+    "fen": "6b2/5k2C/6P1b/9/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症74",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:27.000Z"
+  },
+  {
+    "fen": "9/3k5/4C4/9/9/3C5/9/5K3/9/pppp5 w - - 0 1",
+    "name": "秋風掃葉",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:28.000Z"
+  },
+  {
+    "fen": "9/4a4/N4k3/9/9/9/9/B4n3/9/3p1K3 w - - 0 1",
+    "name": "趙殿宗作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "4Na3/4kr1P1/4ba1P1/9/9/6B2/P8/8B/4A4/3Kcpppp w - - 0 1",
+    "name": "曲線擒敵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "5P3/4P4/5k3/5N3/9/9/9/5r3/9/4KC3 w - - 0 1",
+    "name": "疑難雜症75",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "r4k3/1PPPP4/9/9/9/9/9/9/4K4/9 w - - 0 1",
+    "name": "永動機",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "5c3/5k3/9/9/5r3/9/9/4R4/9/2C1K4 w - - 0 1",
+    "name": "疑難雜症76",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "4k1N2/5C3/9/9/9/8P/9/9/4p2p1/5K3 w - - 0 1",
+    "name": "喝斷當陽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "9/5k3/5aNPb/5PpRP/1P3Rc2/2Cpnpc2/2p1P1N2/2CKBAn2/2r3r2/2p3B2 w - - 0 1",
+    "name": "俠膽義犬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "5rb2/5kN2/9/9/9/2B6/9/4K2p1/9/4C4 w - - 0 1",
+    "name": "棋話水滸之宋公明遇九天玄女",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "6b2/3kc1P2/4b4/2CP2P2/9/9/9/4BA3/4pnppn/2BKcrrpp w - - 0 1",
+    "name": "長平之戰",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "2b2k3/4P1P2/8b/4Cr3/9/9/9/9/9/2B1K4 w - - 0 1",
+    "name": "一壺老酒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "5k2n/9/4P4/9/9/9/9/4C4/9/4K4 w - - 0 1",
+    "name": "疑難雜症77",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "7P1/n1Nn1P3/3k5/9/9/9/9/9/9/5K3 w - - 0 1",
+    "name": "二郎搜山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "5k3/9/5n3/6p2/4P4/6B2/9/9/1C3K3/1ppppnB2 w - - 0 1",
+    "name": "藕斷絲連",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "1C1k5/2P1a4/5a3/9/9/9/9/4K4/5p3/9 w - - 0 1",
+    "name": "疑難雜症78",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "P2ara2P/4k4/4N4/9/9/9/9/9/3C1C3/4K4 w - - 0 1",
+    "name": "愁雲慘淡",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "1c1ak3N/4aP3/9/9/p8/9/9/9/5p3/4K4 w - - 0 1",
+    "name": "追風趕月",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "3ara3/9/5k3/5r3/5P3/9/4C4/5K3/4A4/3Ac4 w - - 0 1",
+    "name": "得隴望蜀",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "9/9/3k5/4P4/9/9/9/p4K3/4c4/p1C6 w - - 0 1",
+    "name": "疑難雜症79",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "3aC1b2/4ak1N1/b8/9/9/9/9/9/9/4K4 w - - 0 1",
+    "name": "疑難雜症80",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3aka3/2c1n4/4bP3/9/4N4/9/9/9/4A4/3AK4 w - - 0 1",
+    "name": "河馬吞象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "3ak4/3P5/5a2N/9/7C1/9/9/B8/4r2p1/5K3 w - - 0 1",
+    "name": "王莽篡位",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "5a3/3k1C3/9/9/9/9/9/8B/5K3/3pnA3 w - - 0 1",
+    "name": "伯樂捕馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "4kab2/3P4C/4n3b/p8/1P7/pcB6/nN7/B8/9/3K1A3 w - - 0 1",
+    "name": "逼上梁山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  }
+]

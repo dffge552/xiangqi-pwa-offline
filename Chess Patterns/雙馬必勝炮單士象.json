@@ -1,0 +1,281 @@
+[
+  {
+    "fen": "4k4/4a4/1c2b4/7N1/9/9/9/3K5/8N/9 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1,
+        "b": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:h6g8\u0000",
+    "bestMove": "h6g8\u0000",
+    "timestamp": "2025-10-25T06:43:44.197Z"
+  },
+  {
+    "fen": "3kN4/4a4/9/9/c1b6/9/9/5K3/9/N8 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1,
+        "b": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e9g8\u0000",
+    "bestMove": "e9g8\u0000",
+    "timestamp": "2025-10-25T06:43:46.601Z"
+  },
+  {
+    "fen": "5k3/9/b4a3/4N4/9/9/6N2/c8/3K5/9 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:g3e4\u0000",
+    "bestMove": "g3e4\u0000",
+    "timestamp": "2025-10-25T06:43:48.994Z"
+  },
+  {
+    "fen": "3k1a3/9/b8/3N5/9/9/9/9/3K5/4N4 w - - 0 1",
+    "type": "2馬 vs 單象單士",
+    "typeFull": "2馬 vs 單象單士",
+    "classification": {
+      "type": "2馬 vs 單象單士",
+      "typeFull": "2馬 vs 單象單士",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "b": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d1e1\u0000",
+    "bestMove": "d1e1\u0000",
+    "timestamp": "2025-10-25T06:43:50.180Z"
+  },
+  {
+    "fen": "3N2b2/3k5/3a5/9/9/9/9/3K5/7N1/7c1 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d9b8\u0000",
+    "bestMove": "d9b8\u0000",
+    "timestamp": "2025-10-25T06:43:51.395Z"
+  },
+  {
+    "fen": "9/4a4/3kb4/9/9/2N6/9/4K4/4c3N/9 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e2e1\u0000",
+    "bestMove": "e2e1\u0000",
+    "timestamp": "2025-10-25T06:43:52.672Z"
+  },
+  {
+    "fen": "2b6/4k4/1c1a4N/9/9/9/9/8N/5K3/9 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1,
+        "a": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i7g8\u0000",
+    "bestMove": "i7g8\u0000",
+    "timestamp": "2025-10-25T06:43:53.893Z"
+  },
+  {
+    "fen": "2bk5/9/3a5/9/9/N4N3/9/3K5/9/1c7 w - - 0 1",
+    "type": "2馬 vs 單象單士單砲",
+    "typeFull": "2馬 vs 單象單士單砲",
+    "classification": {
+      "type": "2馬 vs 單象單士單砲",
+      "typeFull": "2馬 vs 單象單士單砲",
+      "redPieces": {
+        "N": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a4b6\u0000",
+    "bestMove": "a4b6\u0000",
+    "timestamp": "2025-10-25T06:43:55.094Z"
+  }
+]

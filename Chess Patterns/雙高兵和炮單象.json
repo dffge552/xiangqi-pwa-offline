@@ -1,0 +1,104 @@
+[
+  {
+    "fen": "2b5c/4k1P2/9/4P4/9/9/9/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單象單砲",
+    "typeFull": "2兵 vs 單象單砲 [紅:低兵1+高兵1]",
+    "classification": {
+      "type": "2兵 vs 單象單砲",
+      "typeFull": "2兵 vs 單象單砲 [紅:低兵1+高兵1]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 1,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  },
+  {
+    "fen": "9/4k4/9/4PP3/6b2/9/4c4/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單象單砲",
+    "typeFull": "2兵 vs 單象單砲 [紅:高兵2]",
+    "classification": {
+      "type": "2兵 vs 單象單砲",
+      "typeFull": "2兵 vs 單象單砲 [紅:高兵2]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  },
+  {
+    "fen": "9/4k4/5P3/3P5/2b6/9/1c7/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單象單砲",
+    "typeFull": "2兵 vs 單象單砲 [紅:低兵1+高兵1]",
+    "classification": {
+      "type": "2兵 vs 單象單砲",
+      "typeFull": "2兵 vs 單象單砲 [紅:低兵1+高兵1]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 1,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  }
+]

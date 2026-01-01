@@ -1,0 +1,184 @@
+[
+  
+  {
+    "fen": "3ak4/4a4/8b/C8/8P/9/9/B8/3K5/9 w - - 0 1",
+    "type": "單相單炮單兵 vs 單象2士",
+    "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+    "classification": {
+      "type": "單相單炮單兵 vs 單象2士",
+      "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "B": 1
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a6a9\u0000",
+    "bestMove": "a6a9\u0000",
+    "timestamp": "2025-10-25T02:00:08.920Z"
+  },
+
+  {
+    "fen": "2bk1a3/9/3a5/1P7/9/2B6/9/9/9/5KC2 w - - 0 1",
+    "type": "單相單炮單兵 vs 單象2士",
+    "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+    "classification": {
+      "type": "單相單炮單兵 vs 單象2士",
+      "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "B": 1,
+        "C": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "a": 2
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:g0g9\u0000",
+    "bestMove": "g0g9\u0000",
+    "timestamp": "2025-10-25T02:00:11.298Z"
+  },
+  {
+    "fen": "4k4/9/b2a1a3/9/7P1/9/8C/9/3K5/2B6 w - - 0 1",
+    "type": "單相單炮單兵 vs 單象2士",
+    "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+    "classification": {
+      "type": "單相單炮單兵 vs 單象2士",
+      "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "B": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "a": 2
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i3i7\u0000",
+    "bestMove": "i3i7\u0000",
+    "timestamp": "2025-10-25T02:00:12.485Z"
+  },
+  {
+    "fen": "3ak1b2/9/3a5/9/5P3/9/9/B8/4CK3/9 w - - 0 1",
+    "type": "單相單炮單兵 vs 單象2士",
+    "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+    "classification": {
+      "type": "單相單炮單兵 vs 單象2士",
+      "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "B": 1,
+        "C": 1
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f5f6\u0000",
+    "bestMove": "f5f6\u0000",
+    "timestamp": "2025-10-25T02:00:13.674Z"
+  },
+  {
+    "fen": "3ak4/4a2C1/4b4/9/5P3/9/9/4K3B/9/9 w - - 0 1",
+    "type": "單相單炮單兵 vs 單象2士",
+    "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+    "classification": {
+      "type": "單相單炮單兵 vs 單象2士",
+      "typeFull": "單相單炮單兵 vs 單象2士 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "B": 1
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f5f6\u0000",
+    "bestMove": "f5f6\u0000",
+    "timestamp": "2025-10-25T02:00:14.851Z"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "fen": "4k4/9/4b4/9/9/9/9/9/9/3K3N1 w - - 0 1",
+    "type": "單傌 vs 單象",
+    "typeFull": "單傌 vs 單象",
+    "classification": {
+      "type": "單傌 vs 單象",
+      "typeFull": "單傌 vs 單象",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {
+        "b": 1
+      },
+      "totalPieces": 4,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:42:07.000Z"
+  },
+  {
+    "fen": "5k3/9/bN7/9/9/9/9/9/9/4K4 w - - 0 1",
+    "type": "單傌 vs 單象",
+    "typeFull": "單傌 vs 單象",
+    "classification": {
+      "type": "單傌 vs 單象",
+      "typeFull": "單傌 vs 單象",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {
+        "b": 1
+      },
+      "totalPieces": 4,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:42:08.000Z"
+  },
+  {
+    "fen": "5k3/9/3Nb4/9/9/9/9/9/9/4K4 w - - 0 1",
+    "type": "單傌 vs 單象",
+    "typeFull": "單傌 vs 單象",
+    "classification": {
+      "type": "單傌 vs 單象",
+      "typeFull": "單傌 vs 單象",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {
+        "b": 1
+      },
+      "totalPieces": 4,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:42:09.000Z"
+  }
+]

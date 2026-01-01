@@ -1,0 +1,107 @@
+[
+  {
+    "fen": "2b1ck3/9/4b4/9/3PPP3/9/9/9/4A4/3K5 w - - 0 1",
+    "type": "3兵 vs 雙象單炮",
+    "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+    "classification": {
+      "type": "3兵 vs 雙象單炮",
+      "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+      "redPieces": {
+        "P": 3,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "c": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 3,
+          "low": 0,
+          "bottom": 0,
+          "normal": 3
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:41:53.000Z"
+  },
+  {
+    "fen": "2b2c3/5k3/2P1b4/3P2P2/9/9/9/9/4A4/3K5 w - - 0 1",
+    "type": "3兵 vs 雙象單炮",
+    "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+    "classification": {
+      "type": "3兵 vs 雙象單炮",
+      "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+      "redPieces": {
+        "P": 3,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "c": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 3,
+          "low": 0,
+          "bottom": 0,
+          "normal": 3
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:41:54.000Z"
+  },
+  {
+    "fen": "2b2c3/3P1k3/4b4/3P2P2/9/9/9/9/4A4/3K5 w - - 0 1",
+    "type": "3兵 vs 雙象單炮",
+    "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+    "classification": {
+      "type": "3兵 vs 雙象單炮",
+      "typeFull": "3兵 vs 雙象單炮 [紅:高兵3+單仕]",
+      "redPieces": {
+        "P": 3,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "c": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 3,
+          "low": 0,
+          "bottom": 0,
+          "normal": 3
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-24T09:41:55.000Z"
+  }
+]

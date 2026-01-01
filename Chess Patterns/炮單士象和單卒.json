@@ -1,0 +1,37 @@
+[
+  {
+    "fen": "9/5k3/9/9/9/9/5p3/3K5/4A4/4C1B2 w - - 0 1",
+    "type": "單炮單仕單相 vs 單卒",
+    "typeFull": "單炮單仕單相 vs 單卒",
+    "classification": {
+      "type": "單炮單仕單相 vs 單卒",
+      "typeFull": "單炮單仕單相 vs 單卒",
+      "redPieces": {
+        "C": 1,
+        "A": 1,
+        "B": 1
+      },
+      "blackPieces": {
+        "p": 1
+      },
+      "totalPieces": 5,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:00.000Z"
+  }
+]

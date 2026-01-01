@@ -1,0 +1,213 @@
+[
+  {
+    "fen": "2b6/3k5/9/3C5/9/3p5/9/3A1A3/9/3K5 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:d0e0\u0000",
+    "bestMove": "d0e0\u0000",
+    "timestamp": "2025-10-25T01:38:52.749Z"
+  },
+  {
+    "fen": "5k3/9/9/9/6bC1/9/2p6/9/4A4/4KA3 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:e1f2\u0000",
+    "bestMove": "e1f2\u0000",
+    "timestamp": "2025-10-25T01:38:54.491Z"
+  },
+  {
+    "fen": "3k5/9/9/9/2b6/6C2/7p1/3A1A3/9/4K4 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:g4g0\u0000",
+    "bestMove": "g4g0\u0000",
+    "timestamp": "2025-10-25T01:38:57.390Z"
+  },
+
+  {
+    "fen": "4k4/9/8b/9/9/9/7p1/5A3/3K3C1/3A5 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "A": 2,
+        "C": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:h1g1\u0000",
+    "bestMove": "h1g1\u0000",
+    "timestamp": "2025-10-25T01:39:02.996Z"
+  },
+  {
+    "fen": "5k3/9/8b/9/9/9/2p6/3A5/4K4/3AC4 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "A": 2,
+        "C": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:e1e2\u0000",
+    "bestMove": "e1e2\u0000",
+    "timestamp": "2025-10-25T01:39:04.172Z"
+  },
+  {
+    "fen": "9/3k5/8b/9/9/9/7p1/3A2C2/5K3/3A5 w - - 0 1",
+    "type": "2仕單炮 vs 單象單卒",
+    "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+    "classification": {
+      "type": "2仕單炮 vs 單象單卒",
+      "typeFull": "2仕單炮 vs 單象單卒 [黑:高卒1]",
+      "redPieces": {
+        "A": 2,
+        "C": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "p": 1
+      },
+      "totalPieces": 7,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:f1e1\u0000",
+    "bestMove": "f1e1\u0000",
+    "timestamp": "2025-10-25T01:39:05.359Z"
+  }
+]

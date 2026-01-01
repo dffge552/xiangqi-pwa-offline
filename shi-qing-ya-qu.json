@@ -1,0 +1,3810 @@
+[
+  {
+    "fen": "2baka3/3P3N1/bN7/7nc/9/4C1P2/P5n1P/B3R3B/4Apr2/2RAK3c w",
+    "name": "第001局 气吞关右 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:05.877Z"
+  },
+  {
+    "fen": "C3kab2/4a4/n3c1n2/p2Np1p2/1R4P2/1R7/P3P4/4B4/2Cp1p3/c1rAK1N2 w",
+    "name": "第002局 马蹀阏氏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:06.771Z"
+  },
+  {
+    "fen": "1rbckaP2/3PaP1r1/1P2b4/1R7/Nn7/CRBp1n3/4C4/9/4p1p2/1c3K3 w",
+    "name": "第003局 羝羊触藩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:07.731Z"
+  },
+  {
+    "fen": "2bk1ab2/4a4/9/p1P6/3NC4/4Pp3/P5n2/4B3N/4Ar3/1RBAK2cr w",
+    "name": "第004局 良将安边 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:08.629Z"
+  },
+  {
+    "fen": "2ba1k3/4a1R2/9/1cp2N3/1Nb6/3n2P2/4C4/3AB4/3r1p1n1/2R1KAr1c w",
+    "name": "第005局 淮阴遇汉 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:09.526Z"
+  },
+  {
+    "fen": "2b1kabn1/4aR3/3R2N2/4p1p2/5P3/4P4/3N2Pr1/4C1n2/3pAr3/4K3c w",
+    "name": "第006局 蝇垂骥尾 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:10.479Z"
+  },
+  {
+    "fen": "3a2b2/1P1k5/2Pab4/7RC/9/9/2P2c3/2NA5/3KAr3/cnn1r4 w",
+    "name": "第007局 春雷惊蛰 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:11.493Z"
+  },
+  {
+    "fen": "C1bac1RN1/r2Rak3/7n1/1rP6/2N1P1p2/9/9/2n6/5p3/4Kc3 w",
+    "name": "第008局 珠藏韫柜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:12.390Z"
+  },
+  {
+    "fen": "3a1k3/1C7/c4a3/8N/3P5/9/8C/B8/r2pnpp2/4K1cRR w",
+    "name": "第009局 神龟出洛 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:13.290Z"
+  },
+  {
+    "fen": "4kab1C/4a4/9/1R7/4P1N2/2N3B2/1n5r1/4n4/4A4/c1BAK4 w",
+    "name": "第010局 鸳鸯戏水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:14.228Z"
+  },
+  {
+    "fen": "3k2b2/4P4/crR1b2Rc/9/9/9/9/1C3N1C1/4p1r2/2p2K3 w",
+    "name": "第011局 群鼠争穴 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:15.126Z"
+  },
+  {
+    "fen": "1C2kab2/rN2a2R1/2r1c3b/9/9/5R3/9/7C1/9/3K5 w",
+    "name": "第012局 颠猿饮涧 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:16.395Z"
+  },
+  {
+    "fen": "4k4/3P2P2/b2N2R2/7r1/2b6/9/9/3n5/4p3r/2R2K3 w",
+    "name": "第013局 目视横流 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:17.293Z"
+  },
+  {
+    "fen": "C3k4/4a1r2/5a3/1N7/1Cp6/1R7/9/3p5/4p3r/3K5 w",
+    "name": "第014局 独鹿鸣泽 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:18.198Z"
+  },
+  {
+    "fen": "r1b1k4/c1PPaRc2/r2ab3n/4C4/7RC/9/9/9/4p4/3K5 w",
+    "name": "第015局 妙振兵铃 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:19.477Z"
+  },
+  {
+    "fen": "3aka3/3P1n3/RR2b4/4p4/1Cb4C1/6B1r/9/4p4/3pp4/5K3 w",
+    "name": "第016局 退思补过 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:20.488Z"
+  },
+  {
+    "fen": "C3ka3/4aP1r1/nR2c4/p8/6b2/9/9/2C6/3p1p3/c1rAK4 w",
+    "name": "第017局 退闲式步 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:21.500Z"
+  },
+  {
+    "fen": "3a1kbn1/4P4/1c2n1r2/4p4/9/CC5pp/9/9/r1p1p4/3K3RR w",
+    "name": "第018局 播弄造化 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:22.455Z"
+  },
+  {
+    "fen": "3k1a3/4a4/2n6/NP1C1P3/9/C8/9/3ABcr1B/3pAp1n1/4K3c w",
+    "name": "第019局 遁世不见 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:23.360Z"
+  },
+  {
+    "fen": "2bak2r1/4aP2R/2R1b4/6p1p/1Np6/P1C6/8P/9/3pr4/5K2c w",
+    "name": "第020局 推强扶弱 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:24.266Z"
+  },
+  {
+    "fen": "3ak4/3RaR3/4b3N/6N2/2b6/9/3pP4/B3C1n1B/2rp2r2/4K4 w",
+    "name": "第021局 尽善克终 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:25.200Z"
+  },
+  {
+    "fen": "r1N3b2/1c1kaP3/3ab4/8N/9/9/9/4BA3/5p3/C1R1K1Rrc w",
+    "name": "第022局 及第思乡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:26.098Z"
+  },
+  {
+    "fen": "2bnk4/9/b8/2PRp1RN1/9/9/9/1C2B1r2/4p1r2/c1pC1K2c w",
+    "name": "第023局 沧海遗珠 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:27.000Z"
+  },
+  {
+    "fen": "2bak4/4a4/9/4pNpNn/6b2/9/4P4/3p5/crR1K3C/2nr2B2 w",
+    "name": "第024局 垂缰救主 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T14:00:27.942Z"
+  },
+  {
+    "fen": "2Rakc3/4aR3/4b1n2/4C4/6b2/2B6/4c4/2n1B3C/1r2A1p2/4KA3 w",
+    "name": "第025局 患在几席 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:35:57.965Z"
+  },
+  {
+    "fen": "2Pak3C/3Pa4/b5C1N/4p1p2/6b2/5N3/4c4/6n2/5p1r1/1r1cK4 w",
+    "name": "第026局 结草衔环 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:35:58.878Z"
+  },
+  {
+    "fen": "2bP1k2r/1nn1P4/3cbc3/9/2p3P1p/7RC/9/4p4/3p1R3/2pCK4 w",
+    "name": "第027局 藕断丝牵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:35:59.796Z"
+  },
+  {
+    "fen": "3ak1b2/4aP1R1/4b3n/3N3N1/3r5/2R5r/9/4BC1C1/1n2p1p2/c4K3 w",
+    "name": "第028局 计罗并照 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:00.715Z"
+  },
+  {
+    "fen": "2b1R1Nr1/1Nr2k3/9/C2R1P1n1/2bCp1P2/5pc2/9/5n3/2p1p4/3K5 w",
+    "name": "第029局 四面楚歌 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:01.618Z"
+  },
+  {
+    "fen": "4kaPP1/c2Pa2nR/4b1P1r/6n2/6bN1/9/4C1R2/9/1r1p1p3/4K4 w",
+    "name": "第030局 国庶兵强 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:02.540Z"
+  },
+  {
+    "fen": "4k1br1/r3aPRN1/2Rab1P1n/8p/6P2/8C/9/9/3p1p3/4K2c1 w",
+    "name": "第031局 兵贵拙速 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:03.443Z"
+  },
+  {
+    "fen": "2bakab2/n6P1/9/1R7/4N4/1C7/9/3ABA3/1N1p1p3/2p1KCrc1 w",
+    "name": "第032局 士马如云 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:04.347Z"
+  },
+  {
+    "fen": "3a1k2C/2R1a2R1/4b3N/8p/2b6/7n1/9/4C3B/3rAr1p1/4KAB1c w",
+    "name": "第033局 计定千里 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:05.247Z"
+  },
+  {
+    "fen": "2b1kaR2/4aR3/3nbP3/3Np4/9/9/4P4/1C2C4/3pAp2r/4KAB1c w",
+    "name": "第034局 忙里偷闲 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:06.158Z"
+  },
+  {
+    "fen": "1Cbaka3/1R7/2n1b4/2N1p4/9/3R5/4P1r2/4C3B/4Ar1n1/2BAK3c w",
+    "name": "第035局 龙翻潭底 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:07.065Z"
+  },
+  {
+    "fen": "4k1b2/4a3n/1C1ab1R2/1NR6/2r1C4/9/9/4BA3/1n1p1p3/c1rAK1N2 w",
+    "name": "第036局 鹤鸣九皋 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:07.967Z"
+  },
+  {
+    "fen": "CR3a3/3ka4/1R2b1P2/4C4/N1b6/9/6P2/4B1n2/2cpAp2r/4KAB1c w",
+    "name": "第037局 损人安己 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:09.107Z"
+  },
+  {
+    "fen": "3ak1bR1/4aP2r/9/2p3pC1/5Pc2/1RB6/7p1/9/5r3/4K4 w",
+    "name": "第038局 百计无由 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:10.067Z"
+  },
+  {
+    "fen": "2bak1b2/4aR2C/6N1n/9/9/9/5c3/4BC3/3p1r1n1/4K2c1 w",
+    "name": "第039局 博望烧屯 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:11.039Z"
+  },
+  {
+    "fen": "2b2a1n1/3k3C1/2Pa5/8C/6b2/9/4c4/2n1R1p2/2r1R1r2/4K4 w",
+    "name": "第040局 决策九重 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:11.947Z"
+  },
+  {
+    "fen": "2bak1b2/3Ra4/2N6/2p6/5R3/2C6/9/9/1r1pA4/4KA1rc w",
+    "name": "第041局 镇压远庭 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:12.859Z"
+  },
+  {
+    "fen": "3ak4/2n1aP3/2P6/6p2/9/6P2/2P6/C1N1BK3/6p2/R1B1r4 w",
+    "name": "第042局 参辰卯酉 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:13.775Z"
+  },
+  {
+    "fen": "C4kbN1/R2Pa4/4ca3/4rNR2/6b2/6c2/9/4C4/4p3r/5K3 w",
+    "name": "第043局 精忠报国 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:14.686Z"
+  },
+  {
+    "fen": "4ka3/3P1R3/5P2b/6P1N/1R4b1c/2n6/8C/5A3/4AK3/1r4r2 w",
+    "name": "第044局 近悦远来 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:15.589Z"
+  },
+  {
+    "fen": "2bak1r2/4aP3/4b4/7N1/9/5C1R1/4p1p2/1cn6/1C1r5/c3K4 w",
+    "name": "第045局 遇水叠桥 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:16.491Z"
+  },
+  {
+    "fen": "3k5/4aN3/2R2a3/5n3/2R6/9/1pP6/B1n1BA1N1/1r2A1p2/c4K3 w",
+    "name": "第046局 远交近攻 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:17.398Z"
+  },
+  {
+    "fen": "1R3a3/2N1ak3/4P4/C2N4p/9/9/4cp3/4B1n1B/4A3r/3AK4 w",
+    "name": "第047局 守边告归 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:18.306Z"
+  },
+  {
+    "fen": "3k1a1n1/4aR3/4b1C2/4C1R2/2b1N4/2B6/2P6/2nrB4/5p3/4K4 w",
+    "name": "第048局 卧薪尝胆 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:36:19.211Z"
+  },
+  {
+    "fen": "2b2a3/1P1k1P3/3a5/9/n1b6/9/9/4RA3/2C1Nr3/2p1KA1rc w",
+    "name": "第049局 独步出营 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:32.617Z"
+  },
+  {
+    "fen": "3N3r1/3R4C/3aka3/6pN1/9/9/4n4/2C6/4p4/5Kc1r w",
+    "name": "第050局 秦鹿方走 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:33.533Z"
+  },
+  {
+    "fen": "R2akab2/3n3P1/1NC1b4/5R3/2p3p2/9/9/5p3/4r3r/5K3 w",
+    "name": "第051局 下车伏谒 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:34.431Z"
+  },
+  {
+    "fen": "3ak3r/4a1R2/b1C1bc3/1N2C3N/9/3p5/2n6/3K5/9/r8 w",
+    "name": "第052局 担雪填井 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:35.342Z"
+  },
+  {
+    "fen": "1n1k1a3/R8/b2ab4/2R6/9/6C2/9/4C4/3pArn1c/4K4 w",
+    "name": "第053局 开窗邀月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:36.263Z"
+  },
+  {
+    "fen": "C7r/3kaP3/b1c1ba3/1R3N3/9/C8/9/9/4p1r2/5K3 w",
+    "name": "第054局 五虎靠山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:37.166Z"
+  },
+  {
+    "fen": "3R4C/3P1P3/4kan2/9/C4PbN1/1n3N3/9/5p3/r3p4/3K5 w",
+    "name": "第055局 背水战胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:38.069Z"
+  },
+  {
+    "fen": "5k3/3PP4/b2Pb4/5P1C1/2c6/3p5/2r6/6p2/4r4/CR1K5 w",
+    "name": "第056局 百川汇海 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:38.975Z"
+  },
+  {
+    "fen": "3ack3/1NR1a1P2/3n2R2/9/2C6/9/9/9/1r2p2r1/3K5 w",
+    "name": "第057局 放弥六合 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:39.877Z"
+  },
+  {
+    "fen": "4kab1r/4a4/4b4/CR2R4/8r/2C6/9/9/c3p4/5K3 w",
+    "name": "第058局 中外二圣 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:40.788Z"
+  },
+  {
+    "fen": "2b1ka1r1/3Pa4/5Rc2/5Nr2/9/9/9/7C1/C2p5/4K4 w",
+    "name": "第059局 变现出没 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:41.698Z"
+  },
+  {
+    "fen": "4k3C/4a4/5P2N/8P/6p2/9/9/B2A3p1/1r1pA4/c3K4 w",
+    "name": "第060局 虎兕出匣 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:42.603Z"
+  },
+  {
+    "fen": "2bk1a3/1R2a2N1/rCc1b4/9/9/9/9/4C2R1/3r1p3/4K4 w",
+    "name": "第061局 群虎争餐 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:43.506Z"
+  },
+  {
+    "fen": "3ak4/4a4/4cc3/1N1r2CRC/9/9/9/3n1R3/r3p4/3K5 w",
+    "name": "第062局 控告无门 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:44.416Z"
+  },
+  {
+    "fen": "3akarr1/1NC2P2C/9/9/R8/9/6p2/4B4/2n1p4/5K3 w",
+    "name": "第063局 头辆舆轮 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:45.319Z"
+  },
+  {
+    "fen": "2b2k3/C3P4/1P2b4/p8/9/9/P7r/c3K4/3C1pp2/3R4c w",
+    "name": "第064局 倒转干戈 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:46.225Z"
+  },
+  {
+    "fen": "2ba1k3/4a4/n3N4/9/9/9/9/3RB1r2/2p2r3/3AK2R1 w",
+    "name": "第065局 推窗望月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:47.131Z"
+  },
+  {
+    "fen": "1rbak3r/1N1Ra4/cR2b1N2/9/9/9/9/9/5p3/4K4 w",
+    "name": "第066局 见危致命 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:48.038Z"
+  },
+  {
+    "fen": "1n1ck3C/2PPa1R2/5a3/9/8N/9/9/3n5/4p2r1/5K3 w",
+    "name": "第067局 凫罗鱼网 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:48.946Z"
+  },
+  {
+    "fen": "2Ck1a3/2R1aR3/9/5N3/r8/r8/9/3C5/4p1n2/3K5 w",
+    "name": "第068局 鸿门碎斗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:50.161Z"
+  },
+  {
+    "fen": "C3kC3/2PRa4/1n5P1/9/9/1N5N1/9/3p5/4r2r1/3K5 w",
+    "name": "第069局 举趾触罝 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:51.060Z"
+  },
+  {
+    "fen": "4k3C/5N1rC/5c3/4p4/4N4/9/9/6n2/2r2p3/3RK4 w",
+    "name": "第070局 鸢飞泪天 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:51.960Z"
+  },
+  {
+    "fen": "C3ka1r1/3Ra4/9/5NR2/9/9/9/9/r2p1pc2/4K4 w",
+    "name": "第071局 触目惊心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:52.865Z"
+  },
+  {
+    "fen": "4kab1N/4a3C/4b4/N8/9/4C4/9/5p3/2n1p4/5K3 w",
+    "name": "第072局 骏骑追风 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:41:53.767Z"
+  },
+  {
+    "fen": "4k4/1R5n1/1N7/9/3P1N3/3r1R3/9/4p4/3r1p3/1c2K4 w",
+    "name": "第073局 鱼跃于渊 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:09.540Z"
+  },
+  {
+    "fen": "2R6/C2Rak3/4b3b/9/1r7/4P4/3p5/9/4rp3/3K5 w",
+    "name": "第074局 登高履险 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:10.455Z"
+  },
+  {
+    "fen": "4rc3/4ak3/9/9/9/9/9/2R6/3pA4/cr1AKC3 w",
+    "name": "第075局 豪帅心服 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:11.377Z"
+  },
+  {
+    "fen": "3a1a3/9/3k5/2P6/3P5/3N2C1C/9/1c3p3/4p4/3n1K3 w",
+    "name": "第076局 莺慵蝶懒 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:12.292Z"
+  },
+  {
+    "fen": "4ka1c1/9/3a5/9/6r1r/9/1RR6/4c4/3p1p3/C3K4 w",
+    "name": "第077局 双蝶翻风 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:13.205Z"
+  },
+  {
+    "fen": "1rC2k3/9/n1R6/9/4N4/9/R3c4/4C4/4rn3/3K5 w",
+    "name": "第078局 翻江搅海 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:14.121Z"
+  },
+  {
+    "fen": "C3ka3/4a2r1/N3b4/3C5/3N5/9/9/5p3/4p4/5K3 w",
+    "name": "第079局 四七并列 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:15.038Z"
+  },
+  {
+    "fen": "1r3a3/9/3ak4/5PR2/9/6C2/9/3pp4/3pp4/5K3 w",
+    "name": "第080局 士卒星散 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:15.953Z"
+  },
+  {
+    "fen": "1rP1k2n1/3R1N3/9/6N2/9/C8/9/5p3/4p4/c4K3 w",
+    "name": "第081局 寻踪觅迹 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:16.869Z"
+  },
+  {
+    "fen": "4k4/4a4/2P5n/5N3/9/5R3/9/9/2p2p2r/C3K4 w",
+    "name": "第082局 祸不单行 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:17.781Z"
+  },
+  {
+    "fen": "2bk5/1R5N1/9/9/9/9/9/5Cr2/r2p1p3/4K2R1 w",
+    "name": "第083局 沉鱼落雁 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:18.687Z"
+  },
+  {
+    "fen": "1C3k3/1N2P4/1nN1b4/9/9/9/9/4p4/3p1p3/4K4 w",
+    "name": "第084局 双蜓点水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:19.988Z"
+  },
+  {
+    "fen": "3ak3C/4aP2n/4R3N/8N/9/9/9/9/2rp1p3/4K4 w",
+    "name": "第085局 骥不称力 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:20.901Z"
+  },
+  {
+    "fen": "4k4/5P3/3P5/9/6b2/9/9/2p3p2/4AK1nr/3A1C3 w",
+    "name": "第086局 运筹决胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:21.825Z"
+  },
+  {
+    "fen": "3a3R1/5kC2/P1P6/9/9/1p7/1r7/3R5/5r3/3K5 w",
+    "name": "第087局 开渠引水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:22.735Z"
+  },
+  {
+    "fen": "4k4/C4R3/9/9/9/5R2P/4r4/4B3B/4p2r1/5K3 w",
+    "name": "第088局 边卒成功 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:23.640Z"
+  },
+  {
+    "fen": "2bak1b2/1n3P3/3a5/4p1p1N/6P1C/2R6/C1R1Pp1n1/3A5/3K2crc/3Ar4 w",
+    "name": "第089局 七雄争霸 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:24.552Z"
+  },
+  {
+    "fen": "3aka3/1R1N5/1c2b1c2/1Np1p1p2/6n2/C6R1/2P1P4/2n1C4/4Ap2r/r2AK4 w",
+    "name": "第090局 骅骝争先 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:25.458Z"
+  },
+  {
+    "fen": "2b1kaR2/3Ra2n1/1n2b4/5N3/2p3p2/1NB3C2/9/4B4/1r1p1r3/c3KC3 w",
+    "name": "第091局 六国抗秦 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:26.679Z"
+  },
+  {
+    "fen": "2bak4/C2Ra4/N3b3R/1C5n1/9/2Bn5/9/B8/c1rp1p3/4Kc3 w",
+    "name": "第092局 五丁凿路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:27.651Z"
+  },
+  {
+    "fen": "3k2b1r/C4R3/P3b4/n2c1R3/9/1N7/9/4BA3/3p1p3/c1BAK4 w",
+    "name": "第093局 鱼骇月钩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:28.557Z"
+  },
+  {
+    "fen": "2baka3/1R7/4b2nn/4R2CN/4N4/9/9/5p3/2rc4r/5K3 w",
+    "name": "第094局 负笈追师 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:29.466Z"
+  },
+  {
+    "fen": "9/1n2ak3/5aP2/3N5/6b2/5r3/1C7/4R1p2/1p3r1p1/1C2K2c1 w",
+    "name": "第095局 英雄贯斗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:30.385Z"
+  },
+  {
+    "fen": "3akc3/4a4/4b1n2/C2RR2N1/4C4/5r3/9/3pB2r1/4p4/3K5 w",
+    "name": "第096局 勇退急流 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:43:31.295Z"
+  },
+  {
+    "fen": "4k3N/3Pn4/4b4/c1p3n1R/4P3r/9/5R3/5C3/2r1p4/5K3 w",
+    "name": "第097局 敌居万人 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:18.746Z"
+  },
+  {
+    "fen": "4ka3/4aN3/9/RC7/2b2Pb2/9/9/4pp3/3nr3r/5K3 w",
+    "name": "第098局 姜公钓渭 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:19.656Z"
+  },
+  {
+    "fen": "c2a1k3/3Ra4/4c1P2/7R1/9/9/9/1C2B4/1r7/2BK5 w",
+    "name": "第099局 偷营劫寨 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:20.567Z"
+  },
+  {
+    "fen": "2r6/4akN2/C3P2c1/1C4P2/7r1/8R/9/5p3/4p4/5K3 w",
+    "name": "第100局 飞黄结路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:21.476Z"
+  },
+  {
+    "fen": "R1bak2CR/5P3/9/9/9/1rB6/9/9/4p3r/5KB2 w",
+    "name": "第101局 震惊百里 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:22.379Z"
+  },
+  {
+    "fen": "3ak4/R3a1P1R/b3b4/1C7/4c4/9/9/9/2r3r2/4K4 w",
+    "name": "第102局 金门待漏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:23.293Z"
+  },
+  {
+    "fen": "3ak3N/4aP3/8R/1rr5N/9/9/9/9/5p3/4K4 w",
+    "name": "第103局 双鹭窥鱼 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:24.209Z"
+  },
+  {
+    "fen": "6b2/1N3k2C/5a3/3R5/9/R8/9/4c1n2/3p5/3AKAr1c w",
+    "name": "第104局 径行自遂 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:25.130Z"
+  },
+  {
+    "fen": "2b1ka3/4a3c/4b4/6n2/7RN/9/9/3CCR3/2rp1p3/4KAr1c w",
+    "name": "第105局 战如烈火 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:26.037Z"
+  },
+  {
+    "fen": "2bak3r/3Ra4/4b4/6P2/7n1/2R3BN1/9/2n1C4/1r7/c3K3C w",
+    "name": "第106局 兵马出塞 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:26.953Z"
+  },
+  {
+    "fen": "1R1c1ab2/5k3/3r1a3/3C5/6b1N/3R5/9/3AB4/2p1p4/3K1N1rc w",
+    "name": "第107局 丹山起凤 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:27.865Z"
+  },
+  {
+    "fen": "2bak4/4aPP2/4b4/3N5/2r1C4/9/9/C2R2nr1/4Ap3/3AK3c w",
+    "name": "第108局 争舟走渡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:28.776Z"
+  },
+  {
+    "fen": "2na1kb1R/2R6/4ba3/4C4/7r1/2C6/4c3P/4B4/4A3p/3AK3c w",
+    "name": "第109局 欲罢不能 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:29.690Z"
+  },
+  {
+    "fen": "3akaP2/9/4bR3/4p3C/7N1/9/3p1p3/4B4/3rAp3/c1BAK4 w",
+    "name": "第110局 料事多中 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:30.607Z"
+  },
+  {
+    "fen": "2b1ka3/3Ra4/1c2b3c/N8/R8/6B2/4C1r2/C8/4Ap1n1/3AK4 w",
+    "name": "第111局 兴戎出好 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:31.522Z"
+  },
+  {
+    "fen": "2bak4/C3a2NR/4b4/9/6p2/1C2c4/9/4B4/1r2A1c2/3RKAr2 w",
+    "name": "第112局 飞鲸吞钓 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:32.445Z"
+  },
+  {
+    "fen": "2b2k3/1R2a1P2/3a5/4p1N2/6b2/9/3nP4/4C1C2/3rAp3/c1nAK4 w",
+    "name": "第113局 威镇四海 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:33.354Z"
+  },
+  {
+    "fen": "2bak2r1/C3a4/1N2b3c/4p2N1/9/2R6/9/2n6/3pA4/c1rAK3R w",
+    "name": "第114局 践履笃实 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:34.270Z"
+  },
+  {
+    "fen": "4k4/3PaR3/4ba3/2NN5/2p1r1b2/9/9/4C4/1nrpA4/c3KAR2 w",
+    "name": "第115局 耕莘待聘 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:35.183Z"
+  },
+  {
+    "fen": "2b1ka3/4a4/b6c1/7N1/2P1p4/1CR1C4/2P6/2n1p1nr1/8R/1rB1K4 w",
+    "name": "第116局 明皇游宫 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:36.090Z"
+  },
+  {
+    "fen": "2b1ka1r1/3Ra4/3Pb4/9/9/1R7/2Pnc4/1C1CB3B/4Ap3/3AK3c w",
+    "name": "第117局 曲突徙薪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:37.005Z"
+  },
+  {
+    "fen": "C4a3/3k4C/2R2a3/2p1pPN2/9/9/2P5P/1cn5B/2p1App2/4KAB2 w",
+    "name": "第118局 多士莫及 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:37.925Z"
+  },
+  {
+    "fen": "4k1C2/3Pa2R1/4baN2/n8/9/9/2p6/3C5/4p1r1r/R4K3 w",
+    "name": "第119局 力敌万人 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:38.840Z"
+  },
+  {
+    "fen": "R2rk4/4nP3/2n1b4/6N2/9/1r2C4/4c4/4B4/3pN4/4KC3 w",
+    "name": "第120局 龟玉毁椟 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:44:39.752Z"
+  },
+  {
+    "fen": "2n1ka3/3RaR3/C3b3N/6N2/6b2/9/9/9/r2p1pr2/4K4 w",
+    "name": "第121局 柳营射猎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:27.426Z"
+  },
+  {
+    "fen": "4kabC1/4a4/4b2N1/5P3/9/9/9/6Cr1/R1pp4r/R3K4 w",
+    "name": "第122局 地富兵强 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:28.337Z"
+  },
+  {
+    "fen": "1Nba1k1n1/7P1/9/1P2R1n2/5rb2/9/9/C3R4/3p1r3/c3K4 w",
+    "name": "第123局 逢山开路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:29.241Z"
+  },
+  {
+    "fen": "3k1ab2/2R3N2/1r1a2R1b/4p4/2p1c1P2/9/N8/9/4r1p2/3K5 w",
+    "name": "第124局 王俭坠车 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:30.162Z"
+  },
+  {
+    "fen": "5k2c/CN2a2R1/4ba3/3R5/9/2N6/9/3AB1n2/3p1p2r/4K4 w",
+    "name": "第125局 五虎下川 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:31.078Z"
+  },
+  {
+    "fen": "2ba2n2/4ak3/4b4/4R4/4N4/9/9/5C3/3rAp3/c1rAK4 w",
+    "name": "第126局 叶落归秋 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:31.989Z"
+  },
+  {
+    "fen": "1c2kar2/3Pa4/N3b4/4C2R1/2b1CR3/9/9/9/5p3/2rnK4 w",
+    "name": "第127局 雪夜访戴 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:32.906Z"
+  },
+  {
+    "fen": "2bak1C2/3Pa1R2/4b1N1N/9/9/9/4Pr3/5C3/3npr3/3K5 w",
+    "name": "第128局 耿恭拜井 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:33.825Z"
+  },
+  {
+    "fen": "2bk1a3/1R2RN3/c3ba3/2n6/9/1C7/9/9/3r1p2r/1Cc1K4 w",
+    "name": "第129局 凿壁偷光 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:34.706Z"
+  },
+  {
+    "fen": "4k3C/c4P3/4N2c1/r6P1/4P2P1/9/4n4/3p5/4p4/3KC2N1 w",
+    "name": "第130局 鸦鹊争巢 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:35.591Z"
+  },
+  {
+    "fen": "2bak3C/2C1aR2n/2n5N/9/7N1/9/9/1r6B/5p2r/3RK4 w",
+    "name": "第131局 入幕之宾 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:36.509Z"
+  },
+  {
+    "fen": "4kab2/1n2a2cC/2R1P3b/3N5/9/9/9/3p4r/r3p4/2RK5 w",
+    "name": "第132局 五霸争雄 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:37.426Z"
+  },
+  {
+    "fen": "2b1kab2/3Pa4/2N3n2/2C1pR1CN/9/9/9/4p4/1r5r1/4K4 w",
+    "name": "第133局 六国争雄 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:38.335Z"
+  },
+  {
+    "fen": "1C1k5/4P4/3N4R/5n2C/9/9/5N3/3ABAr2/1r1p1p3/4K3c w",
+    "name": "第134局 沧海腾蛟 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:39.240Z"
+  },
+  {
+    "fen": "1P3k1n1/4a4/5a1R1/1N2P3N/1C3n3/9/1c7/3p5/r3p4/3K1p3 w",
+    "name": "第135局 竹马迎拜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:40.154Z"
+  },
+  {
+    "fen": "3aka3/3P1n3/NR2b4/1Cp1p1p2/4c2C1/9/9/9/6r1r/5K3 w",
+    "name": "第136局 惊鸿整羽 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:41.132Z"
+  },
+  {
+    "fen": "3k1a1R1/9/2cab4/2n1R4/2b6/4P4/3N5/3CB4/1r1p4r/4K4 w",
+    "name": "第137局 匹马平胡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:42.494Z"
+  },
+  {
+    "fen": "2baka3/3N4C/4b4/1r2PR3/9/9/4c4/2nR3C1/5p2r/4K4 w",
+    "name": "第138局 群雄割据 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:43.468Z"
+  },
+  {
+    "fen": "C4k3/4a4/5a3/9/4N4/1p3RN1c/4c4/2p1C4/1rn4r1/3K1R3 w",
+    "name": "第139局 并驾连驱 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:44.432Z"
+  },
+  {
+    "fen": "4k3c/3Ra1P2/3ab1N2/9/2b6/9/9/3KCR3/1nr1p1r2/5C3 w",
+    "name": "第140局 引龙出水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:45.404Z"
+  },
+  {
+    "fen": "2Pak4/CR2a1P2/4b2R1/9/9/1C7/4c4/9/2nr1p3/1r1cK1B2 w",
+    "name": "第141局 细柳屯兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:46.317Z"
+  },
+  {
+    "fen": "1n2ka3/R3a1P2/1P2b1n1C/5R3/2b1P4/1N7/9/5p3/4r4/3p1K3 w",
+    "name": "第142局 七国连衡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:47.223Z"
+  },
+  {
+    "fen": "2bak1r2/4aP1R1/b3c4/8p/9/2R6/r8/4B2C1/p3A4/4K1B2 w",
+    "name": "第143局 见害必避 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:48.195Z"
+  },
+  {
+    "fen": "2b1ka3/4a4/4b3n/3R1N3/6R2/9/9/3C3C1/1nrpA4/1c2KA3 w",
+    "name": "第144局 清门缵戎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:45:49.164Z"
+  },
+  {
+    "fen": "CnC1k4/9/7P1/4p4/p5p2/6B1r/1R4Pr1/4BAN2/6p2/5K3 w",
+    "name": "第145局 开门待战 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:11.243Z"
+  },
+  {
+    "fen": "3a5/1n1ka4/9/5N3/2P6/C8/R8/B2ABA1r1/3pNp3/rc2K4 w",
+    "name": "第146局 远猎山林 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:12.226Z"
+  },
+  {
+    "fen": "3akaP2/9/1R7/2pNp4/1C4b2/9/9/3NB4/1n1p1p3/4Kcr1c w",
+    "name": "第147局 烧牛凿城 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:13.135Z"
+  },
+  {
+    "fen": "2R6/C2Rak3/4ba2b/P8/1r7/9/2p1p4/3An1p2/3KA4/2r6 w",
+    "name": "第148局 拨乱反正 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:14.042Z"
+  },
+  {
+    "fen": "4R4/3ca4/4ka3/5P3/C1b2R3/9/4P4/3AB1n1r/3p1p3/2N1K4 w",
+    "name": "第149局 腾蛟起凤 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:14.966Z"
+  },
+  {
+    "fen": "3aka2R/1R7/c1P2P3/2P1rr3/2N5C/7C1/9/3p5/4p4/1p1K5 w",
+    "name": "第150局 吕帅鹰扬 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:15.879Z"
+  },
+  {
+    "fen": "3ak1b2/2P2P3/3ac2P1/9/1R7/C5N2/9/3p1A1C1/4p2r1/5K3 w",
+    "name": "第151局 虏马饮江 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:16.804Z"
+  },
+  {
+    "fen": "3akabr1/1R3P3/9/9/2C6/4N4/9/4p4/2nn2r2/1R2K4 w",
+    "name": "第152局 江心下钓 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:17.719Z"
+  },
+  {
+    "fen": "N2k1a3/5P3/3a5/9/9/9/9/C3RA3/4Nr3/2p1K1pnc w",
+    "name": "第153局 死敌为忠 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:18.627Z"
+  },
+  {
+    "fen": "3a1k2C/3ra4/4b4/9/6b1N/6cR1/9/3n5/4r4/3K2cR1 w",
+    "name": "第154局 外攘四夷 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:19.532Z"
+  },
+  {
+    "fen": "2b1ka2N/6R2/bR7/9/1C2r3C/9/9/9/c1r3p2/c2K5 w",
+    "name": "第155局 足蹑天窟 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:20.442Z"
+  },
+  {
+    "fen": "3k5/1PR1a4/2Nab3b/6C2/9/4n4/9/9/2cp5/1rc1K2R1 w",
+    "name": "第156局 三献刖足 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:21.359Z"
+  },
+  {
+    "fen": "2bak4/4a4/4b4/N4CN1R/9/9/3n5/9/2p1AK3/c2A2r2 w",
+    "name": "第157局 指鹿道马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:22.282Z"
+  },
+  {
+    "fen": "C3kab2/4a4/N3b4/2N6/9/3C5/9/3A2r2/3K3c1/3A2n1c w",
+    "name": "第158局 暴虎凭河 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:23.191Z"
+  },
+  {
+    "fen": "3ak4/4a4/4b4/6N2/9/3rC4/4c4/4BR2C/1n1rA4/4KA3 w",
+    "name": "第159局 前后绝伦 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:24.104Z"
+  },
+  {
+    "fen": "3cka1n1/3Ra4/3nb4/7N1/9/6C2/9/9/2r2p2r/1R2K4 w",
+    "name": "第160局 倚闾望子 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:25.011Z"
+  },
+  {
+    "fen": "9/3k5/R2abN2C/C3P4/2b6/9/9/4p4/2r6/cr1AK4 w",
+    "name": "第161局 远害全身 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:25.925Z"
+  },
+  {
+    "fen": "2bakab2/5RP2/7P1/2N6/9/9/9/4Cp2C/r3p4/5K3 w",
+    "name": "第162局 朱云折槛 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:26.842Z"
+  },
+  {
+    "fen": "c4a3/1r1kaP2C/b1R1b2c1/4CN3/9/9/9/9/4p3r/5K3 w",
+    "name": "第163局 选将练兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:27.762Z"
+  },
+  {
+    "fen": "3a1k3/2R1a4/3cb1n2/1C2N4/2b1C3R/9/9/9/r1r2p3/4K4 w",
+    "name": "第164局 凿壁偷光 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:28.678Z"
+  },
+  {
+    "fen": "3k1n3/1R3R1n1/b3b4/3P5/9/9/9/4B1CC1/3ppcr2/5K3 w",
+    "name": "第165局 遇水叠桥 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:29.591Z"
+  },
+  {
+    "fen": "4ka3/2R1aR3/3cb4/9/3N5/9/9/C3C4/3p1pnr1/4K4 w",
+    "name": "第166局 立倾敌国 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:30.503Z"
+  },
+  {
+    "fen": "2b1ka3/1R2a1P2/4b4/5R2C/4N4/4n4/9/4p4/1r5r1/4K4 w",
+    "name": "第167局 功成略地 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:31.404Z"
+  },
+  {
+    "fen": "3ak4/3ra3R/9/9/9/1r2P1C2/5NP2/6n2/3p1p3/4K2R1 w",
+    "name": "第168局 疾如激电 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:47:32.305Z"
+  },
+  {
+    "fen": "2b1R2c1/R3a4/1n2kaN2/4p4/2bP5/6C2/9/9/3r1r3/4K4 w",
+    "name": "第169局 阴陵失道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:23.352Z"
+  },
+  {
+    "fen": "6b2/3PR1P1c/3P1k3/7c1/2b3p2/2N6/9/2C6/3p1r3/4K4 w",
+    "name": "第170局 面缚自首 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:24.255Z"
+  },
+  {
+    "fen": "3k3C1/2P6/4cN3/9/9/9/4P4/4Bp3/1rrnA2R1/5K1p1 w",
+    "name": "第171局 赢缩无常 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:25.156Z"
+  },
+  {
+    "fen": "3a1k2C/4a3N/5c3/5P3/9/9/9/6p2/1n1p5/2p1KAC1c w",
+    "name": "第172局 动行网罗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:26.053Z"
+  },
+  {
+    "fen": "4ka3/4aR3/4N4/4p4/9/9/4P4/4C4/c1nrAR3/4KA3 w",
+    "name": "第173局 水枯见鱼 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:26.964Z"
+  },
+  {
+    "fen": "2b1ka3/3Pa4/4b1c2/6RC1/3R2c2/8C/9/2n6/3p3r1/4K4 w",
+    "name": "第174局 三气周瑜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:27.895Z"
+  },
+  {
+    "fen": "C2R4c/5k3/b2a1N2b/2R6/9/9/9/4p4/3nr1p2/c4K2C w",
+    "name": "第175局 四面旋绕 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:28.834Z"
+  },
+  {
+    "fen": "6RNr/5k3/4ba3/9/9/9/9/2R1p4/3pAr3/4K4 w",
+    "name": "第176局 送往迎来 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:29.752Z"
+  },
+  {
+    "fen": "3k5/8C/9/p6R1/7R1/9/9/4B4/r2rA4/4KAB2 w",
+    "name": "第177局 声势相倚 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:30.664Z"
+  },
+  {
+    "fen": "4ka3/3RaP1n1/6R2/9/4P4/6C2/9/9/2rrp4/c4K3 w",
+    "name": "第178局 黾勉同心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:31.580Z"
+  },
+  {
+    "fen": "2C6/5k3/bP1Nn1R1n/1r7/6R2/9/5c3/3p5/4p4/3K5 w",
+    "name": "第179局 边烽惊虏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:32.490Z"
+  },
+  {
+    "fen": "3k5/2R6/3a1nN2/9/9/9/9/5R3/1n1r1C3/2c1KcrN1 w",
+    "name": "第180局 暮鸟投林 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:33.428Z"
+  },
+  {
+    "fen": "2bakab2/7r1/9/3N5/9/8C/9/3RB4/4pcn2/3K5 w",
+    "name": "第181局 海底诛龙 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:34.349Z"
+  },
+  {
+    "fen": "2baka3/9/4c1R2/6N2/8C/9/9/4B1r2/4pp3/2BK5 w",
+    "name": "第182局 投肉馁虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:35.253Z"
+  },
+  {
+    "fen": "c3k3C/2P6/1P6b/9/9/2C6/9/3RBr3/1p2r4/2BK5 w",
+    "name": "第183局 远遁边境 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:36.163Z"
+  },
+  {
+    "fen": "C2k5/4P4/r2cb1N1b/8C/6r2/9/9/6p2/4p4/5K1R1 w",
+    "name": "第184局 蛇龙混海 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:37.079Z"
+  },
+  {
+    "fen": "5k1n1/c3a4/5aR1b/6N2/2r5C/9/9/9/3p1p3/4K1R2 w",
+    "name": "第185局 酸毒道路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:37.994Z"
+  },
+  {
+    "fen": "2b6/1C2k4/n3bR3/6N2/9/9/9/1R7/3p2rr1/1C2K3c w",
+    "name": "第186局 宿鸟惊弹 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:38.896Z"
+  },
+  {
+    "fen": "3a1k3/RC1cc4/r2a5/2N6/9/9/9/5p3/4p2r1/5K2R w",
+    "name": "第187局 萤惑退舍 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:39.803Z"
+  },
+  {
+    "fen": "2bak3C/4a4/2P1b4/6RR1/9/9/9/9/c1nr1p3/4K4 w",
+    "name": "第188局 载沉载浮 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:40.706Z"
+  },
+  {
+    "fen": "3a1k3/4a1R2/4brN2/1N7/9/9/9/1C4p2/3p4p/4K3C w",
+    "name": "第189局 闭门扫轨 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:41.622Z"
+  },
+  {
+    "fen": "3k1a3/1NR2n3/3a5/1r4CC1/2b6/9/9/9/1c1p3r1/4K4 w",
+    "name": "第191局 劳问将士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:42.521Z"
+  },
+  {
+    "fen": "2bak3C/4aP2N/4b4/5C3/9/9/9/3p5/4p2r1/3K5 w",
+    "name": "第192局 两地关心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:43.428Z"
+  },
+  {
+    "fen": "2ba1k3/4a4/4b3R/9/8R/9/9/3A2n2/3pA1r2/4K2c1 w",
+    "name": "第193局 同功并位 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:48:44.322Z"
+  },
+  {
+    "fen": "3a1a3/3k3c1/1n2RN3/5r3/8R/9/2n6/9/3r1p3/2c1K4 w",
+    "name": "第194局 步设陷阱 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:32.629Z"
+  },
+  {
+    "fen": "2bk1a3/9/3a5/7N1/9/9/C7C/1p7/1np2p1r1/4K4 w",
+    "name": "第195局 盐车困骥 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:33.541Z"
+  },
+  {
+    "fen": "2ba1kb2/1P2a1R2/3cnrN2/C8/9/9/9/9/4p4/3K5 w",
+    "name": "第196局 雪拥蓝关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:34.449Z"
+  },
+  {
+    "fen": "2bk4C/9/3a5/5cN2/9/9/8P/6n1B/2r6/1R2KA2r w",
+    "name": "第197局 投命仇门 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:35.397Z"
+  },
+  {
+    "fen": "4kC3/3RaP3/3C2n1c/Nr1R5/9/9/9/4p4/6r2/4K4 w",
+    "name": "第198局 惊鸟藏枝 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:36.327Z"
+  },
+  {
+    "fen": "5k3/3Pa2R1/4ba2b/4C4/4N4/9/4c4/9/5p3/1r1nK4 w",
+    "name": "第199局 雕鹰捉兔 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:37.241Z"
+  },
+  {
+    "fen": "3a1k3/R3a4/4b1P2/3R4C/9/4C1N2/r8/9/2r1p4/3K5 w",
+    "name": "第200局 落花流水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:38.156Z"
+  },
+  {
+    "fen": "3ak1P1P/4a4/9/9/4p3C/c3C1R2/9/5p3/2rp5/4K1R2 w",
+    "name": "第201局 三请诸葛 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:39.057Z"
+  },
+  {
+    "fen": "3ak1b2/9/4ba3/5R1N1/3r5/9/4c4/2r1B2R1/4A4/4KA3 w",
+    "name": "第202局 行监坐守 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:39.962Z"
+  },
+  {
+    "fen": "9/4a4/3k1a3/1NP1p4/9/8C/4P4/cr1AKA3/5r3/2n6 w",
+    "name": "第203局 远近惊骇 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:40.882Z"
+  },
+  {
+    "fen": "R1C6/2P6/b2ak4/6P2/6b2/6B2/9/c4K2n/9/2rR2r2 w",
+    "name": "第204局 雷震八荒 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:41.800Z"
+  },
+  {
+    "fen": "3aka3/9/4b2Rc/4P2N1/6b2/7C1/9/9/2nrA4/4KA3 w",
+    "name": "第205局 四畏廉名 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:42.708Z"
+  },
+  {
+    "fen": "9/4a4/4ka3/1NP1p4/9/9/8C/1p2KA1rc/2c1A4/5p3 w",
+    "name": "第206局 孤星坠地 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:43.606Z"
+  },
+  {
+    "fen": "2ba1k3/2P6/1n1a5/4C1N1R/1n5Cr/9/9/3p5/4p4/3K5 w",
+    "name": "第207局 菱叶穿萍 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:44.511Z"
+  },
+  {
+    "fen": "2ba5/4a4/1P1k5/R7N/C8/6B2/9/2n1B4/5pr2/4K3c w",
+    "name": "第208局 用兵最精 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:45.428Z"
+  },
+  {
+    "fen": "4ka3/3Rn4/4b1r2/N1p6/1nP6/9/9/3C5/5r1p1/4K3c w",
+    "name": "第209局 叁参见佛 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:46.337Z"
+  },
+  {
+    "fen": "Nr2kc3/4a3n/2R3n2/4RN3/9/9/7C1/9/3p1pr2/4K4 w",
+    "name": "第210局 士马如云 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:47.241Z"
+  },
+  {
+    "fen": "r4Rb2/4k2C1/4b4/9/1N7/1r6R/9/4n4/3p1p3/4K3C w",
+    "name": "第211局 晚鸟争枝 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:48.143Z"
+  },
+  {
+    "fen": "1R3a3/3k3C1/3a4b/6pN1/9/9/4n3c/5p2C/4r4/5K3 w",
+    "name": "第212局 雁惊云网 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:49.062Z"
+  },
+  {
+    "fen": "3ak4/4a4/b1C1b4/9/6N1R/9/9/5p3/r3p4/3p1K1R1 w",
+    "name": "第213局 投石入水 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:49.979Z"
+  },
+  {
+    "fen": "r2aka3/7rC/1R2b4/3N5/9/9/9/p7B/5pp2/4K4 w",
+    "name": "第214局 阻住行程 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:50.894Z"
+  },
+  {
+    "fen": "5a3/4k4/4b4/6N2/6b2/9/2nR5/2rC4C/4p4/3K1c2r w",
+    "name": "第215局 猛虎出林 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:51.805Z"
+  },
+  {
+    "fen": "2bak3C/3ra4/4c3b/7R1/9/9/9/3A5/r3p4/3K2R2 w",
+    "name": "第216局 载沉载浮 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:52.711Z"
+  },
+  {
+    "fen": "3ak4/3naP1C1/8R/P8/9/9/9/1rp1B4/4p4/3K5 w",
+    "name": "第217局 勇退急流 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:49:53.623Z"
+  },
+  {
+    "fen": "r2aka3/3P5/8R/4r3C/6C2/6R2/9/3p5/4p4/3K1p3 w",
+    "name": "第218局 路隔星河 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:37.247Z"
+  },
+  {
+    "fen": "cc1a1k3/3Pa1R2/5rNr1/9/6R2/9/9/9/3p5/3AK4 w",
+    "name": "第219局 屈突徒薪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:38.155Z"
+  },
+  {
+    "fen": "1r2ka3/2P1a2P1/n3N4/4R4/6N2/9/9/9/5pc2/c3K4 w",
+    "name": "第220局 攀辕卧辙 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:39.062Z"
+  },
+  {
+    "fen": "R4a1C1/3ka4/8b/7N1/6b2/1r7/9/2C6/4p3r/c4K3 w",
+    "name": "第221局 野马舞风 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:39.972Z"
+  },
+  {
+    "fen": "1R1a3r1/1C1cak3/2N6/5r3/1R7/9/9/5n3/C3p4/3K5 w",
+    "name": "第222局 鱼游浅濑 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:40.883Z"
+  },
+  {
+    "fen": "3akr3/R4r2C/3a5/9/9/9/9/6n2/C2pA4/1R2K4 w",
+    "name": "第223局 军中烈士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:41.791Z"
+  },
+  {
+    "fen": "3a1k3/1Nc1a1R2/5rN2/9/9/9/9/9/3p5/4K1Rrc w",
+    "name": "第224局 随形助胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:42.695Z"
+  },
+  {
+    "fen": "3k5/1R2n1P2/2R1b4/9/r2P5/7N1/9/9/4r3C/3K5 w",
+    "name": "第225局 循序渐进 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:43.604Z"
+  },
+  {
+    "fen": "4k4/4a4/4Pa3/4p1pCR/3N5/9/9/5p3/6r2/5K3 w",
+    "name": "第226局 脱网逢钩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:44.508Z"
+  },
+  {
+    "fen": "9/9/3ak1P2/5PR2/6C2/9/9/9/nr2p1pp1/R4K3 w",
+    "name": "第227局 流星赶月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:45.444Z"
+  },
+  {
+    "fen": "4k1b2/4aPN2/5a3/9/N8/6C2/4c4/9/2nr1p3/4K4 w",
+    "name": "第228局 游鱼吞钩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:46.388Z"
+  },
+  {
+    "fen": "2bakcb2/4a4/9/2N6/1C7/3R5/4R4/4K4/5r3/2n2r3 w",
+    "name": "第229局 猛虎入山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:47.308Z"
+  },
+  {
+    "fen": "2bak1b2/4aR3/9/3NR4/9/9/9/6n2/r2r1p3/4K4 w",
+    "name": "第230局 胡骑迫背 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:48.269Z"
+  },
+  {
+    "fen": "5a3/3ka4/2Ncb4/9/9/C8/9/3R3r1/3pAp3/4K4 w",
+    "name": "第231局 用舍相碍 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:49.217Z"
+  },
+  {
+    "fen": "4k4/3RaP3/n3Na3/8C/9/9/6r2/5p3/4p4/R4K3 w",
+    "name": "第232局 望尘遮道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:50.158Z"
+  },
+  {
+    "fen": "n4k3/1R7/3a5/2N6/9/2C5R/5n3/9/r4cp1r/4K4 w",
+    "name": "第233局 停车绊马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:51.089Z"
+  },
+  {
+    "fen": "2bk5/r3aR3/n1r1b4/9/9/6R2/9/3n5/4p4/1C3K3 w",
+    "name": "第234局 居中反祸 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:51.996Z"
+  },
+  {
+    "fen": "3ak1b2/4a1P2/4b4/5N3/R3C1p2/9/9/5n3/4r4/3K5 w",
+    "name": "第235局 勒马停骖 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:52.911Z"
+  },
+  {
+    "fen": "2b1k1b2/3Ra4/2r2a2r/6R2/4P4/7C1/9/9/4p4/5K3 w",
+    "name": "第236局 怀春育孕 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:53.824Z"
+  },
+  {
+    "fen": "5a1C1/3ka4/4b4/7N1/1Rb6/9/9/5n3/2r1p4/c4K3 w",
+    "name": "第237局 长鲸授首 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:54.728Z"
+  },
+  {
+    "fen": "3akab2/2r6/4b4/2C4N1/9/9/9/1p3p3/4p4/3K3R1 w",
+    "name": "第238局 子胥过关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:55.644Z"
+  },
+  {
+    "fen": "4kab2/5P3/4b1n2/1N1N5/9/1n4C2/9/3p5/4p4/3K5 w",
+    "name": "第239局 弃短取长 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:56.549Z"
+  },
+  {
+    "fen": "2b2a3/C3a4/3kb4/9/9/5RN2/9/1C7/r2r1p3/4K4 w",
+    "name": "第240局 凭马渡江 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:57.462Z"
+  },
+  {
+    "fen": "3aka3/6P2/9/6P2/6n1C/7R1/9/1r3p3/4p2C1/5K3 w",
+    "name": "第241局 鱼游釜甑 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:50:58.378Z"
+  },
+  {
+    "fen": "3r1k3/C5P2/b4a3/CR2R4/9/9/9/2n6/5pr2/4K4 w",
+    "name": "第242局 明修栈道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:43.117Z"
+  },
+  {
+    "fen": "1R1a5/2P1k4/1n2b4/4c4/9/9/9/2C5R/4r1r2/5K3 w",
+    "name": "第243局 祸生肘腋 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:44.029Z"
+  },
+  {
+    "fen": "2ba1k3/4a4/9/9/9/4R4/3r5/2C1B4/3r5/2B1K3R w",
+    "name": "第244局 苍舒称象 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:44.944Z"
+  },
+  {
+    "fen": "3k1a3/4a4/4P4/9/6C2/9/9/2R1B1r2/5p1p1/3AK4 w",
+    "name": "第245局 困魏掣燕 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:45.840Z"
+  },
+  {
+    "fen": "3k5/2P1a4/c8/1r3N3/6b2/9/5RP2/C8/4p4/5K3 w",
+    "name": "第246局 伏虎降龙 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:46.746Z"
+  },
+  {
+    "fen": "6R2/5k3/5a3/5R3/6p2/9/9/4rC2B/2n6/5KBr1 w",
+    "name": "第247局 同心赞政 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:47.659Z"
+  },
+  {
+    "fen": "9/9/3ak4/9/4P4/9/6R1P/r2AB4/2r6/3K4R w",
+    "name": "第248局 开拓心胸 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:48.570Z"
+  },
+  {
+    "fen": "6c2/5k3/1N2b4/4C4/2b2C3/3R5/9/6n2/7r1/4K3c w",
+    "name": "第249局 雁阵排空 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:49.480Z"
+  },
+  {
+    "fen": "2rak1C2/5R3/3a5/6N2/9/9/9/r3C4/4p4/3K4R w",
+    "name": "第250局 惊心破胆 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:50.396Z"
+  },
+  {
+    "fen": "4ka3/4a4/3n5/3N5/9/C1R6/2R6/4n1r2/3p5/4K4 w",
+    "name": "第251局 诱虎吞钩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:51.311Z"
+  },
+  {
+    "fen": "3a1kb2/4a4/4b4/5NN2/9/9/9/8C/3r4c/4K1n2 w",
+    "name": "第252局 二龙绕室 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:52.224Z"
+  },
+  {
+    "fen": "3a3nC/1R4c2/2C1k2r1/9/9/r6N1/9/9/4p4/3K5 w",
+    "name": "第253局 毙马仆途 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:53.128Z"
+  },
+  {
+    "fen": "3k5/2R6/9/9/9/9/9/3ppp3/2Rp5/2B1K4 w",
+    "name": "第254局 历诛四寇 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:54.030Z"
+  },
+  {
+    "fen": "4k4/C8/3R5/9/9/9/9/3RB1n2/1r2r4/3K5 w",
+    "name": "第255局 车行同轨 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:54.940Z"
+  },
+  {
+    "fen": "6b2/9/3k4C/4P4/9/9/9/4R4/3r1p3/4K1B2 w",
+    "name": "第256局 挡住英雄 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:55.841Z"
+  },
+  {
+    "fen": "3ak4/4a2P1/2R6/9/9/9/9/5A3/3R1pr2/4K4 w",
+    "name": "第257局 独夫当关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:56.740Z"
+  },
+  {
+    "fen": "3k5/9/9/8p/9/2R3B1r/9/4BA3/6r2/2R2K3 w",
+    "name": "第258局 阴持两端 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:57.967Z"
+  },
+  {
+    "fen": "3k5/4R4/4b3R/2r1p4/9/7C1/9/9/5pr2/4K4 w",
+    "name": "第259局 直造竹所 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:58.881Z"
+  },
+  {
+    "fen": "9/9/R2ak1P2/2rN5/9/9/1C7/4rn3/3K5/9 w",
+    "name": "第260局 金创满身 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:51:59.803Z"
+  },
+  {
+    "fen": "2Pa5/1r2a2R1/4k4/9/4N4/9/9/3p1n3/9/3K5 w",
+    "name": "第261局 不服自老 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:00.720Z"
+  },
+  {
+    "fen": "4k4/4a3R/4Pa3/7C1/4p4/9/9/2r6/5r3/3K5 w",
+    "name": "第262局 增补隘口 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:01.635Z"
+  },
+  {
+    "fen": "6b2/1N1R5/5k3/9/9/9/9/4p4/2Rp1p2r/4K4 w",
+    "name": "第263局 跃鲤吞饵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:02.555Z"
+  },
+  {
+    "fen": "2b1k4/2P6/3Rn1P2/9/4r4/9/9/3R5/4r4/3K5 w",
+    "name": "第264局 巅峰得路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:03.473Z"
+  },
+  {
+    "fen": "3k1a3/9/3a5/3rRN2C/9/9/9/6n2/5r3/4K4 w",
+    "name": "第265局 入穴取虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:04.387Z"
+  },
+  {
+    "fen": "3C1a1c1/9/C2kbN3/4P4/9/9/9/9/r4p3/4K4 w",
+    "name": "第266局 脱网逢钩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:47.138Z"
+  },
+  {
+    "fen": "9/4ak3/5a3/6P2/7r1/1r7/9/C2RR4/5p3/4K4 w",
+    "name": "第267局 直穷到底 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:48.057Z"
+  },
+  {
+    "fen": "1c2k1C2/c4P3/5a3/9/9/9/9/7R1/3rp4/5K1C1 w",
+    "name": "第268局 投躯帝廷 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:48.967Z"
+  },
+  {
+    "fen": "N2k1ab2/2R1a4/2R6/9/9/5r3/9/5n3/4r4/5K3 w",
+    "name": "第269局 杨香跨虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:49.888Z"
+  },
+  {
+    "fen": "3a1k3/c2P5/2r2a3/6N2/9/6R2/9/4C4/4r4/5K3 w",
+    "name": "第270局 吐胆倾心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:50.803Z"
+  },
+  {
+    "fen": "3k1aP2/8C/5a3/4R1N2/9/9/9/6n2/3r1p3/4K4 w",
+    "name": "第271局 赤心报国 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:51.720Z"
+  },
+  {
+    "fen": "9/r2k5/1R1ab4/3N5/2b6/1C7/9/3n1p3/9/5K3 w",
+    "name": "第272局 舍命如归 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:52.636Z"
+  },
+  {
+    "fen": "3k1a3/nPR1a4/2Nr5/9/9/9/9/9/5r3/2c1K4 w",
+    "name": "第273局 辎重塞途 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:53.626Z"
+  },
+  {
+    "fen": "2raka3/9/9/4C1NRp/9/9/9/5p3/3p5/4K4 w",
+    "name": "第274局 打草惊蛇 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:54.538Z"
+  },
+  {
+    "fen": "1c1k5/4R4/4N4/4rC3/9/6Rr1/9/6C2/4p4/5K3 w",
+    "name": "第275局 路车乘马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:55.450Z"
+  },
+  {
+    "fen": "5k3/9/1P7/7NN/9/8C/9/3p5/r3p4/3K5 w",
+    "name": "第276局 双骑追敌 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:56.375Z"
+  },
+  {
+    "fen": "5k3/8P/4ra3/9/9/9/9/5R1R1/4r4/5K3 w",
+    "name": "第277局 异地同心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:57.303Z"
+  },
+  {
+    "fen": "3ak1b1r/4a2Pn/4b4/4C4/9/9/cR7/n8/4A1p2/3AKC3 w",
+    "name": "第278局 火炎昆岗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:58.222Z"
+  },
+  {
+    "fen": "3ak4/1C2aR3/2n1c4/7N1/9/7R1/9/4C4/4A1rnr/3AK3c w",
+    "name": "第279局 将机就机 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:52:59.134Z"
+  },
+  {
+    "fen": "3ak4/4aR3/n3N4/4P4/2b6/8C/4c4/N3B1n2/1r2A4/3RKAr2 w",
+    "name": "第280局 诳楚救主 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:00.053Z"
+  },
+  {
+    "fen": "4ka3/4aR3/4N1C1b/c1p1p4/9/9/2N1P1R2/5C3/r1rp5/5K3 w",
+    "name": "第281局 前后一辙 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:00.973Z"
+  },
+  {
+    "fen": "1r1akab2/5R3/4b1n2/7N1/9/2B6/2r1P4/B2RC4/3KA4/c8 w",
+    "name": "第282局 一举而定 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:01.885Z"
+  },
+  {
+    "fen": "4ka3/R3a4/b2rb4/4P2N1/9/9/9/3Ap4/4pp3/1R1K1A3 w",
+    "name": "第283局 肉钽负荆 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:02.803Z"
+  },
+  {
+    "fen": "r4k3/4a1P2/1n3a3/4N4/9/9/9/4C4/4p4/2BK5 w",
+    "name": "第284局 一骑困魏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:03.723Z"
+  },
+  {
+    "fen": "3k3r1/4a4/3a5/6N2/9/9/9/4C4/4p2c1/2BR1K3 w",
+    "name": "第285局 野马诱虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:04.640Z"
+  },
+  {
+    "fen": "2bk1a2r/4an3/cR2b3N/p3CR3/1C2p1P2/9/4Pp2P/2c1B4/3pr4/2B2K3 w",
+    "name": "第286局 夺马驱敌 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:05.552Z"
+  },
+  {
+    "fen": "1nb1kab1r/3Ra4/3cc1n2/C1N1p1pR1/9/3N1p3/4Pp3/4C3B/4r2p1/5K3 w",
+    "name": "第287局 敛手削地 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:06.473Z"
+  },
+  {
+    "fen": "2ba1kbRC/3Ra4/9/2pPp4/3Nc4/9/4P4/3pB1N2/r2pA4/c3KAB2 w",
+    "name": "第288局 汗马功劳 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:07.388Z"
+  },
+  {
+    "fen": "2bak4/r2PaRR2/1n2N3b/4p1n2/9/9/9/4C4/2p1App2/2B1KAB1c w",
+    "name": "第289局 莘野邀汤 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:08.303Z"
+  },
+  {
+    "fen": "3ak1Cnr/2P4Rn/3a5/9/9/C8/9/2p1B4/4rp3/3K5 w",
+    "name": "第290局 城门失火 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:57.740Z"
+  },
+  {
+    "fen": "r1P1k4/5P3/9/1c7/9/2N6/9/9/2p3p2/1p1KCN1rc w",
+    "name": "第291局 丹山起凤 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:58.662Z"
+  },
+  {
+    "fen": "1n1ak1br1/1r2aR3/4R3c/9/9/9/9/1C2B2Cp/4A4/3AK3c w",
+    "name": "第292局 两虎共斗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:53:59.575Z"
+  },
+  {
+    "fen": "4ka2R/3na4/2rcb3n/1R3N1NC/2b4P1/9/9/6pr1/7p1/5K3 w",
+    "name": "第293局 勤劳一纪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:00.497Z"
+  },
+  {
+    "fen": "5a3/3k1P3/2P1ban2/1N7/2b6/9/P5p2/4B4/3pr4/c1BA1K1R1 w",
+    "name": "第294局 济弱扶倾 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:01.411Z"
+  },
+  {
+    "fen": "6b2/4ak1C1/2N2aR2/4P4/2b6/9/8P/4B1p1r/r3Ap3/3AK3c w",
+    "name": "第295局 绕江撒网 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:02.326Z"
+  },
+  {
+    "fen": "C1b6/1RCka4/5a3/p1p1p4/2b6/9/P1P1P4/9/c3p2p1/5K1c1 w",
+    "name": "第296局 鸮立中天 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:03.238Z"
+  },
+  {
+    "fen": "3ak4/2PPa4/b3b4/2p1C1N2/3c5/1rB6/9/3p5/4p2p1/1CB2K3 w",
+    "name": "第297局 虎帐谈兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:04.163Z"
+  },
+  {
+    "fen": "r2k1a3/3na1R2/3cb1c2/3N1R3/6P2/3C5/9/B4p2B/2p3r2/4K4 w",
+    "name": "第298局 参前倚衡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:05.068Z"
+  },
+  {
+    "fen": "2ba1k3/2rPa4/R3b4/4cP1C1/2p6/9/3rP4/4B4/3pp4/2B2K1R1 w",
+    "name": "第299局 陈桥兵变 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:05.988Z"
+  },
+  {
+    "fen": "4kabn1/R3a4/4b1P1r/p8/9/2P6/8P/1R1pBC3/2r3p2/3AKABc1 w",
+    "name": "第300局 手探月窟 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:06.904Z"
+  },
+  {
+    "fen": "3ak1b2/4a4/4b3n/2R1C1pCp/5R3/2Bn5/9/4BA3/6rcc/3AK4 w",
+    "name": "第301局 蹇驽卧道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:07.822Z"
+  },
+  {
+    "fen": "2bnk3C/1P2a4/3ab4/2p3N2/4C4/2P6/9/B1p1B4/c2pA1p2/c3KA3 w",
+    "name": "第302局 板筑隐贤 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:08.736Z"
+  },
+  {
+    "fen": "2bak1r2/3Pa4/4bc3/N6R1/p8/3R2B2/4P1n2/2C6/2r3p2/c1BAK4 w",
+    "name": "第303局 雌鸡化雄 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:09.652Z"
+  },
+  {
+    "fen": "2baR1cNC/R8/5k3/8p/3r1n3/2p6/P1P5P/4C3B/2p1A1r1c/4KA3 w",
+    "name": "第304局 众星拱月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:10.567Z"
+  },
+  {
+    "fen": "3ak4/2P1aP3/8N/9/4P4/3p5/8P/4Bp2n/2p1N4/3K1A3 w",
+    "name": "第305局 轻兵锐卒 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:11.491Z"
+  },
+  {
+    "fen": "2bak3C/4a2P1/6N1b/2C5p/9/9/P7n/2p1B4/4pp3/3K5 w",
+    "name": "第306局 拔去病根 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:12.401Z"
+  },
+  {
+    "fen": "C2k2b1c/4a4/b2a2N2/2R3p2/2p3n2/9/9/5A2r/4AKn2/9 w",
+    "name": "第307局 宽一步胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:13.461Z"
+  },
+  {
+    "fen": "1P1ak1b2/4a4/4b4/6p2/2N4N1/1C2C4/6P2/r2ppp3/9/c3K4 w",
+    "name": "第308局 三军联位 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:14.440Z"
+  },
+  {
+    "fen": "3ak4/4a4/4b4/9/2b4R1/1N5n1/5p1r1/3RB4/2p1r4/2B2K1c1 w",
+    "name": "第309局 有家难奔 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:15.354Z"
+  },
+  {
+    "fen": "3k1ab2/2R1aP3/2n1b3r/9/5R3/9/3r5/N3B4/4AC3/4K3c w",
+    "name": "第310局 金鸡抱卵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:16.267Z"
+  },
+  {
+    "fen": "1r1n2b2/4k4/rN2b1P1n/6p1p/9/3R3C1/9/5A3/p4pc2/4K4 w",
+    "name": "第311局 深入远岛 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:17.186Z"
+  },
+  {
+    "fen": "3ak4/4a4/b3b3P/9/4N2R1/9/2p6/1p1AB4/3KA4/n3r1B2 w",
+    "name": "第312局 马跳澶溪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:18.110Z"
+  },
+  {
+    "fen": "4kab2/4a1RCr/4b3n/2pRN4/4N4/4P4/5p3/9/3pr4/5K3 w",
+    "name": "第313局 堵塞要路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:54:19.022Z"
+  },
+  {
+    "fen": "3a1kb2/4a1P2/4b4/5N3/9/P7C/6P2/4B4/r2pA4/c3KAB2 w",
+    "name": "第314局 三将夺关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:10.119Z"
+  },
+  {
+    "fen": "2ba1kbRC/2N1a4/9/4p4/4c1p2/9/9/1p2B1r2/4r1n2/3K2B2 w",
+    "name": "第315局 渴骥饮泉 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:11.040Z"
+  },
+  {
+    "fen": "4kab2/4a3C/3rb4/n1R4Cc/5R3/1r7/9/4B4/3pp4/2B2K3 w",
+    "name": "第316局 移星换斗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:11.965Z"
+  },
+  {
+    "fen": "c2a1k3/3Pa4/n3b4/5P1CP/6b2/1rB6/9/9/3pp4/2B2K1R1 w",
+    "name": "第317局 赤壁鏖战 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:12.887Z"
+  },
+  {
+    "fen": "2bak1b1N/9/2n1ca3/3R1C3/9/9/9/C3B4/c3p2p1/1rB2K3 w",
+    "name": "第318局 匿影避形 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:13.803Z"
+  },
+  {
+    "fen": "3k1ab2/4a4/2R1P1r2/9/2b6/7r1/9/1p2B1C1R/5p1p1/4K4 w",
+    "name": "第319局 右相安刘 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:14.708Z"
+  },
+  {
+    "fen": "5kbc1/9/P5n1r/1RN6/9/9/3p1p3/R3C1r1B/2n6/5K3 w",
+    "name": "第320局 好勇不矜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:15.629Z"
+  },
+  {
+    "fen": "3rk3C/4a4/3ab4/4C1N2/9/9/9/B3B4/r2pA4/c3KA3 w",
+    "name": "第321局 跨海东征 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:16.559Z"
+  },
+  {
+    "fen": "4ka3/3Ra1C2/4b2RN/4n4/9/9/5p3/9/4Ar2r/3AK3c w",
+    "name": "第322局 过眼成虚 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:17.478Z"
+  },
+  {
+    "fen": "3ak4/3RaP1N1/5c1Cc/9/1rb6/9/9/5C3/1p2r1p2/3K5 w",
+    "name": "第323局 临难忘躯 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:18.397Z"
+  },
+  {
+    "fen": "1r1a1a3/4k4/4bc3/cN1R1C3/2b6/9/9/9/4pp3/2BK2C2 w",
+    "name": "第324局 夜过昭关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:19.313Z"
+  },
+  {
+    "fen": "5a3/2P1k4/r2Pba3/7C1/p7P/9/9/9/p3p3p/5K3 w",
+    "name": "第325局 退思补过 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:20.222Z"
+  },
+  {
+    "fen": "2ba1k3/4a4/4b4/5N1Rp/9/9/3pp4/4B4/4pp3/3K2B2 w",
+    "name": "第326局 奇妙文武 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:21.145Z"
+  },
+  {
+    "fen": "C1b6/1RCka4/5a3/p1p6/2b6/9/P8/9/c3p2p1/5K1c1 w",
+    "name": "第327局 忠孝两全 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:22.052Z"
+  },
+  {
+    "fen": "2b1kab1r/C3a4/9/PN7/9/3p5/9/C8/5p1p1/2B1K2c1 w",
+    "name": "第328局 虹霓贯日 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:22.980Z"
+  },
+  {
+    "fen": "3k1nbr1/2P1a4/b2a5/8R/9/6R2/9/5p3/4p2p1/3K5 w",
+    "name": "第329局 远交近攻 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:23.896Z"
+  },
+  {
+    "fen": "2ba1k3/3Pa4/4b4/4pP1C1/9/9/9/1r2B4/3pp4/2B2K1R1 w",
+    "name": "第330局 殒命宁亲 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:24.811Z"
+  },
+  {
+    "fen": "2bakab2/9/9/9/4N2R1/2P6/9/B3B4/r2pA4/c3KA3 w",
+    "name": "第331局 车马盈门 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:25.718Z"
+  },
+  {
+    "fen": "3ak1bR1/9/4ba3/5N3/C7p/2B5r/8c/3p5/5p3/3AK4 w",
+    "name": "第332局 截趾适履 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:26.639Z"
+  },
+  {
+    "fen": "2bak1C2/3caP3/4b4/3N1Cn2/9/9/9/8n/4p4/5K3 w",
+    "name": "第333局 策马入城 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:27.557Z"
+  },
+  {
+    "fen": "4R4/3k4r/4b4/7P1/6b2/7p1/8P/C8/4A2r1/2B1KA3 w",
+    "name": "第334局 蝶恋花心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:28.472Z"
+  },
+  {
+    "fen": "2ra1a2r/4k3C/4b3N/5R2p/2p3b2/9/9/9/4p4/5K3 w",
+    "name": "第335局 殃及池鱼 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:29.395Z"
+  },
+  {
+    "fen": "4k4/2PP3PP/9/9/4p1rN1/5p3/9/4B4/3pp4/5K1R1 w",
+    "name": "第336局 伍相奔吴 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:30.312Z"
+  },
+  {
+    "fen": "3a5/2N4N1/1r1k5/2P6/9/9/3r4P/4BA3/3pA4/2B1K4 w",
+    "name": "第337局 大车无輗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:55:31.241Z"
+  },
+  {
+    "fen": "1nb2kr2/3Pa2R1/3nba3/N3C2C1/6r2/9/9/9/9/5K3 w",
+    "name": "第338局 英略盖世 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:16.621Z"
+  },
+  {
+    "fen": "2bak2r1/4a4/4b4/C2N1C3/9/3R5/9/2p6/2c1p4/3K2p2 w",
+    "name": "第339局 星坠日升 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:17.541Z"
+  },
+  {
+    "fen": "2ba1a3/4k4/b1R2N2P/9/4P4/9/3r1p3/3A5/3pp4/5K3 w",
+    "name": "第340局 兵马侵境 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:18.458Z"
+  },
+  {
+    "fen": "3a1kbr1/1C2a4/2P6/p8/4p4/9/9/3p5/4Cp3/3K2R2 w",
+    "name": "第341局 抱火积薪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:19.370Z"
+  },
+  {
+    "fen": "C3kab1r/2C1a4/b1n5c/1N7/9/9/9/9/2pc1p3/4K4 w",
+    "name": "第342局 闭窟捉虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:20.301Z"
+  },
+  {
+    "fen": "C8/C2Pak3/3cba2b/9/9/9/2R2p1r1/9/4r2p1/5K3 w",
+    "name": "第343局 深入敌境 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:21.225Z"
+  },
+  {
+    "fen": "2bk1a3/5P3/3a5/1C2p1C1p/9/9/9/4B4/1p2r1p2/3K5 w",
+    "name": "第344局 爱身待时 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:22.138Z"
+  },
+  {
+    "fen": "4ka3/4aPN2/8b/7Cp/9/2P6/9/9/2p2p2c/4K3c w",
+    "name": "第345局 石燕拂云 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:23.060Z"
+  },
+  {
+    "fen": "4kr3/4a2R1/3ab3b/9/6P2/9/4r4/1R2C4/5p2c/3K5 w",
+    "name": "第346局 朝野从容 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:24.041Z"
+  },
+  {
+    "fen": "1P2ka3/9/b2a1PC2/4C1p1p/9/9/9/9/1p2pp3/3K5 w",
+    "name": "第347局 绝长补短 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:25.028Z"
+  },
+  {
+    "fen": "N1bakab2/R8/9/9/9/9/5pp2/4B4/3pp4/5K3 w",
+    "name": "第348局 夷齐扣马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:26.004Z"
+  },
+  {
+    "fen": "3k5/4a4/7P1/2P6/9/3p5/9/BR4p2/rp2pp3/2BK5 w",
+    "name": "第349局 力小任大 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:26.928Z"
+  },
+  {
+    "fen": "C3kanr1/9/1R2ca2c/9/1N7/9/9/9/4p2p1/5K3 w",
+    "name": "第350局 管仲随马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:27.831Z"
+  },
+  {
+    "fen": "2b1k1b2/3P1P3/3a1a3/7C1/9/9/9/9/1p2pp3/3K5 w",
+    "name": "第351局 老而不倦 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:28.727Z"
+  },
+  {
+    "fen": "2ba5/3k3C1/2Pa3R1/2p6/8P/9/9/9/1p2r4/3K5 w",
+    "name": "第352局 徐母回车 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:29.630Z"
+  },
+  {
+    "fen": "4k1b2/3Pa4/4b4/9/9/7C1/2P6/2rc5/4p4/1R1K5 w",
+    "name": "第353局 虎守三穴 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:30.523Z"
+  },
+  {
+    "fen": "9/3Pak1P1/5a3/9/4N4/9/9/4B4/1p2rp3/2BK5 w",
+    "name": "第354局 一虎下山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:31.449Z"
+  },
+  {
+    "fen": "6b2/1R7/3kb4/P6P1/9/9/9/9/pp3pp2/4K2p1 w",
+    "name": "第355局 猛虎驱羊 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:32.345Z"
+  },
+  {
+    "fen": "4k4/9/9/4N4/9/2B6/9/nR1pBp3/p2r5/c3K4 w",
+    "name": "第356局 首动尾应 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:33.250Z"
+  },
+  {
+    "fen": "5a3/4a4/5k3/9/6P1R/9/1pp6/3A5/1n1KA4/4r4 w",
+    "name": "第357局 引雏入巢 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:34.165Z"
+  },
+  {
+    "fen": "2b2a3/2P1k4/1r1Pba3/6C2/9/9/9/9/4p4/2p2K3 w",
+    "name": "第358局 四海一家 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:35.070Z"
+  },
+  {
+    "fen": "5k3/1P7/2PP1a1P1/9/9/4R4/9/5p3/3p1p3/1p2K4 w",
+    "name": "第359局 涂廪浚井 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:36.203Z"
+  },
+  {
+    "fen": "5a3/3P5/4ka3/C8/9/1N7/P8/9/3pp2p1/5K3 w",
+    "name": "第360局 弘羊心计 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:37.113Z"
+  },
+  {
+    "fen": "r2k5/9/2P6/9/6bN1/4R4/9/2np1pn2/4K4/9 w",
+    "name": "第361局 视死如归 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:56:38.020Z"
+  },
+  {
+    "fen": "3k1a3/2P4R1/3a5/9/9/7CR/9/9/1p2rp3/3K1c3 w",
+    "name": "第362局 拔本塞源 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:36.142Z"
+  },
+  {
+    "fen": "3k1a3/2P4R1/3a5/9/6bR1/9/9/7C1/1p2rp3/3K5 w",
+    "name": "第363局 从容中道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:37.058Z"
+  },
+  {
+    "fen": "4ka3/3Pa4/4P3b/9/9/9/8p/6C2/4rp3/3K2R2 w",
+    "name": "第364局 举直错枉 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:37.965Z"
+  },
+  {
+    "fen": "3k5/9/3a5/9/9/9/9/5R3/c2rA2p1/3C1K3 w",
+    "name": "第365局 以恩塞责 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:38.876Z"
+  },
+  {
+    "fen": "3k2b2/4P4/r5c2/p5R2/8p/9/9/9/9/4K4 w",
+    "name": "第366局 少见相拘 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:39.793Z"
+  },
+  {
+    "fen": "4k4/9/3aP4/9/9/9/3p1p3/4R4/3p1p3/4K4 w",
+    "name": "第367局 四门斗底 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:40.694Z"
+  },
+  {
+    "fen": "6R2/3P1k3/3a1a3/9/9/6B2/9/B1r6/5p3/4K4 w",
+    "name": "第368局 兔游月窟 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:41.604Z"
+  },
+  {
+    "fen": "4ka3/9/3a1P3/4C4/6C2/9/9/9/1p2pp3/3K5 w",
+    "name": "第369局 时堪乘便 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:42.509Z"
+  },
+  {
+    "fen": "4k4/9/3a5/9/9/9/6Rp1/3pp2R1/3pp4/5K3 w",
+    "name": "第370局 五老降庭 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:43.413Z"
+  },
+  {
+    "fen": "5k3/3P5/3a1a3/9/9/9/p3r3p/C6R1/5K3/9 w",
+    "name": "第371局 兵入其腹 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:44.317Z"
+  },
+  {
+    "fen": "8r/5k3/r8/p8/9/4R4/P8/4C3B/9/4K1B2 w",
+    "name": "第372局 兵势无常 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:45.229Z"
+  },
+  {
+    "fen": "3a5/5k3/2N2a3/8P/4C4/9/9/9/1p1p2p2/1c2K4 w",
+    "name": "第373局 四面设网 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:46.138Z"
+  },
+  {
+    "fen": "6b2/1R7/3kb4/9/9/9/9/4B4/pp3pp2/4K2p1 w",
+    "name": "第374局 托孤寄命 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:47.049Z"
+  },
+  {
+    "fen": "3a1k3/4a4/9/n7c/6P2/2C4N1/9/5A3/5r3/4K4 w",
+    "name": "第375局 勒兵为备 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:48.013Z"
+  },
+  {
+    "fen": "9/3Pak3/5aP2/9/9/3N1p1p1/9/5p3/4p4/3K5 w",
+    "name": "第376局 伏兵要路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:48.970Z"
+  },
+  {
+    "fen": "3ak4/4a4/2R6/9/9/9/9/2C3p2/3r5/4K1c2 w",
+    "name": "第377局 筑坛拜帅 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:49.882Z"
+  },
+  {
+    "fen": "4k4/3RaP3/4r4/9/9/9/9/9/4A4/3AK1B2 w",
+    "name": "第378局 诸葛出庐 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:50.784Z"
+  },
+  {
+    "fen": "5k1P1/9/9/1NN6/9/9/2p1p4/B2K5/5p3/9 w",
+    "name": "第379局 二马追风 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:51.701Z"
+  },
+  {
+    "fen": "6b2/9/3k5/4P1N2/2b6/9/9/9/3p2p2/4K4 w",
+    "name": "第380局 退无所归 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:52.603Z"
+  },
+  {
+    "fen": "9/4k4/4bR3/9/2b6/4r4/9/9/3KC4/3A5 w",
+    "name": "第381局 举鼎争功 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:53.511Z"
+  },
+  {
+    "fen": "4k4/9/N8/9/9/9/5pp2/9/3pp4/5K1R1 w",
+    "name": "第382局 胡爽扣马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:54.414Z"
+  },
+  {
+    "fen": "4k4/P3a4/5r3/8p/2b6/9/9/7R1/4K4/9 w",
+    "name": "第383局 剪棘开径 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:55.323Z"
+  },
+  {
+    "fen": "3k1c3/4R4/5r3/9/9/9/9/1p7/4A3C/4K4 w",
+    "name": "第384局 投肉饲虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:56.232Z"
+  },
+  {
+    "fen": "5kb1R/4P2P1/6r1b/9/9/9/9/9/9/4K4 w",
+    "name": "第385局 海底觅针 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:57:57.144Z"
+  },
+  {
+    "fen": "3k5/4CP3/9/9/5R3/4r1B2/9/9/6pp1/5K3 w",
+    "name": "第386局 戮力一心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:36.442Z"
+  },
+  {
+    "fen": "9/6P2/4k4/3Rp4/4r1b2/9/9/9/3K5/9 w",
+    "name": "第387局 运筹帷幄 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:37.385Z"
+  },
+  {
+    "fen": "4ka3/4a4/9/9/9/1R7/4pp3/9/9/4K4 w",
+    "name": "第388局 身无所措 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:41.325Z"
+  },
+  {
+    "fen": "4k4/3Pa4/4r4/9/9/7p1/9/5R3/5K3/9 w",
+    "name": "第389局 羸羊触角 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:43.362Z"
+  },
+  {
+    "fen": "9/2P1k4/5R3/4p4/4r4/9/9/9/5K3/9 w",
+    "name": "第390局 以兵服人 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:44.302Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/3pp4/8R/2p1K4 w",
+    "name": "第391局 驱虎离山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:45.810Z"
+  },
+  {
+    "fen": "9/5k3/3a5/9/9/9/9/4R3C/4K4/5r3 w",
+    "name": "第392局 倾身下士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:47.846Z"
+  },
+  {
+    "fen": "3ak4/9/4r4/5P3/9/2R6/9/9/9/3K5 w",
+    "name": "第393局 兵势尚强 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:49.234Z"
+  },
+  {
+    "fen": "3R5/4r4/5k3/4p4/9/8P/9/4K4/9/9 w",
+    "name": "第394局 地险兵强 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:50.170Z"
+  },
+  {
+    "fen": "5k3/9/b8/9/9/9/P8/4R4/5r3/4K4 w",
+    "name": "第395局 引兵渡河 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:51.118Z"
+  },
+  {
+    "fen": "4k4/5P3/9/9/4r4/5R3/9/9/5K3/9 w",
+    "name": "第396局 一兵取功 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:51.987Z"
+  },
+  {
+    "fen": "4k4/5P3/9/9/2b1r4/5R3/9/9/5K3/9 w",
+    "name": "第397局 将帅不忠 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:53.258Z"
+  },
+  {
+    "fen": "2P2R3/4r4/3k5/9/9/9/9/9/5K3/9 w",
+    "name": "第398局 王母蟠桃 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:54.198Z"
+  },
+  {
+    "fen": "2b1ka3/4a4/4b4/1N2p3p/2NC5/5n3/4c1PCc/4p4/5K3/9 w",
+    "name": "第399局 避难而行 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:55.134Z"
+  },
+  {
+    "fen": "4kab2/3Pa4/4b4/1N1N5/9/9/5p3/4B3n/3p4p/5K2c w",
+    "name": "第400局 双马饮泉 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:56.065Z"
+  },
+  {
+    "fen": "4P4/3Pa4/4k1NN1/9/9/9/9/n3Bp3/2p6/c1BAK4 w",
+    "name": "第401局 幽鸟攒阶 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:56.973Z"
+  },
+  {
+    "fen": "2ba5/4ak3/bc4PN1/2p6/8p/p8/9/9/3p5/4K4 w",
+    "name": "第402局 踏雪寻梅 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:57.889Z"
+  },
+  {
+    "fen": "2ba1kbn1/2P6/5a3/2p3p1N/9/9/9/9/4K4/2B3B2 w",
+    "name": "第403局 二郎搜山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:58.810Z"
+  },
+  {
+    "fen": "3a2b2/4a1PC1/5k3/2p1P4/6b1p/9/9/9/4p4/3K5 w",
+    "name": "第404局 转祸为福 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T12:59:59.726Z"
+  },
+  {
+    "fen": "3k1a3/2P1a1P2/N8/9/9/9/9/3p4p/4p4/2B2K3 w",
+    "name": "第405局 双鹊投林 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:00.644Z"
+  },
+  {
+    "fen": "2b2ab2/4PP3/5k3/4P4/9/9/1p7/C5p2/4p4/3K5 w",
+    "name": "第406局 入穴取虎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:01.802Z"
+  },
+  {
+    "fen": "1c1ak3N/4aP3/9/9/p8/9/9/9/5p3/4K4 w",
+    "name": "第407局 追风赶月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:02.785Z"
+  },
+  {
+    "fen": "4ka3/4a4/9/9/5R3/4pp3/9/9/4A4/3AK4 w",
+    "name": "第408局 得失有变 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:03.709Z"
+  },
+  {
+    "fen": "3a2b2/3ka4/4b4/9/9/2B3R2/9/B2A5/9/3AK4 w",
+    "name": "第409局 家无安堵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:04.625Z"
+  },
+  {
+    "fen": "4ka3/4a4/9/9/4R4/9/pp5pp/9/9/4K4 w",
+    "name": "第410局 威震华夷 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:54.974Z"
+  },
+  {
+    "fen": "2bak4/4a4/4b4/4P4/8R/9/4pp3/9/9/4K4 w",
+    "name": "第411局 痛断根除 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:55.894Z"
+  },
+  {
+    "fen": "5ab2/1P1k5/3a4b/9/6p2/9/6P2/9/4K4/5C3 w",
+    "name": "第412局 残虏投降 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:56.801Z"
+  },
+  {
+    "fen": "9/3k1P3/3a1a3/9/2b6/6B2/9/3AKA3/9/3C5 w",
+    "name": "第413局 宁静待时 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:57.704Z"
+  },
+  {
+    "fen": "9/5k3/8r/9/9/9/4R3P/4B4/3pA4/2BAK4 w",
+    "name": "第414局 私渡关津 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:58.614Z"
+  },
+  {
+    "fen": "4ka3/3Pa4/8b/7Cp/9/9/9/9/1p5p1/4K4 w",
+    "name": "第415局 私下三关 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:00:59.524Z"
+  },
+  {
+    "fen": "3a1k3/9/3N1a1P1/9/8C/9/9/1p3p3/4p4/3K5 w",
+    "name": "第416局 动中有静 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:00.448Z"
+  },
+  {
+    "fen": "3N1k3/4P4/b8/p4n3/2b6/9/9/9/4p4/5KB2 w",
+    "name": "第417局 蹇驽困厩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:01.358Z"
+  },
+  {
+    "fen": "3nka3/4a4/8R/4R4/9/9/9/3ppp3/9/4K4 w",
+    "name": "第418局 厩焚伤马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:02.282Z"
+  },
+  {
+    "fen": "3k5/2P1a1P2/5a3/2N6/9/9/9/9/1p1p2p2/4K4 w",
+    "name": "第419局 一虎下山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:03.200Z"
+  },
+  {
+    "fen": "9/3R2P2/3ak4/4p4/4r1b2/9/9/4B4/9/4K1B2 w",
+    "name": "第420局 失左右手 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:04.108Z"
+  },
+  {
+    "fen": "C3ka3/4a4/1cC6/9/9/6B1P/p8/9/5p3/4K4 w",
+    "name": "第421局 内攻外御 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:05.028Z"
+  },
+  {
+    "fen": "3k2b2/4P4/4b4/3cN4/9/9/9/3K5/2p1Ap3/3A5 w",
+    "name": "第422局 抹马潜戈 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:05.943Z"
+  },
+  {
+    "fen": "3k5/4CP3/2P6/9/9/5p3/9/8p/4p4/5K3 w",
+    "name": "第423局 遐迩归心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:06.862Z"
+  },
+  {
+    "fen": "3cka3/4a4/9/p8/2p6/7R1/9/9/9/4K4 w",
+    "name": "第424局 怯勇自服 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:07.779Z"
+  },
+  {
+    "fen": "4k1b2/9/4b4/9/7Rp/9/8P/9/4K3c/9 w",
+    "name": "第425局 驱将擒胡 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:08.694Z"
+  },
+  {
+    "fen": "3k5/4P4/9/9/9/1n7/7c1/3A5/2C6/1N2K4 w",
+    "name": "第426局 马灵兵胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:09.609Z"
+  },
+  {
+    "fen": "4kab2/4a4/4b4/4P4/9/9/9/9/3K5/7C1 w",
+    "name": "第427局 踊跃用兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:10.528Z"
+  },
+  {
+    "fen": "2baka3/5P3/b8/9/9/9/9/9/3K5/7C1 w",
+    "name": "第428局 一心向火 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:11.441Z"
+  },
+  {
+    "fen": "3k5/5P3/3a1a2b/2N6/6b2/9/9/9/9/3K5 w",
+    "name": "第429局 上陵下替 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:12.368Z"
+  },
+  {
+    "fen": "3a1k3/2R1a4/b8/9/2b6/9/9/9/9/4K4 w",
+    "name": "第430局 能为必胜 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:13.279Z"
+  },
+  {
+    "fen": "9/4aR3/3k1a2b/9/6b2/9/9/9/9/4K4 w",
+    "name": "第431局 功成则退 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:14.194Z"
+  },
+  {
+    "fen": "3a5/5k3/2R1ba3/9/2b6/9/9/9/5K3/9 w",
+    "name": "第432局 钳塞士口 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:15.116Z"
+  },
+  {
+    "fen": "5k3/4a4/3a4b/9/6b2/9/7R1/9/9/4K4 w",
+    "name": "第433局 束手就系 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:16.032Z"
+  },
+  {
+    "fen": "2bak4/2R1a4/b8/9/9/9/9/9/9/4K4 w",
+    "name": "第434局 上下离心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:57.114Z"
+  },
+  {
+    "fen": "3k1ab2/4a4/8b/9/9/9/9/9/4K4/8R w",
+    "name": "第435局 独行千里 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:58.021Z"
+  },
+  {
+    "fen": "3a5/4a4/5k2b/9/6b2/9/9/9/9/2R1K4 w",
+    "name": "第436局 上下失望 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:58.949Z"
+  },
+  {
+    "fen": "5a3/4ak3/2R1b4/9/2b6/9/9/9/9/4K4 w",
+    "name": "第437局 斗柄回寅 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:01:59.859Z"
+  },
+  {
+    "fen": "6b2/3k5/4b4/1P7/9/6B2/9/6C2/4K4/9 w",
+    "name": "第438局 左右并攻 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:00.777Z"
+  },
+  {
+    "fen": "9/3ka4/1NP2a3/9/9/8p/9/9/9/4K4 w",
+    "name": "第439局 士卒威服 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:01.699Z"
+  },
+  {
+    "fen": "5k3/9/9/4R4/9/9/3ppp3/9/9/3K2B2 w",
+    "name": "第440局 三军夺帅 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:02.612Z"
+  },
+  {
+    "fen": "3aka3/9/9/p8/4P4/2C6/9/9/9/4K4 w",
+    "name": "第441局 国富兵强 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:03.529Z"
+  },
+  {
+    "fen": "9/9/5k3/4P4/9/2c3p2/9/5A3/4C4/4K4 w",
+    "name": "第442局 济济多士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:04.448Z"
+  },
+  {
+    "fen": "2cCka3/3Pa4/9/9/9/9/9/9/9/4K4 w",
+    "name": "第443局 日月交蚀 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:05.356Z"
+  },
+  {
+    "fen": "2b1C1b2/4PP3/3k5/9/9/9/9/9/9/5K3 w",
+    "name": "第444局 地网天罗 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:06.276Z"
+  },
+  {
+    "fen": "3ak4/4aP3/b8/9/9/6P2/9/9/9/4K4 w",
+    "name": "第445局 双孙扶老 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:07.191Z"
+  },
+  {
+    "fen": "9/1P1k5/4b4/3P5/6b2/9/9/9/9/4K4 w",
+    "name": "第446局 锐兵健步 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:08.108Z"
+  },
+  {
+    "fen": "3a5/3Pak3/9/5P3/9/9/9/9/9/4K4 w",
+    "name": "第447局 茕茕孑立 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:09.037Z"
+  },
+  {
+    "fen": "2b1k1n2/9/4b4/4R4/9/9/9/9/9/4K4 w",
+    "name": "第449局 只马归命 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:10.861Z"
+  },
+  {
+    "fen": "2R6/3ka4/3a5/3n5/9/9/9/9/9/3K5 w",
+    "name": "第450局 驽驹失厩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:11.777Z"
+  },
+  {
+    "fen": "4k1b2/9/4n3b/4R4/9/9/9/9/9/4K4 w",
+    "name": "第451局 华衣怒马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:13.009Z"
+  },
+  {
+    "fen": "4ka3/4an3/9/9/4R4/9/9/9/9/4K4 w",
+    "name": "第452局 野马踅田 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:13.924Z"
+  },
+  {
+    "fen": "4k4/4a1P2/5a3/9/9/9/9/3K5/9/5C3 w",
+    "name": "第453局 变生肘腋 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:14.844Z"
+  },
+  {
+    "fen": "5k3/4a4/3a5/9/9/9/9/3K5/4C4/5C3 w",
+    "name": "第454局 计罗并照 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:15.761Z"
+  },
+  {
+    "fen": "5c3/9/5k3/4P4/9/9/9/3KB4/9/4C4 w",
+    "name": "第455局 孤生无倚 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:16.675Z"
+  },
+  {
+    "fen": "3k5/4a4/5a3/9/9/9/9/3A1K3/9/4C4 w",
+    "name": "第456局 国士无双 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:17.601Z"
+  },
+  {
+    "fen": "3k5/9/9/6p2/9/4P4/9/7C1/5p3/4K4 w",
+    "name": "第457局 送往迎来 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:02:18.512Z"
+  },
+  {
+    "fen": "3k2b2/4P4/2c6/2N6/9/9/9/9/9/4K4 w",
+    "name": "第458局 顾彼失此 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:03.449Z"
+  },
+  {
+    "fen": "9/4P4/3k5/2N1n4/9/9/9/9/9/4K4 w",
+    "name": "第459局 单驹随牝 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:04.367Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/9/9/4C2R1/4r4/3K5 w",
+    "name": "第460局 赶虎出穴 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:05.278Z"
+  },
+  {
+    "fen": "3ck4/4c4/4R4/9/9/9/9/9/9/3K5 w",
+    "name": "第461局 三辰不轨 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:06.203Z"
+  },
+  {
+    "fen": "4C4/4P4/3k5/9/6b2/9/9/9/9/4K4 w",
+    "name": "第462局 一恸而绝 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:07.148Z"
+  },
+  {
+    "fen": "9/3k5/9/4P4/2b6/9/9/4C4/5K3/9 w",
+    "name": "第463局 填塞道路 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:08.065Z"
+  },
+  {
+    "fen": "5k3/9/9/p8/9/4P4/9/2C6/9/4K4 w",
+    "name": "第464局 侵害边卒 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:08.979Z"
+  },
+  {
+    "fen": "4k4/4a4/9/4P4/9/9/9/9/4A4/4K4 w",
+    "name": "第465局 一木难支 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:09.897Z"
+  },
+  {
+    "fen": "1r3a3/9/3ak4/5PR2/6C2/9/4P4/3pp4/3pr4/5K3 w",
+    "name": "第467局 七擒七纵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:11.728Z"
+  },
+  {
+    "fen": "3ak4/3PaP3/9/5N3/9/9/9/9/3p1p3/4K4 w",
+    "name": "第468局 单马独还 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:12.642Z"
+  },
+  {
+    "fen": "3k1a3/2P1a1P2/N8/9/9/3p5/9/9/p3p4/3K5 w",
+    "name": "第469局 匹马平戎 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:13.565Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/4r4/3NB4/4A1r2/3CKAB2 w",
+    "name": "第470局 公私安堵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:14.478Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/4r4/3CB4/4A1r2/3CKAB2 w",
+    "name": "第471局 藏锋敛锷 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:15.399Z"
+  },
+  {
+    "fen": "2b1k4/9/4b4/9/9/9/3R5/4B4/1r1p5/3AK1B2 w",
+    "name": "第472局 中外义安 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:16.311Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/2B6/7r1/2R2A3/1p2Ap3/2BK5 w",
+    "name": "第473局 盘石固守 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:17.225Z"
+  },
+  {
+    "fen": "2b1k4/4a4/3ab4/9/9/9/9/B2R5/4p4/1rCK5 w",
+    "name": "第474局 保卫一方 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:18.139Z"
+  },
+  {
+    "fen": "4k1b2/4a4/4ba3/9/9/9/9/5R1N1/4p1r2/5KC2 w",
+    "name": "第475局 四方清晏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:19.044Z"
+  },
+  {
+    "fen": "5c3/4k4/3a1a3/6P2/2b3b2/9/9/5A3/5K3/9 w",
+    "name": "第476局 一兵解危 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:19.962Z"
+  },
+  {
+    "fen": "3ak4/1c2aPPP1/9/9/9/9/9/9/4p4/5K3 w",
+    "name": "第477局 三仙炼丹 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:20.876Z"
+  },
+  {
+    "fen": "4k4/9/9/1P7/2p3p2/9/7p1/4B4/4A4/3A1K3 w",
+    "name": "第478局 虎溪三笑 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:21.793Z"
+  },
+  {
+    "fen": "4k4/9/9/9/2p3p2/9/1p7/B3B4/4A4/3A1K3 w",
+    "name": "第479局 三军劫寨 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:22.713Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/6B2/3p5/B8/2p1Ap3/3K1A3 w",
+    "name": "第480局 三顾草庐 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:23.626Z"
+  },
+  {
+    "fen": "2b1k4/9/4b4/9/r8/9/9/9/p2R5/4KA3 w",
+    "name": "第481局 众寡不敌 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:03:24.542Z"
+  },
+  {
+    "fen": "2b1k4/9/4b4/4r4/9/5RB2/9/4C4/3K5/9 w",
+    "name": "第482局 保障若石 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:31.232Z"
+  },
+  {
+    "fen": "3k5/9/9/9/4r4/9/9/5R3/2r1A4/3CKA3 w",
+    "name": "第483局 保障坚牢 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:32.141Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/9/r8/C3B3C/3p5/4K1B2 w",
+    "name": "第484局 化蛇当道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:33.048Z"
+  },
+  {
+    "fen": "4k4/9/9/PPP1r4/9/9/9/4B4/9/2B1K4 w",
+    "name": "第485局 三家鼎立 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:33.970Z"
+  },
+  {
+    "fen": "4k4/6c2/3a1a2b/6N2/6b2/9/9/9/5K3/9 w",
+    "name": "第486局 扣马苦谏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:34.879Z"
+  },
+  {
+    "fen": "3c5/5k3/4b4/9/2b6/6B2/9/4B4/4p4/3K5 w",
+    "name": "第487局 平定中原 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:35.819Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/2R6/6P1r/4BA3/6r2/2R2K3 w",
+    "name": "第488局 全师保安 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:36.756Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/6B2/2n6/3A5/5p3/3K1AB2 w",
+    "name": "第489局 本固邦宁 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:37.668Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/2B6/9/B2A5/2r1A4/5K3 w",
+    "name": "第490局 保国宁家 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:38.585Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/B2K5/4A1r2/2B2A3 w",
+    "name": "第491局 凭险自固 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:39.507Z"
+  },
+  {
+    "fen": "3k4C/2N6/9/9/9/9/9/9/3p2p2/4K3n w",
+    "name": "第492局 仗剑鞭马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:40.417Z"
+  },
+  {
+    "fen": "4k4/9/9/8r/9/1NB6/2P6/4B4/9/4K4 w",
+    "name": "第493局 控马避敌 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:41.351Z"
+  },
+  {
+    "fen": "9/1c2PPP2/5k3/9/9/9/2p6/9/9/4K4 w",
+    "name": "第494局 三出祁山 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:42.268Z"
+  },
+  {
+    "fen": "9/5k3/4b4/9/4r4/3R5/9/3Ap4/3K5/9 w",
+    "name": "第495局 士而怀居 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:43.202Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/4r1n2/9/3R1A3/4A4/3K5 w",
+    "name": "第496局 士马疲劳 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:44.116Z"
+  },
+  {
+    "fen": "2b2k3/9/9/2PPP4/9/9/4r4/9/9/3K5 w",
+    "name": "第497局 三镇连兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:45.034Z"
+  },
+  {
+    "fen": "5k3/4P4/9/9/2b6/9/9/9/3p2p2/4KC3 w",
+    "name": "第498局 努力固守 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:45.960Z"
+  },
+  {
+    "fen": "4k4/9/9/4PP3/9/9/4r4/4B4/9/4K1B2 w",
+    "name": "第499局 固兵保全 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:46.881Z"
+  },
+  {
+    "fen": "4k4/9/9/4PP3/9/4r4/9/5A3/4AK3/9 w",
+    "name": "第500局 士兵连结 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:47.804Z"
+  },
+  {
+    "fen": "1C7/4k4/1P7/9/9/9/9/9/4p4/rC1K5 w",
+    "name": "第501局 边城隔虏 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:48.716Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6B2/6n2/4B1C2/4p4/5K3 w",
+    "name": "第502局 兵马徒劳 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:49.626Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/4B4/4Ar3/2B1KN3 w",
+    "name": "第503局 只马当士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:50.549Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/3N5/2r1A4/2B1KA3 w",
+    "name": "第504局 只马当象 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:51.464Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6B2/9/3A5/3pAK1n1/9 w",
+    "name": "第505局 士卒离心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:04:52.459Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6B2/9/4B4/1n1K1p3/3A5 w",
+    "name": "第506局 休士息马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:46.673Z"
+  },
+  {
+    "fen": "3rka3/4a4/2Rc5/9/9/9/9/9/9/4K4 w",
+    "name": "第507局 影不离形 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:47.599Z"
+  },
+  {
+    "fen": "n2rka3/4a4/9/9/9/9/9/9/9/1R2K4 w",
+    "name": "第508局 驽马困厩 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:48.514Z"
+  },
+  {
+    "fen": "9/4ck3/9/9/9/4R4/9/2r1B4/9/4K1B2 w",
+    "name": "第509局 守正嫉邪 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:49.434Z"
+  },
+  {
+    "fen": "9/4ck3/9/9/3R5/2r6/9/5A3/4A4/4K4 w",
+    "name": "第510局 内外俱安 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:50.355Z"
+  },
+  {
+    "fen": "4k4/4a4/4r4/9/9/9/9/3R1A3/3K1p3/9 w",
+    "name": "第511局 单车肘士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:51.265Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/2B6/9/1p2B1p2/5K3/9 w",
+    "name": "第512局 收兵罢战 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:52.185Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/2B6/9/4B1p2/5K1p1/9 w",
+    "name": "第513局 攻围难克 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:53.114Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/3A2p2/3pAK3/9 w",
+    "name": "第514局 轻财爱士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:54.051Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/9/9/9/2p1K1p2/3A1A3 w",
+    "name": "第515局 将士离心 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:54.970Z"
+  },
+  {
+    "fen": "4k3N/9/1r7/9/9/9/4P4/4B4/4K4/9 w",
+    "name": "第516局 匹马嘶风 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:55.887Z"
+  },
+  {
+    "fen": "3C5/2PP5/4k4/9/9/4r4/9/9/3K5/9 w",
+    "name": "第517局 三寇连兵 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:56.804Z"
+  },
+  {
+    "fen": "5k3/9/9/3PP4/9/9/6r2/4C4/9/4K4 w",
+    "name": "第518局 长生不老 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:57.720Z"
+  },
+  {
+    "fen": "3C5/2CP5/4k4/9/9/4r4/9/9/3K5/9 w",
+    "name": "第519局 三灵不昧 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:58.636Z"
+  },
+  {
+    "fen": "9/4k4/9/9/9/9/1c2r4/BR7/3K5/9 w",
+    "name": "第520局 腹背无患 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:05:59.554Z"
+  },
+  {
+    "fen": "4k4/9/4N4/3PP4/9/9/6r2/9/9/3K5 w",
+    "name": "第521局 易马隐树 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:00.474Z"
+  },
+  {
+    "fen": "3Ck4/3PC4/9/9/9/4r4/9/9/3K5/9 w",
+    "name": "第522局 勒兵固守 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:01.388Z"
+  },
+  {
+    "fen": "4k4/9/9/4C4/4PP3/9/5r3/9/9/4K4 w",
+    "name": "第523局 一鸣惊人 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:02.303Z"
+  },
+  {
+    "fen": "4k4/9/9/4P4/4PP3/4r4/9/9/3K5/9 w",
+    "name": "第524局 鼎足三立 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:03.216Z"
+  },
+  {
+    "fen": "3k5/9/9/9/4R4/9/9/9/3r1p3/4K1C2 w",
+    "name": "第525局 不敷自保 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:04.140Z"
+  },
+  {
+    "fen": "3c5/3k5/9/9/4R4/9/9/9/2pp5/4K4 w",
+    "name": "第526局 守株待兔 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:05.056Z"
+  },
+  {
+    "fen": "4k4/9/9/4p4/2N1r4/9/9/4B4/4K4/9 w",
+    "name": "第527局 孤军四战 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:06.372Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/4C4/6r2/4B4/9/4K1B2 w",
+    "name": "第528局 固守无虞 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:07.355Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6B2/4r4/4N3B/9/4K4 w",
+    "name": "第529局 朽索御马 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:08.344Z"
+  },
+  {
+    "fen": "3ck4/4a4/3a5/9/4R4/9/9/9/9/4K4 w",
+    "name": "第530局 固守邦基 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:53.889Z"
+  },
+  {
+    "fen": "3c5/2R1a4/3k1a3/9/9/9/9/9/9/4K4 w",
+    "name": "第531局 水中摸月 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:54.800Z"
+  },
+  {
+    "fen": "5k3/9/6C2/9/6p2/7p1/9/7p1/9/4K4 w",
+    "name": "第532局 三教皈一 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:55.723Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/8p/5K3/4pp3/3N5 w",
+    "name": "第533局 一马化龙 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:56.644Z"
+  },
+  {
+    "fen": "3c5/4a4/C3k4/9/9/9/9/3K5/4p4/9 w",
+    "name": "第534局 华山隐士 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:57.559Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/9/3n1N3/4C4/4p4/5K3 w",
+    "name": "第535局 息马论道 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:58.471Z"
+  },
+  {
+    "fen": "4ca3/9/3ak4/9/9/9/9/3C5/3K5/9 w",
+    "name": "第536局 子不离母 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:06:59.391Z"
+  },
+  {
+    "fen": "4c4/3c5/4k4/9/9/9/9/4B4/3K5/6B2 w",
+    "name": "第537局 二相扶国 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:00.306Z"
+  },
+  {
+    "fen": "5k3/4R4/4cr3/9/9/9/9/9/9/4K4 w",
+    "name": "第538局 独占中原 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:01.228Z"
+  },
+  {
+    "fen": "9/3k5/9/3r5/4R4/9/9/9/4K4/5p3 w",
+    "name": "第539局 一心定国 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:02.140Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/4rN3/9/4N4/3K5/9 w",
+    "name": "第540局 鸳鸯交颈 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:03.048Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/6N2/9/3K5/4r4/3C5 w",
+    "name": "第541局 野马脱绊 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:03.981Z"
+  },
+  {
+    "fen": "4k4/9/9/3r5/9/3C5/9/9/3K5/3C5 w",
+    "name": "第542局 固前遮后 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:04.906Z"
+  },
+  {
+    "fen": "4c4/9/2c1k4/9/9/9/9/9/3K5/3C5 w",
+    "name": "第543局 狐假虎威 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:05.817Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/3nC4/5K3/4p4/9 w",
+    "name": "第544局 居中秉权 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:06.742Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/4B4/3cp4/5K3 w",
+    "name": "第545局 懒散无拘 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:07.655Z"
+  },
+  {
+    "fen": "4c4/3k5/9/6P2/9/9/4p4/9/5K3/9 w",
+    "name": "第547局 彼此无碍 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:09.485Z"
+  },
+  {
+    "fen": "4c4/3ka4/9/3P5/9/9/9/9/5K3/9 w",
+    "name": "第548局 两不得济 - 适情雅趣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T13:07:10.406Z"
+  }
+]

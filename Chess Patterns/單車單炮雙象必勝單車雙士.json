@@ -1,0 +1,74 @@
+[
+  {
+    "fen": "4k4/4a4/3a1r3/9/3R1C3/6B2/9/8B/3K5/9 w - - 0 1",
+    "type": "單俥單炮雙相 vs 雙士單車",
+    "typeFull": "單俥單炮雙相 vs 雙士單車",
+    "classification": {
+      "type": "單俥單炮雙相 vs 雙士單車",
+      "typeFull": "單俥單炮雙相 vs 雙士單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "r": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T09:50:00.000Z"
+  },
+  {
+    "fen": "4k4/4a4/3a1r3/9/3R5/6B2/9/8B/3K5/1C7 w - - 0 1",
+    "type": "單俥單炮雙相 vs 雙士單車",
+    "typeFull": "單俥單炮雙相 vs 雙士單車",
+    "classification": {
+      "type": "單俥單炮雙相 vs 雙士單車",
+      "typeFull": "單俥單炮雙相 vs 雙士單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "r": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T09:50:01.000Z"
+  }
+]

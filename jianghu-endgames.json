@@ -1,0 +1,2564 @@
+[
+  {
+    "fen": "9/3CkC3/3R1R3/9/9/9/4p4/3p1p3/3p1p3/4K4 w - - 0 1",
+    "name": "四將擒王",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:00.000Z"
+  },
+  {
+    "fen": "3k2r2/4PP3/9/8C/9/7cR/9/4B4/3pn4/5K3 w - - 0 1",
+    "name": "翻蹄亮掌",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:00.000Z"
+  },
+  {
+    "fen": "1rPrk4/7R1/4b1C2/9/9/9/9/9/3p5/4K4 w - - 0 1",
+    "name": "江湖野局4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:01.000Z"
+  },
+  {
+    "fen": "3k4c/4P4/2P6/2n3N2/9/9/4p4/5K3/4p4/2B6 w - - 0 1",
+    "name": "全面控制",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:02.000Z"
+  },
+  {
+    "fen": "4k4/3P2P2/P1n2P3/2c6/6b2/9/2P6/4n4/1Rcpp4/1R3K3 w - - 0 1",
+    "name": "八面玲瓏",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:03.000Z"
+  },
+  {
+    "fen": "2ck2b2/4aP3/1P1P4C/9/9/9/6r2/1R7/4p1cn1/2pp1K3 w - - 0 1",
+    "name": "江湖野局1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:04.000Z"
+  },
+  {
+    "fen": "3ak4/4a4/5PNR1/9/2c6/9/4P1C2/9/3p1r3/4K4 w - - 0 1",
+    "name": "小野馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:05.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/4b4/p3n4/9/1N5R1/P6C1/4ccp2/3p1rn2/2N1KAB2 w - - 0 1",
+    "name": "八蠻進寶",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:06.000Z"
+  },
+  {
+    "fen": "1c3k3/4P4/5r3/9/9/5rB1C/8C/3pB3R/4p4/3K4R w - - 0 1",
+    "name": "條風應律",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:07.000Z"
+  },
+  {
+    "fen": "1P7/4P4/3k1P3/9/9/9/7R1/2p4R1/4n1rC1/3rcK3 w - - 0 1",
+    "name": "連火陣1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:08.000Z"
+  },
+  {
+    "fen": "5k1P1/6P2/r4a3/9/9/9/9/C8/3pp4/R4K3 w - - 0 1",
+    "name": "五行四柱",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:09.000Z"
+  },
+  {
+    "fen": "3PCk3/2P1P4/8b/P8/2P6/p4p3/9/9/6p2/3p1K3 w - - 0 1",
+    "name": "江湖野局2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:10.000Z"
+  },
+  {
+    "fen": "P3k4/9/9/3R5/9/9/9/1p7/1c3pp2/3K5 w - - 0 1",
+    "name": "黃五哥作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:11.000Z"
+  },
+  {
+    "fen": "9/3k1c3/3a1a1RC/9/9/7RC/9/9/1r1p5/4KA3 w - - 0 1",
+    "name": "江湖野局3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:12.000Z"
+  },
+  {
+    "fen": "3k5/2r1P1R2/3ab4/9/9/9/9/B4N2p/2p1p4/3K3N1 w - - 0 1",
+    "name": "二馬盤宮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:13.000Z"
+  },
+  {
+    "fen": "P2k5/4R4/3rb4/9/9/7C1/9/2p4C1/5r3/4K2R1 w - - 0 1",
+    "name": "棋緣作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:14.000Z"
+  },
+  {
+    "fen": "2b1k2P1/5P3/9/9/8R/8R/9/B7C/2p1r2c1/2BK2p2 w - - 0 1",
+    "name": "停車問路1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:15.000Z"
+  },
+  {
+    "fen": "4k4/3naP3/4b2RR/4P4/2b6/9/4P4/4B2C1/1pr1p4/2BK5 w - - 0 1",
+    "name": "敗走樊城",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:16.000Z"
+  },
+  {
+    "fen": "r1nak4/4a4/4b4/2p6/6NRR/1p7/9/3nB4/4p4/3K5 w - - 0 1",
+    "name": "雙騎追風",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:17.000Z"
+  },
+  {
+    "fen": "5kn2/3PP4/4bN3/9/6R2/4p4/2P6/9/2p2r3/3AKA1r1 w - - 0 1",
+    "name": "回風動地",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:18.000Z"
+  },
+  {
+    "fen": "3r1k3/3PP4/c8/4P4/9/3p2B2/3p5/4K4/3pp4/RCC6 w - - 0 1",
+    "name": "安步當車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:19.000Z"
+  },
+  {
+    "fen": "2b2C3/Pr3k3/4R4/5PP2/9/9/9/p2pN4/3pp4/5K3 w - - 0 1",
+    "name": "倒掛珠簾改",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:20.000Z"
+  },
+  {
+    "fen": "3k4C/2P1a1P2/4b4/9/6b2/9/9/9/3nr1rR1/5K3 w - - 0 1",
+    "name": "江湖野局5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:21.000Z"
+  },
+  {
+    "fen": "1P1k2b2/4PP3/4b4/9/4R4/pp2R4/9/N1p1Bp3/3r1p3/1C2K4 w - - 0 1",
+    "name": "屏藩社稷",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:22.000Z"
+  },
+  {
+    "fen": "3k4r/P3P4/3n5/9/6RRC/8C/4P4/4pp3/4p4/5K3 w - - 0 1",
+    "name": "橫越檀溪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:23.000Z"
+  },
+  {
+    "fen": "3k5/4R4/4b4/6R1C/1n7/6C1c/9/3pB4/4p4/3KN4 w - - 0 1",
+    "name": "蔣權作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:24.000Z"
+  },
+  {
+    "fen": "5k1cr/9/3aCN3/9/6b2/9/7RC/9/4pc2p/3p1K3 w - - 0 1",
+    "name": "海外孤舟",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:25.000Z"
+  },
+  {
+    "fen": "3k1n3/4P4/9/9/8R/3r5/7CC/5p3/4p4/2B2K3 w - - 0 1",
+    "name": "馬躍檀溪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:26.000Z"
+  },
+  {
+    "fen": "3rk1C1R/1P7/4c1P2/9/9/9/9/3Ap1r2/4A1c2/1p1K5 w - - 0 1",
+    "name": "炮打雙燈",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:27.000Z"
+  },
+  {
+    "fen": "2NNk1P2/3R5/5P3/C3r4/9/9/4p4/3p1p3/4K4/3p1p3 w - - 0 1",
+    "name": "臘梅傲雪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:28.000Z"
+  },
+  {
+    "fen": "3kn1b2/P3PPP2/4b4/9/n8/2p4R1/7R1/B8/3r1p3/4KA3 w - - 0 1",
+    "name": "為叢驅雀",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:29.000Z"
+  },
+  {
+    "fen": "4k4/r8/9/6p1C/8p/5p3/R1PRrcP1P/B8/6p2/3p1K3 w - - 0 1",
+    "name": "江湖野局6",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:30.000Z"
+  },
+  {
+    "fen": "3k2r2/4P2RC/9/9/9/9/c8/3p5/3n5/2BK1c2R w - - 0 1",
+    "name": "秀鐘山岳",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:31.000Z"
+  },
+  {
+    "fen": "4k4/9/4P4/9/9/9/3p2p1P/4R4/3p1p3/1p2K1B2 w - - 0 1",
+    "name": "金貓捕鼠",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:32.000Z"
+  },
+ {
+    "fen": "4k1b2/3P5/5P3/9/9/2p5R/3p4R/3pr2CC/4p4/3K5 w - - 0 1",
+    "name": "江湖野局7",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:00.000Z"
+  },
+  {
+    "fen": "2ca1k3/4P1r1R/4ba3/7Cp/8r/7C1/7n1/9/3p1pp2/3nK4 w - - 0 1",
+    "name": "迎頭痛擊",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:01.000Z"
+  },
+  {
+    "fen": "3kr1b2/4nP3/3Pb4/9/9/9/9/CCRppc3/3p1p3/R2cKn3 w - - 0 1",
+    "name": "江湖野局8",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:02.000Z"
+  },
+  {
+    "fen": "4ka3/3Ra4/4b1CR1/3P2pN1/8c/9/4P1P2/B1r1B4/c3r4/5K3 w - - 0 1",
+    "name": "朝陽鳴鳳",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:03.000Z"
+  },
+  {
+    "fen": "3ck1P2/3n1PP2/3P2P2/9/9/7R1/3p3R1/3n3C1/4r4/3K5 w - - 0 1",
+    "name": "五卒擒王",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:04.000Z"
+  },
+  {
+    "fen": "4k4/4aP3/4b4/p8/9/8C/4P1P2/4pcr2/4p4/5K1R1 w - - 0 1",
+    "name": "紅娘裁衣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:05.000Z"
+  },
+  {
+    "fen": "4k4/2r6/4c1P2/9/9/9/9/1Cp3p2/4p4/3K1R1R1 w - - 0 1",
+    "name": "拋金誘敵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:06.000Z"
+  },
+  {
+    "fen": "1c3kb2/3PP4/4br3/4p1p2/7N1/9/r1P3C2/9/1p2p4/3K5 w - - 0 1",
+    "name": "霸王卸甲1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:07.000Z"
+  },
+  {
+    "fen": "1c3kb2/3PP4/4br3/4p1p2/7N1/9/6C2/9/1p2p4/3K5 w - - 0 1",
+    "name": "霸王卸甲2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:41.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/8b/9/2n4R1/7R1/7C1/4p4/2pr1p3/4K4 w - - 0 1",
+    "name": "烏鴉殉主",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:42.000Z"
+  },
+  {
+    "fen": "3k5/1P2P1P2/3c5/2P6/9/4P4/6n2/6p2/3r1p1C1/4K2R1 w - - 0 1",
+    "name": "卧榻聞蹄改",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:43.000Z"
+  },
+  {
+    "fen": "c2k4r/1P2P4/3n5/1P7/8C/6RRC/9/5p3/4p4/3p1K3 w - - 0 1",
+    "name": "如夢方醒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:44.000Z"
+  },
+  {
+    "fen": "3k5/9/1r7/9/1Pp6/9/9/cR1pBK3/9/1CB6 w - - 0 1",
+    "name": "中月秋實",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:45.000Z"
+  },
+  {
+    "fen": "9/4c4/3aka3/3P1P3/3P1P3/9/9/9/2pR1pc2/3K1n3 w - - 0 1",
+    "name": "獨守孤城",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:46.000Z"
+  },
+  {
+    "fen": "5k3/2P1P3P/9/9/9/9/9/3p5/4pC3/3K5 w - - 0 1",
+    "name": "項莊武劍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:47.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3r5/9/5C3/5R3/9/B3p4/3p1K1p1/9 w - - 0 1",
+    "name": "居高思危",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:48.000Z"
+  },
+  {
+    "fen": "4Pn3/4R4/3k5/3r1P3/7C1/7C1/4Pp1R1/9/4p4/5K3 w - - 0 1",
+    "name": "太白醉寫",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:49.000Z"
+  },
+  {
+    "fen": "1P3k1P1/9/2PP1arP1/9/9/9/9/4Rp3/3p1p3/1p2K4 w - - 0 1",
+    "name": "二奪魁",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:50.000Z"
+  },
+  {
+    "fen": "R1C1k1C2/4a4/4c4/9/9/7R1/9/5p3/4p4/5K3 w - - 0 1",
+    "name": "調虎離山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:51.000Z"
+  },
+  {
+    "fen": "r2k5/9/4b4/3P5/9/9/2P6/1p7/2c5C/5K1pR w - - 0 1",
+    "name": "玉含香作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:52.000Z"
+  },
+  {
+    "fen": "3k3r1/4PP3/4PP3/9/9/8C/9/9/3r5/1n2K3R w - - 0 1",
+    "name": "玉含香作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:53.000Z"
+  },
+  {
+    "fen": "4k4/4a4/4N1Pc1/1c3C3/9/1R4C2/9/4Bp3/4p4/5K1p1 w - - 0 1",
+    "name": "江湖野局9",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:54.000Z"
+  },
+  {
+    "fen": "9/4P4/3k2n2/6P2/9/9/9/1cp1BK3/4r4/7CR w - - 0 1",
+    "name": "玉含香作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:55.000Z"
+  },
+  {
+    "fen": "3k5/1P1CPP3/9/9/9/9/9/1p3p3/4p4/5K3 w - - 0 1",
+    "name": "江湖野局12",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:56.000Z"
+  },
+  {
+    "fen": "3k1n3/4P4/9/8R/5P3/8R/3r3CC/4p4/3p1K1p1/9 w - - 0 1",
+    "name": "江湖野局10",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:57.000Z"
+  },
+  {
+    "fen": "4k4/3P5/3Rr4/P8/6bCC/5pR2/9/3p4c/4p3N/3K5 w - - 0 1",
+    "name": "綠皮作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:58.000Z"
+  },
+  {
+    "fen": "4k4/4an3/1N1ab4/9/7CR/8C/9/B3Bp3/p3r4/3R1K3 w - - 0 1",
+    "name": "江湖野局11",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:59.000Z"
+  },
+  {
+    "fen": "5R3/3krP3/3aP4/9/9/2P6/9/2pA5/3KN4/5r3 w - - 0 1",
+    "name": "江湖殘局13",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:01:00.000Z"
+  },
+  {
+    "fen": "P4k3/3Pa2P1/b3Rr3/5R3/6b2/2B6/4p4/4Bp3/2ppr4/5K1p1 w - - 0 1",
+    "name": "卧鎮淮南",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:01:01.000Z"
+  },
+  {
+    "fen": "4ck3/1P2P4/9/7P1/r3n3R/8C/9/9/3p1p3/4K4 w - - 0 1",
+    "name": "全福亮作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:01:02.000Z"
+  },
+  {
+    "fen": "rc3k1P1/P3P4/P1c6/4p4/2b5R/8R/8C/9/4prp2/2BK5 w - - 0 1",
+    "name": "江湖野局14",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:01:03.000Z"
+  },
+  {
+    "fen": "4k4/5r2P/9/4p3P/2C6/2R6/9/2r1B4/4pp3/1pRK5 w - - 0 1",
+    "name": "金氣秋分",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:00.000Z"
+  },
+  {
+    "fen": "3ak4/3naP1CR/9/9/9/9/9/1rp1B4/4p4/3K5 w - - 0 1",
+    "name": "江湖野局15",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:01.000Z"
+  },
+  {
+    "fen": "1P1k2b2/4PP3/P3b4/4R4/4R4/9/9/2p1BA3/3r1p3/4K1B2 w - - 0 1",
+    "name": "江湖野局16",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:02.000Z"
+  },
+  {
+    "fen": "1C1k5/2P2n3/2P2n3/9/8R/6p2/7C1/9/3r5/4Kcr2 w - - 0 1",
+    "name": "江湖野局17",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:03.000Z"
+  },
+  {
+    "fen": "5kr2/4R4/4P3b/8C/6RCc/9/9/9/4pp3/3K1p3 w - - 0 1",
+    "name": "秦楚罷兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:04.000Z"
+  },
+  {
+    "fen": "3k4r/4P4/3n5/9/8C/6RRC/9/1p2p4/3p1p3/4K4 w - - 0 1",
+    "name": "棋緣作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:05.000Z"
+  },
+  {
+    "fen": "5k3/4P4/bcPP1r3/9/9/7C1/3n5/7C1/4p4/3K3R1 w - - 0 1",
+    "name": "晨雨殘星",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:06.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/9/9/9/9/3p2CCR/8B/2p2p3/3K5 w - - 0 1",
+    "name": "隔壁猜枚",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:07.000Z"
+  },
+  {
+    "fen": "P2k1rr2/4P4/P8/9/9/5pB2/4P4/c1p1BK3/4p4/6CCR w - - 0 1",
+    "name": "江湖野局18",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:08.000Z"
+  },
+  {
+    "fen": "2bk4C/2P1a1P2/4b4/6pR1/9/3n5/9/3K1pp2/1pp1r4/4n4 w - - 0 1",
+    "name": "江湖野局19",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:09.000Z"
+  },
+  {
+    "fen": "4k2c1/4a4/3ab4/2C6/9/4P4/9/5p3/4r4/3R1K1R1 w - - 0 1",
+    "name": "江湖野局20",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:10.000Z"
+  },
+  {
+    "fen": "3P1k1c1/4P2P1/3n5/8R/9/9/9/3Ap4/4pr3/3KN3C w - - 0 1",
+    "name": "玉含香作品4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:11.000Z"
+  },
+  {
+    "fen": "3R5/4k4/9/9/8P/9/5R3/4pp3/4p4/5K3 w - - 0 1",
+    "name": "全福亮作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:12.000Z"
+  },
+  {
+    "fen": "2ck5/4P4/4b1R2/9/4pr3/7CR/9/3p4B/4p4/3K1p3 w - - 0 1",
+    "name": "江湖野局21",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:13.000Z"
+  },
+  {
+    "fen": "2b1k4/2PRaR2r/3ab3r/4C4/9/6B2/9/1p2C4/4pp3/3K5 w - - 0 1",
+    "name": "江湖野局22",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:14.000Z"
+  },
+  {
+    "fen": "2r2k3/2N1P4/4Pr3/9/9/8C/9/4p3C/3p1p2R/2R1K4 w - - 0 1",
+    "name": "綠皮作品2",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:15.000Z"
+  },
+  {
+    "fen": "2ck5/4P4/3r3P1/6C2/6C2/2p3R2/8R/B2p4B/4p4/3K5 w - - 0 1",
+    "name": "五桂聯芳",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:16.000Z"
+  },
+  {
+    "fen": "9/4P4/3kb4/5R3/5C3/9/6C2/3rpp3/9/5Kc2 w - - 0 1",
+    "name": "江湖野局23",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:17.000Z"
+  },
+  {
+    "fen": "3k5/4PP3/9/9/9/6B2/9/4pA2r/3pApC2/4K4 w - - 0 1",
+    "name": "趙殿忠作品1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:18.000Z"
+  },
+  {
+    "fen": "3k1p3/4P4/9/9/6CCR/3n4c/2Pn5/8B/5p3/4K4 w - - 0 1",
+    "name": "綠皮作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:19.000Z"
+  },
+  {
+    "fen": "5k3/4P4/4br3/3C5/9/3C5/9/B2RB4/1cN1p4/1p1K5 w - - 0 1",
+    "name": "雙關門",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:20.000Z"
+  }, 
+  {
+    "fen": "1P1k2b2/4PP3/P3b4/4R3P/4R4/6B2/9/4BA1p1/1p1r1p3/4K4 w - - 0 1",
+    "name": "六下江南",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:00.000Z"
+  },
+  {
+    "fen": "1r1kr3R/4a3R/2P1b4/6P2/9/9/9/B8/6p2/5K1cp w - - 0 1",
+    "name": "江湖野局24",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:01.000Z"
+  },
+  {
+    "fen": "2r1k4/5P3/6P2/9/9/8C/9/p2Cp4/4p4/3K1R2R w - - 0 1",
+    "name": "江湖野局25",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:02.000Z"
+  },
+  {
+    "fen": "2r1k4/4a4/6P2/2P6/9/9/7CR/4pp3/2r6/4KABc1 w - - 0 1",
+    "name": "玉含香作品5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:03.000Z"
+  },
+  {
+    "fen": "3k1cN2/1P7/2cN5/9/4r4/3R4n/4P4/1p1p5/n3p1p1p/3K2B1C w - - 0 1",
+    "name": "江湖野局26",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:04.000Z"
+  },
+  {
+    "fen": "3k5/4P4/4b1R2/n8/P8/1pB6/7c1/4B4/p2p1pC1C/2p1K1R1N w - - 0 1",
+    "name": "江湖野局27",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:05.000Z"
+  },
+  {
+    "fen": "3a1k3/4a4/4c4/9/1c4R2/9/9/3pB3C/2p1Ar3/4K2R1 w - - 0 1",
+    "name": "江湖野局28",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:06.000Z"
+  },
+  {
+    "fen": "8C/3P1k3/3a1a3/9/9/3CR4/4N4/4p4/n3r4/3p1KB2 w - - 0 1",
+    "name": "江湖野局29",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:07.000Z"
+  },
+  {
+    "fen": "3k2c2/4P4/6P2/6P2/6P2/5p3/9/1cp1BK3/4p4/7CR w - - 0 1",
+    "name": "四寇擒王",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:08.000Z"
+  },
+  {
+    "fen": "9/9/4k4/9/9/9/9/3pppR2/5pR2/4K1B2 w - - 0 1",
+    "name": "五虎平西",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:09.000Z"
+  },
+  {
+    "fen": "5k3/4P4/5r1P1/3Pp4/2C6/2C6/2R6/1p1A1Ap2/1cRp1K3/3p5 w - - 0 1",
+    "name": "婕好當熊",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:10.000Z"
+  },
+  {
+    "fen": "4ck3/2P1P4/5r3/6C2/6C2/6RR1/9/3p5/4p4/3K2B2 w - - 0 1",
+    "name": "江湖野局31",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:11.000Z"
+  },
+  {
+    "fen": "P2k1r3/4P4/4b4/9/9/9/3p2CCR/8B/p1p2p3/3K5 w - - 0 1",
+    "name": "江湖野局32",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:12.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/2p4p1/8N/2p1p4/3K1RRC1 w - - 0 1",
+    "name": "綠皮作品4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:13.000Z"
+  },
+  {
+    "fen": "4k1n2/6P2/6N2/9/9/5rn2/2p6/4p2CR/3p1p3/4K4 w - - 0 1",
+    "name": "綠皮作品5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:14.000Z"
+  },
+  {
+    "fen": "5k3/4a1c2/PPPPRnRP1/9/9/6p2/9/5p3/3p1p3/1p2K4 w - - 0 1",
+    "name": "江湖野局34",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:15.000Z"
+  },
+  {
+    "fen": "3k3P1/3rr1R2/3N3P1/7P1/6bnp/6pnp/1CC2p3/2R6/4p2c1/5K2c w - - 0 1",
+    "name": "高山流水",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:16.000Z"
+  },
+  {
+    "fen": "3k5/4PP3/4r4/p3c4/9/R8/P2C5/B6p1/3p2p2/4K1B2 w- - 0 1",
+    "name": "雙馬歸營",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:17.000Z"
+  },
+  {
+    "fen": "3k5/4PP3/4r4/p3c4/9/R8/P2C5/B6p1/3p2p2/4K1B2 w - - 0 1",
+    "name": "激流雕岩",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:00.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/2p4p1/8N/2p1p4/3K1RRC1 w - - 0 1",
+    "name": "江湖野局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:01.000Z"
+  },
+  {
+    "fen": "339/9/4k4/9/9/9/9/3pppR2/5pR2/4K1B2 w - - 0 1",
+    "name": "江湖野局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:02.000Z"
+  },
+  {
+    "fen": "302ck5/4P4/3r3P1/6C2/6C2/2p3R2/8R/B2p4B/4p4/3K5 w - - 0 1",
+    "name": "小鴻燕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:03.000Z"
+  },
+  {
+    "fen": "3R5/4k4/9/9/8P/9/5R3/4pp3/4p4/5K3 w - - 0 1",
+    "name": "歲寒三友",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:04.000Z"
+  },
+  {
+    "fen": "P2k1rr2/4P4/P8/9/9/5pB2/4P4/c1p1BK3/4p4/6CCR w - - 0 1",
+    "name": "將軍掛印",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:05.000Z"
+  },
+  {
+    "fen": "5kr2/4R4/4P3b/8C/6RCc/9/9/9/4pp3/3K1p3 w - - 0 1",
+    "name": "火燒赤壁",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-25T16:00:06.000Z"
+  },
+  {
+    "fen": "1Pb1k1P2/2P2cP2/4bP3/9/8p/9/2N6/9/1p2p4/2BK1pN2 w - - 0 1",
+    "name": "江湖野局35",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:00.000Z"
+  },
+  {
+    "fen": "2ck3r1/4P4/3cb4/4Rn3/9/7RC/9/4pp3/4p3p/5K3 w - - 0 1",
+    "name": "綠皮作品3",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:01.000Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/7R1/1c7/3A1A3/c1p1N4/1p1K3R1 w - - 0 1",
+    "name": "智門二虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:02.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/RRn3b2/9/9/4p4/5pp2/4K3c w - - 0 1",
+    "name": "關羽巡城",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:03.000Z"
+  },
+  {
+    "fen": "3k5/4an3/3PbaP2/9/8R/9/9/p8/r8/p2Kc1r2 w - - 0 1",
+    "name": "紅雙兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:04.000Z"
+  },
+  {
+    "fen": "4k4/4a4/4P3P/9/9/9/2pp3R1/4B1p2/4pp3/3K2B2 w - - 0 1",
+    "name": "江湖野局36",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:05.000Z"
+  },
+  {
+    "fen": "3ak4/4a4/4b4/9/2p5P/2r6/9/6p2/2R1p4/5K2R w - - 0 1",
+    "name": "江湖野局37",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:06.000Z"
+  },
+  {
+    "fen": "5k3/3Cc1P1r/2c2N3/9/9/9/9/9/3p2r2/3CKR3 w - - 0 1",
+    "name": "螳臂擋車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:07.000Z"
+  },
+  {
+    "fen": "2bak4/4aR3/N3nc3/4P4/8R/9/7CP/5A3/2rp1r3/4KA3 w - - 0 1",
+    "name": "江湖野局38",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:08.000Z"
+  },
+  {
+    "fen": "6r2/9/5kr2/p5Pc1/7P1/9/4P1R2/9/4App2/4K4 w - - 0 1",
+    "name": "綠皮作品4",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:09.000Z"
+  },
+  {
+    "fen": "3k5/4P4/4Pn3/4Pc3/9/9/C8/3p5/R3prp2/3K3R1 w - - 0 1",
+    "name": "江湖野局40",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:10.000Z"
+  },
+  {
+    "fen": "3k5/P1r1P1RC1/3ab4/9/R8/9/4n4/B2A1N3/2p6/3K1p3 w - - 0 1",
+    "name": "江湖野局41",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:11.000Z"
+  },
+  {
+    "fen": "4k4/3P1RPP1/4r4/2C5p/2b6/2Bcnr2P/9/9/4pR3/5K3 w - - 0 1",
+    "name": "江湖野局42",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:12.000Z"
+  },
+  {
+    "fen": "3k5/4R4/3rb4/7C1/7C1/7R1/9/9/5r3/3AK4 w - - 0 1",
+    "name": "江湖野局43",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:13.000Z"
+  },
+  {
+    "fen": "2r2k3/4P4/9/9/7c1/2P6/RC7/4C4/3np4/3K1p3 w - - 0 1",
+    "name": "江湖野局44",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:14.000Z"
+  },
+  {
+    "fen": "4k1b2/3P5/9/9/9/9/3p4R/3p4R/4p2C1/3K1p2C w - - 0 1",
+    "name": "識將回軍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:15.000Z"
+  },
+  {
+    "fen": "3k1r3/4R1P2/9/9/4P4/9/7CR/4p4/3p2p2/4K4 w - - 0 1",
+    "name": "江湖野局45",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:16.000Z"
+  },
+  {
+    "fen": "3k3r1/4R3P/4Pr3/3P5/9/9/9/5p3/4p3n/3p1KRC1 w - - 0 1",
+    "name": "江湖野局46",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:17.000Z"
+  },
+  {
+    "fen": "4k4/4a4/3cb4/9/P8/8C/4p4/B8/2p1p4/3K1RR1N w - - 0 1",
+    "name": "江湖野局47",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:18.000Z"
+  },
+  {
+    "fen": "3k5/3rP1r2/2Pn5/3C5/9/9/9/9/9/3A1K3 w - - 0 1",
+    "name": "江湖野局48",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:19.000Z"
+  },
+  {
+    "fen": "2nk3P1/4PP3/Pr6R/p7R/2b6/8C/9/4B4/2pr1p3/2B1KA3 w - - 0 1",
+    "name": "江湖野局49",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:20.000Z"
+  },
+  {
+    "fen": "1NCk5/4an3/b2Pb4/9/8R/9/9/9/2pn1p3/3Kcr3 w - - 0 1",
+    "name": "過眼雲煙",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:21.000Z"
+  },
+  {
+    "fen": "2r1k4/4a4/9/9/7CR/9/9/c2p3R1/1p2p1p2/3K5 w - - 0 1",
+    "name": "江湖野局50",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:22.000Z"
+  },
+  {
+    "fen": "6bNR/9/5k3/9/9/5C1CR/3rP4/3p1n3/2p1p4/3K5 w - - 0 1",
+    "name": "江湖野局51",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:23.000Z"
+  },
+  {
+    "fen": "2nk2P2/4P4/9/9/6p2/P6R1/7R1/5p3/3rp4/5K1C1 w - - 0 1",
+    "name": "江湖野局52",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:24.000Z"
+  },
+  {
+    "fen": "3ak4/2NCa4/3nb3R/3r5/r1b6/6P2/9/3p4p/9/3K1p3 w - - 0 1",
+    "name": "江湖野局53",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:25.000Z"
+  },
+  {
+    "fen": "2c2k3/2nNP4/5r3/9/9/9/7C1/3p3C1/4p4/3K2RR1 w - - 0 1",
+    "name": "綠皮作品5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:26.000Z"
+  },
+  {
+    "fen": "2bk1n3/4P3r/3rb4/1R7/1N7/9/9/2C6/4p2p1/5K3 w - - 0 1",
+    "name": "江湖野局54",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:27.000Z"
+  },
+  {
+    "fen": "1P5n1/3P5/2Pc1k3/9/5P3/9/2p6/4p2p1/4p4/3K4R w - - 0 1",
+    "name": "江湖野局55",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:28.000Z"
+  },
+  {
+    "fen": "1P2ka2c/5cR2/2PP1P1C1/9/9/9/9/9/4r1p2/1p1K5 w - - 0 1",
+    "name": "玉含香作品6",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:29.000Z"
+  },
+  {
+    "fen": "6b2/P2Pck3/1R5r1/2P6/9/9/9/3Ap4/4p4/3K3Rr w - - 0 1",
+    "name": "江湖野局56",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:30.000Z"
+  },
+  {
+    "fen": "4ka3/4aR3/4NR3/9/9/2C6/9/2c2p3/4p4/3p1K3 w - - 0 1",
+    "name": "江湖野局57",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:31.000Z"
+  },
+  {
+    "fen": "4ck1P1/4P4/4b4/9/2b6/8R/1p6R/4n3C/3r1r3/4KN3 w - - 0 1",
+    "name": "江湖野局58",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T16:00:32.000Z"
+  },
+  {
+    "fen": "3a5/1c1ka4/9/6p2/2c1N4/2np2R2/4r4/3p1r1n1/4p4/3K5 w - - 0 1",
+    "name": "江湖野局59",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:00.000Z"
+  },
+  {
+    "fen": "3k5/4P4/R3b4/2R2N3/9/CCB6/3r5/9/1p1pr4/c4K3 w - - 0 1",
+    "name": "江湖野局60",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:01.000Z"
+  },
+  {
+    "fen": "2b1k4/3naP3/b3c4/p1p3p2/7CR/8R/P1P3P1P/2r1p4/4p4/3K5 w - - 0 1",
+    "name": "六出祁山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:02.000Z"
+  },
+  {
+    "fen": "4k3c/3r5/4bnRPR/8p/6p2/8P/9/4B4/3pp4/5K1p1 w - - 0 1",
+    "name": "江湖野局61",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:03.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/4b4/2c3P2/9/9/4p4/9/3p3CR/4K4 w - - 0 1",
+    "name": "江湖野局62",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:04.000Z"
+  },
+  {
+    "fen": "3k1r3/4R4/4C4/9/6P2/4pn3/7CR/3p1p3/4r4/3K5 w - - 0 1",
+    "name": "綠皮作品6",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:05.000Z"
+  },
+  {
+    "fen": "1r1aka3/3P5/5c3/9/9/7R1/9/4C4/4p4/3p1K3 w - - 0 1",
+    "name": "江湖野局63",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:06.000Z"
+  },
+  {
+    "fen": "3k1a3/2P1a1N2/b8/9/9/9/2p4R1/2p4R1/1rrc1p3/4K2C1 w - - 0 1",
+    "name": "四出祁山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:07.000Z"
+  },
+  {
+    "fen": "9/6RC1/1C2ka3/9/4Pc3/9/9/3p1N3/4r1n2/1p1K5 w - - 0 1",
+    "name": "江湖野局64",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:08.000Z"
+  },
+  {
+    "fen": "3k2b2/4P1PP1/1P4p2/9/9/9/8R/5n2C/3Np4/3K1c3 w - - 0 1",
+    "name": "玉含香作品6",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:09.000Z"
+  },
+  {
+    "fen": "4k4/3R1C3/3R5/9/9/9/4r4/B3B4/1r2p4/3K5 w - - 0 1",
+    "name": "平分秋色",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:10.000Z"
+  },
+  {
+    "fen": "3r1P3/3k5/3n5/2pP5/9/9/9/3RC4/3Cpc3/3p1K3 w - - 0 1",
+    "name": "江湖野局65",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:11.000Z"
+  },
+  {
+    "fen": "6bC1/5k3/4Pr3/7N1/9/9/9/4p3B/4rp3/3K5 w - - 0 1",
+    "name": "江湖野局66",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:12.000Z"
+  },
+  {
+    "fen": "2r1k4/4a4/4c4/6C1R/9/7R1/P8/3p5/4p4/3K5 w - - 0 1",
+    "name": "江湖野局67",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:13.000Z"
+  },
+  {
+    "fen": "Pr2P4/3k5/n8/5P3/9/8C/9/3App3/4p4/2BK3RC w - - 0 1",
+    "name": "江湖野局68",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:14.000Z"
+  },
+  {
+    "fen": "5k1P1/3PP4/4b4/2P3p2/2b6/6B2/r7R/r7R/2ppAc3/4K1n1C w - - 0 1",
+    "name": "二出祁山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:15.000Z"
+  },
+  {
+    "fen": "3k3C1/c3P4/4P4/9/3P5/9/9/9/cn2r4/5K1RR w - - 0 1",
+    "name": "江湖野局69",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:16.000Z"
+  },
+  {
+    "fen": "3k2r2/4PP3/5n3/9/9/7CR/8C/4B4/4p2pc/5KB2 w - - 0 1",
+    "name": "江湖野局70",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:17.000Z"
+  },
+  {
+    "fen": "6R2/4k1PP1/4b1r2/6c2/9/9/9/3A5/5p3/1pp1K4 w - - 0 1",
+    "name": "綠皮作品7",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:18.000Z"
+  },
+  {
+    "fen": "3k2b2/4P4/9/9/9/2p6/8R/8R/1pprAp1CC/c3K1p2 w - - 0 1",
+    "name": "三出祁山",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:19.000Z"
+  },
+  {
+    "fen": "5k3/4P4/P3br3/1C5P1/1C7/1R7/9/9/3p5/4KA3 w - - 0 1",
+    "name": "江湖野局39",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:20.000Z"
+  },
+  {
+    "fen": "3k5/4R4/3r5/7C1/7C1/7R1/9/3p4B/4p4/3K5 w - - 0 1",
+    "name": "玲瓏十子",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:21.000Z"
+  },
+  {
+    "fen": "9/4PP3/4bk3/3R5/3C5/2C6/5r3/3pp4/3p5/2c1K4 w - - 0 1",
+    "name": "江湖野局71",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:22.000Z"
+  },
+  {
+    "fen": "9/9/4k4/9/2b6/2N6/9/2p1p4/3K5/2NA1R2R w - - 0 1",
+    "name": "天女散花",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:23.000Z"
+  },
+  {
+    "fen": "3k2C2/4P4/4c1R2/9/9/1n7/4R4/2pB5/3KA2r1/9 w - - 0 1",
+    "name": "江湖野局72",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:24.000Z"
+  },
+  {
+    "fen": "3rk4/4a4/cP7/2P5p/5R1R1/2B6/3n5/9/4p4/2BK5 w - - 0 1",
+    "name": "江湖野局73",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:25.000Z"
+  },
+  {
+    "fen": "3P1k3/1r7/4Pr3/9/9/9/9/9/2pp1N3/c3KC3 w - - 0 1",
+    "name": "江湖野局74",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:26.000Z"
+  },
+  {
+    "fen": "9/4PP3/2n1k4/9/9/RC5r1/4p4/3K1Ap2/4A4/5p3 w - - 0 1",
+    "name": "江湖野局75",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:27.000Z"
+  },
+  {
+    "fen": "1r2ka3/3Pa3C/4b1CRN/9/9/9/4n4/9/4Ap3/4K1c2 w - - 0 1",
+    "name": "江湖野局76",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:28.000Z"
+  },
+  {
+    "fen": "4r4/9/5k1P1/6P2/9/8R/9/3Ap4/3pAp3/2n1K1c1C w - - 0 1",
+    "name": "江湖野局77",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:29.000Z"
+  },
+  {
+    "fen": "4k4/1P3P3/b8/9/4P4/4p4/9/8B/1p3p3/4K4 w - - 0 1",
+    "name": "江湖野局78",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:30.000Z"
+  },
+  {
+    "fen": "4k4/3Pa4/3Pb2PR/9/9/6B2/9/3p2N2/5p3/3Kc1r2 w - - 0 1",
+    "name": "揮戈止日",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:31.000Z"
+  },
+  {
+    "fen": "4k4/9/9/p8/9/8N/9/9/4p1p2/1R1R1KN2 w - - 0 1",
+    "name": "江湖野局79",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:32.000Z"
+  },
+  {
+    "fen": "P2k3rr/4P4/8b/9/R1C6/9/9/3N5/4p1p2/R1cK5 w - - 0 1",
+    "name": "江湖野局80",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:33.000Z"
+  },
+  {
+    "fen": "5r2R/9/5k3/9/4c4/2N6/3p5/9/4p4/3K1p3 w - - 0 1",
+    "name": "江湖野局81",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:34.000Z"
+  },
+  {
+    "fen": "r1bk2P2/4P4/c8/2p1P4/9/8R/8R/4Bp3/3rp4/1C3K2C w - - 0 1",
+    "name": "雕龍畫鳳",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:35.000Z"
+  },
+  {
+    "fen": "r4k3/4P4/c8/5r3/7C1/5n1R1/9/4B4/4p4/5KB2 w - - 0 1",
+    "name": "江湖野局82",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:36.000Z"
+  },
+  {
+    "fen": "3k2b2/4P4/9/4c4/9/2P1r2CR/9/2pA5/3KAp3/5R3 w - - 0 1",
+    "name": "江湖野局83",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:37.000Z"
+  },
+  {
+    "fen": "r4kn2/4P4/9/6P2/9/9/9/3KnA2c/2p6/1R2R2C1 w - - 0 1",
+    "name": "江湖野局84",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:38.000Z"
+  },
+  {
+    "fen": "3k1r3/4R1P2/C3bcP2/9/9/9/9/7CR/3pp4/3p1K3 w - - 0 1",
+    "name": "綠皮作品8",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:39.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3r5/7C1/3P5/9/9/4C4/1cr2p3/3AKA1R1 w - - 0 1",
+    "name": "江湖野局85",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:40.000Z"
+  },
+  {
+    "fen": "1c3k3/C3R4/9/3P5/9/9/9/3npA3/3pA1p2/R4K3 w - - 0 1",
+    "name": "江湖野局86",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:41.000Z"
+  },
+  {
+    "fen": "4k1r2/2P2P3/9/9/9/7CR/c8/B8/4pn3/2nK4R w - - 0 1",
+    "name": "江湖野局87",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:42.000Z"
+  },
+  {
+    "fen": "5k3/4P4/9/4p4/2P2rb2/2c6/2p1P4/B3p3C/4p4/3K4R w - - 0 1",
+    "name": "八仙過海",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:43.000Z"
+  },
+  {
+    "fen": "c8/2P1ak3/b3baPRR/9/5PC2/6p2/9/9/4p4/1p1K5 w - - 0 1",
+    "name": "江湖野局88",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:44.000Z"
+  },
+  {
+    "fen": "3k5/4R4/9/3r5/9/1C7/1R6c/2p1p4/3Npp3/2BK5 w - - 0 1",
+    "name": "江湖野局89",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:45.000Z"
+  },
+  {
+    "fen": "9/9/3k1N1R1/P8/4r1b2/9/4PpP2/4B4/4p1pr1/5K3 w - - 0 1",
+    "name": "江湖野局90",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:46.000Z"
+  },
+  {
+    "fen": "5k3/1r1PP4/2P2r3/C8/R8/4P4/p8/B3p4/4p3c/2cK4p w - - 0 1",
+    "name": "江湖野局91",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:00.000Z"
+  },
+  {
+    "fen": "2r2kr2/4R4/9/7CR/9/9/9/4Bn1p1/4pp2N/3K5 w - - 0 1",
+    "name": "江湖野局92",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:01.000Z"
+  },
+  {
+    "fen": "1CPP1k1c1/7P1/3N5/9/2b6/9/2n1p3R/3Kc3R/5r3/8C w - - 0 1",
+    "name": "江湖野局93",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:02.000Z"
+  },
+  {
+    "fen": "2rc1k3/4P3P/3n5/2N6/9/9/5p3/9/1RC1r4/4NK3 w - - 0 1",
+    "name": "江湖野局94",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:03.000Z"
+  },
+  {
+    "fen": "4P4/4r1P2/1P1kbc3/9/4C1r2/9/9/9/3Cp4/3K1c3 w - - 0 1",
+    "name": "螞蟻啃骨頭",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:04.000Z"
+  },
+  {
+    "fen": "3k2C2/9/7P1/9/9/5R3/4p3p/3N1R2C/4p2cc/5KB2 w - - 0 1",
+    "name": "五鬼鬧宅",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:05.000Z"
+  },
+  {
+    "fen": "2P1k4/6r2/4b4/9/9/9/9/9/4Ap3/R3KAp2 w - - 0 1",
+    "name": "江湖野局95",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:06.000Z"
+  },
+  {
+    "fen": "4k1b2/2PP2P2/9/9/9/9/7R1/3p3C1/4r3c/2NK3p1 w - - 0 1",
+    "name": "江湖野局96",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:07.000Z"
+  },
+  {
+    "fen": "3k5/4P4/b2r5/5C1P1/5C3/5Rp2/5R3/4B2NB/4p1cc1/5K1p1 w - - 0 1",
+    "name": "武松醉酒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:08.000Z"
+  },
+  {
+    "fen": "4k1r2/3P5/b1P6/9/9/1C7/9/4pC2p/4p4/1R1R1K3 w - - 0 1",
+    "name": "江湖野局97",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:09.000Z"
+  },
+  {
+    "fen": "2b2k3/1P1PP4/4b4/4R2P1/4R4/9/9/4B1p2/3p1r1p1/3AK1B2 w - - 0 1",
+    "name": "江湖野局98",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:10.000Z"
+  },
+  {
+    "fen": "3k2r2/4P4/7CR/9/9/1N1p5/4p4/3nB2c1/4p4/2CK5 w - - 0 1",
+    "name": "江湖野局99",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:11.000Z"
+  },
+  {
+    "fen": "3k2c2/4P4/9/9/9/9/1p6N/c4K3/4pnp2/7CR w - - 0 1",
+    "name": "江湖野局100",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:12.000Z"
+  },
+  {
+    "fen": "2r1k4/2r6/9/9/9/9/8N/2N6/4p4/3K1RRC1 w - - 0 1",
+    "name": "江湖野局101",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:13.000Z"
+  },
+  {
+    "fen": "1cr2k2P/4P4/9/9/1c7/9/RC7/R3B3B/4p4/2CK1np2 w - - 0 1",
+    "name": "飛軒迎月",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:14.000Z"
+  },
+  {
+    "fen": "5k3/2NPR2P1/5C3/9/6p2/9/9/4B4/4Apcr1/4K4 w - - 0 1",
+    "name": "江湖野局102",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:00.000Z"
+  },
+  {
+    "fen": "3r5/9/1P1k1n2c/9/9/9/9/3C1p2r/2p6/2BR1K3 w - - 0 1",
+    "name": "綠皮作品8",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:01.000Z"
+  },
+  {
+    "fen": "4ck3/1r2P4/1P3r3/7C1/7C1/7R1/7R1/4B4/3p1p3/4K4 w - - 0 1",
+    "name": "跨海征東",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:02.000Z"
+  },
+  {
+    "fen": "3k5/1cN1an3/1P1Pb4/9/9/9/9/3rcK2R/3ppp3/9 w - - 0 1",
+    "name": "江湖野局103",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:03.000Z"
+  },
+  {
+    "fen": "5k3/4P4/8c/5r1PC/9/4n4/9/4n1C2/4p4/3K2R2 w - - 0 1",
+    "name": "江湖野局104",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:04.000Z"
+  },
+  {
+    "fen": "3k1C3/4P4/2c6/9/7R1/7R1/5p1Cn/9/3rp4/5K3 w - - 0 1",
+    "name": "江湖野局105",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-27T16:00:05.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/9/5pp2/4p4/1CRR1KN2 w - - 0 1",
+    "name": "江湖野局106",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "5r3/9/4k3C/9/4P4/9/8R/4p4/4p4/2BK5 w - - 0 1",
+    "name": "綠皮作品9",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "C4k3/C5P2/3P1a3/3P5/9/9/9/5p3/p2rr4/1p3KR2 w - - 0 1",
+    "name": "花心取蜜",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/2c6/6p2/2P6/4N4/5p3/4p4/5K3/7CR w - - 0 1",
+    "name": "清兵入關",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "4k4/5R3/2P6/9/r1N5C/9/c8/9/2prAn3/4KA2R w - - 0 1",
+    "name": "江湖野局107",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "3C1k3/4P4/9/1R7/3Rc4/9/5r3/9/4p4/3K1n3 w - - 0 1",
+    "name": "江湖野局108",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "3k2c2/1P2P4/7CR/9/4P4/9/6N2/5Ar2/6r2/4K2c1 w - - 0 1",
+    "name": "江湖野局109",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "2ck2r2/4P4/1PP1b4/9/7CR/9/9/9/3pp4/3nCK3 w - - 0 1",
+    "name": "江湖野局110",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "5k3/4R4/4P4/3C5/2N1P4/9/6c2/p1p1p4/4pp3/3K2R2 w - - 0 1",
+    "name": "江湖野局111",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "3k5/4P4/9/1c3C3/2p6/9/9/r2p3C1/6p2/2BK3R1 w - - 0 1",
+    "name": "江湖野局112",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "4k4/2RC1CR2/3aNa3/4N4/9/9/6p2/2n2A3/9/crn1K4 w - - 0 1",
+    "name": "江湖野局113",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "3k2P2/4P4/9/9/1n7/9/9/B2C4c/4p3p/3K5 w - - 0 1",
+    "name": "半邊月1",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "3k5/6N2/3P5/9/9/6p2/9/2Nrc3C/3p1K1n1/4n3R w - - 0 1",
+    "name": "江湖野局114",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "1P2k4/9/3aP4/9/9/7n1/7c1/4R4/3p1p3/4K4 w - - 0 1",
+    "name": "江湖野局115",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "3k5/1P2PP1P1/9/4cc3/9/9/3n1r3/3A1A3/1R3K3/1R7 w - - 0 1",
+    "name": "關公巡城",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "1Rb2k3/2r1P4/4P4/3C1P2P/9/5p3/9/9/1C2p4/3K5 w - - 0 1",
+    "name": "緩兵之計",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3r5/4n4/4P4/2p6/9/1c7/3p1pC1N/2p1K1R1R w - - 0 1",
+    "name": "江湖野局116",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/4P3b/1n5R1/7R1/9/9/1c2B4/2pr1p3/2B1K4 w - - 0 1",
+    "name": "增兵減灶",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "3a5/2n1a4/5k3/1C7/9/1c2r4/7R1/B2p5/4p2R1/2BK5 w - - 0 1",
+    "name": "江湖野局117",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "R3rk1r1/R3a4/4b4/9/9/9/9/9/C1p6/pc1K5 w - - 0 1",
+    "name": "江湖野局118",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "3k5/P3a4/b2r2P1c/9/9/3R5/4P4/4r1NRC/1p1KAp3/3A5 w - - 0 1",
+    "name": "義釋華容",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3nb4/6R2/7CC/6R2/4c4/6p2/3r1p3/4K4 w - - 0 1",
+    "name": "江湖野局119",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "5k3/2P1P3P/5r2c/6P2/2b1p4/9/9/7C1/2pp3C1/4K2R1 w - - 0 1",
+    "name": "神兵天降",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/5P3/9/9/8P/3p2CCR/9/2p2p3/3K5 w - - 0 1",
+    "name": "合江獨釣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "5k3/4P3c/4P2Pc/9/9/4p4/5r3/6C2/2pp2C2/4K1R2 w - - 0 1",
+    "name": "七子二炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "3k2r2/4P4/4N4/7CR/9/9/3pr4/3NC4/3pp4/3n1K3 w - - 0 1",
+    "name": "七子花開",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "1r1k1P3/4a4/2P1b3R/2P6/9/9/9/9/6p2/5K1cp w - - 0 1",
+    "name": "炮在卒前藏殺機",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/9/9/4p4/1c2P2CC/c8/3pB4/6p2/3K3RR w - - 0 1",
+    "name": "空股傳聲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "1c1c1k3/2NPP4/4r4/9/9/2p2C3/9/4p2C1/3p1pp2/2B1K2RR w - - 0 1",
+    "name": "霹靂炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "2ck1rP2/4P4/2P6/5c3/4p4/RC7/6P2/7p1/3p2p2/1pB2K3 w - - 0 1",
+    "name": "江湖野局120",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "3k5/P3P4/9/9/4RnN2/8C/8R/4B4/3rp1p2/5K3 w - - 0 1",
+    "name": "貂蟬拜月",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "5k3/3PP4/b8/9/7n1/9/9/c4C2B/p3p4/5K3 w - - 0 1",
+    "name": "五雷新陣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "2c2k3/4P4/9/9/9/5rB2/8C/3pB3R/3p1p3/4K2R1 w - - 0 1",
+    "name": "黃龍鬥寶",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "1c3k3/3PP4/5r3/6C2/9/6C2/3c5/6R2/4p4/1p1K3R1 w - - 0 1",
+    "name": "小連環",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "3k1P3/4P4/5n3/9/C8/9/9/4pp3/2p3p2/4K2p1 w - - 0 1",
+    "name": "五子登科",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "5k3/3PR4/3PP4/9/9/9/2n6/3K1A3/3p5/8c w - - 0 1",
+    "name": "斜月三星",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "5k3/4P4/3P1r2b/7C1/7C1/3c3R1/9/9/4p4/3K2Bp1 w - - 0 1",
+    "name": "紅梅迎春",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "5k1cc/4P4/8b/3R1P3/9/9/2P6/2CRpr3/4pp3/3K2B2 w - - 0 1",
+    "name": "妙手解圍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "4k4/3PaPP2/3a1P3/9/9/9/9/3A1r3/3pApp2/4K4 w - - 0 1",
+    "name": "兩軍對壘",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "4k4/2PP1CC2/9/9/9/9/5p3/3p5/4p4/3K2B2 w - - 0 1",
+    "name": "江湖野局121",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "4k1r2/4a3P/4b3N/9/9/5CR2/2pN2P2/3KB4/4r4/2B2R3 w - - 0 1",
+    "name": "江湖野局122",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "3k4P/2P6/9/9/9/9/9/9/6p2/p4K3 w - - 0 1",
+    "name": "江湖野局123",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "3k5/3r5/3rP4/9/9/9/9/3C5/2pp5/4K2p1 w - - 0 1",
+    "name": "江湖野局124",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "4ck3/2P1P4/9/6r2/5C3/6RR1/9/3p5/4p4/3K2B2 w - - 0 1",
+    "name": "江湖野局125",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "P2ak4/4a4/4b4/9/6NRR/9/9/3pp4/Cr3p3/4K4 w - - 0 1",
+    "name": "百變星君",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "3k4C/2P1a4/3Nb4/9/6p2/9/r8/8B/2p1rn3/3K2pR1 w - - 0 1",
+    "name": "江湖野局126",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "1c3k3/3PP4/5r3/9/3c2C2/9/9/6R2/4p4/1p1K3R1 w - - 0 1",
+    "name": "江湖野局127",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/4b4/9/9/4R4/4R4/4BA3/1p1r1p3/4K4 w - - 0 1",
+    "name": "江湖野局128",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "3k5/4P1P2/4b4/P2P5/6R2/7Cr/1p5N1/9/4p4/3K5 w - - 0 1",
+    "name": "江湖野局129",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "4k4/9/3aP3b/p8/9/6n2/2P3p2/4R4/3p1p3/4K4 w - - 0 1",
+    "name": "大鵬展翅",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "2c2k3/3PP4/3PPr3/9/9/7C1/9/4p2C1/3p1p3/4K2RR w - - 0 1",
+    "name": "四郎探母",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:25.000Z"
+  },
+  {
+    "fen": "4P4/6P2/4karPb/9/8P/8P/9/8B/4N2C1/3AKAn2 w - - 0 1",
+    "name": "泥馬渡康王",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:26.000Z"
+  },
+  {
+    "fen": "2bak4/4a4/4b4/p8/6NRR/2B6/1rP1P3P/3pB4/4p4/3K5 w - - 0 1",
+    "name": "野馬操田",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:27.000Z"
+  },
+  {
+    "fen": "3ak4/4a4/4b4/9/2p6/5R2P/9/9/4p1p2/5K2R w - - 0 1",
+    "name": "蚯蚓降龍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:28.000Z"
+  },
+  {
+    "fen": "4k4/9/3aP3b/p8/9/6n2/2P3p2/4R4/3p1p3/4K4 w - - 0 1",
+    "name": "千里獨行",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:29.000Z"
+  },
+  {
+    "fen": "1r1ck4/3P5/3Pb2PR/9/8P/2P6/9/8B/3p5/4K4 w - - 0 1",
+    "name": "丹鳳朝陽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:30.000Z"
+  },
+  {
+    "fen": "1rPrk4/7R1/4b4/9/9/9/6P2/9/5p3/4KA3 w - - 0 1",
+    "name": "帶子入朝",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:31.000Z"
+  },
+  {
+    "fen": "4ck3/2P1P4/5r3/6C2/6C2/6RR1/9/p2p5/4p4/3K2B2 w - - 0 1",
+    "name": "大征西",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:32.000Z"
+  },
+  {
+    "fen": "4rk3/3P5/4bP3/9/9/8P/9/1p2p2C1/3p1p3/4K1RR1 w - - 0 1",
+    "name": "七星聚會",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:33.000Z"
+  },
+  {
+    "fen": "4kaP2/7C1/3ar4/4p4/9/9/5C3/3K5/9/9 w - - 0 1",
+    "name": "正面栓鏈",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:34.000Z"
+  },
+  {
+    "fen": "3n1k3/2P1P4/3c5/1R7/9/1C2n4/9/9/4p4/3K5 w - - 0 1",
+    "name": "五迷三道",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "3k2N2/4P4/4b4/3P5/7R1/9/4n4/9/3p3C1/r2cK4 w - - 0 1",
+    "name": "江湖野局131",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "3k2b2/4P4/4P4/4P4/1r5CR/1C7/1p6c/3n5/3K5/4r4 w - - 0 1",
+    "name": "江湖野局132",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "4k1b2/3P2P2/9/9/8R/8R/8C/3K1p3/4r3c/3A5 w - - 0 1",
+    "name": "食鮭防毒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "4k1P2/5P3/9/6pP1/9/1c7/9/6p2/3p4R/c1nA1K2C w - - 0 1",
+    "name": "棋動乾坤",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "1Rn2k3/4P4/9/9/1N7/2p6/8C/9/5r3/1r1cK4 w - - 0 1",
+    "name": "九尾龜宗旺",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "3k5/4R4/4b3C/6RCc/5P3/6B2/9/4p4/3pp2p1/5K3 w - - 0 1",
+    "name": "七子連吟",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "4rk3/Pc7/9/6P2/9/9/4n3R/9/3p5/4KC3 w - - 0 1",
+    "name": "江湖野局134",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "3ak4/4acR2/5r3/1N7/9/9/9/4pr3/9/4K1R2 w - - 0 1",
+    "name": "驚濤險浪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "3Pck3/9/4bP3/4n4/7RC/9/9/9/2r2p3/3K4c w - - 0 1",
+    "name": "江湖野局135",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "3k4C/2P1a1P2/4b3b/p8/2p6/6B2/9/B8/3nr1pR1/5K3 w - - 0 1",
+    "name": "宋楚私成",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "3k1r3/1P2P4/9/4P3p/1P4CCR/6B2/6P2/9/3p1p3/4K4 w - - 0 1",
+    "name": "江湖野局136",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "4k4/5P3/9/9/p7p/9/6P2/2p6/4p4/3K2C2 w - - 0 1",
+    "name": "江湖野局137",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "2b2r3/4P4/5k3/7P1/9/9/4c2R1/3p5/7C1/3K1p3 w - - 0 1",
+    "name": "江湖野局138",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "3k5/4an3/3Pb3R/9/9/9/9/C2K2p2/2r1rn1p1/2B5p w - - 0 1",
+    "name": "三奪魁",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "5k3/4P4/3PNr3/9/8C/3c5/9/4p4/3n5/4K3R w - - 0 1",
+    "name": "江湖野局139",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3r5/8C/8C/8R/1c7/5Bp2/3pp4/3AnK3 w - - 0 1",
+    "name": "江湖野局140",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "3k1r3/4P1P2/5c3/8R/4P4/8C/9/1p5p1/2pr1Cn2/2p1K3R w - - 0 1",
+    "name": "江湖野局141",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "3k2r2/1P2P4/8c/4p3C/7CR/9/3p5/4p4/5p3/4K3R w - - 0 1",
+    "name": "小賴七星",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3k5/8P/1P7/9/9/9/9/7p1/p8/5K3 w - - 0 1",
+    "name": "江湖野局142",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "5kc2/4P4/1RP2r3/9/9/9/6p2/4p4/C2p1p3/R1B1K4 w - - 0 1",
+    "name": "馬路七星",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "1N7/3c5/3kb4/9/9/6R2/6R2/5CC2/3r1p3/4KA3 w - - 0 1",
+    "name": "江湖小鵬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "3k5/4PP1r1/3r2P2/8C/8R/4P4/8p/4p3B/c3p4/p4Kc2 w - - 0 1",
+    "name": "江湖野局143",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "3a1R3/3kaPP2/Pc2N1P2/9/9/9/4P4/B8/p2p1r3/4K4 w - - 0 1",
+    "name": "江湖野局144",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "2C1k4/3P5/2P5b/4p1C2/6R2/9/8n/6p2/4p2p1/2p2K3 w - - 0 1",
+    "name": "江湖野局145",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "3k2b2/4P4/4c4/9/9/4r2CR/9/2pA5/3KAp3/5R3 w - - 0 1",
+    "name": "江湖野局146",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:25.000Z"
+  },
+  {
+    "fen": "4k1P2/2r6/4b4/9/9/9/9/9/3pA4/2pAK2R1 w - - 0 1",
+    "name": "江湖野局147",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:26.000Z"
+  },
+  {
+    "fen": "P1P1rk1P1/3P2P2/4b4/9/6b2/8R/4p3R/4n4/3p1r3/3AK3C w - - 0 1",
+    "name": "江湖野局148",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:27.000Z"
+  },
+  {
+    "fen": "3k5/4P2P1/1c1r5/6C2/6C2/6R2/9/9/3pp4/2B1nK3 w - - 0 1",
+    "name": "江湖野局130",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "5k3/4P4/5r2c/9/9/4P4/9/7C1/2pp3C1/4K2R1 w - - 0 1",
+    "name": "大九連環改",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "Pr2k1P2/9/9/5P3/9/9/9/B2App3/4p4/2CK3R1 w - - 0 1",
+    "name": "江湖野局149",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "4ka3/C4P3/3a5/9/8R/8C/9/B3r4/4p4/c1rR1K3 w - - 0 1",
+    "name": "起步闖堂",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "3k1r3/4R4/1P2PP3/9/6CCR/9/9/4p4/3pA1p2/5K3 w - - 0 1",
+    "name": "江湖野局150",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "3k3P1/4P4/4b4/9/P1p6/2p6/8R/8R/2pr1p3/c3K3C w - - 0 1",
+    "name": "兵定孤竹",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "4k4/P4P3/4bP3/5R3/9/9/9/4B4/rc2p4/1pBK5 w - - 0 1",
+    "name": "江湖野局151",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "3k1r3/1P2P1P2/9/7C1/9/8c/9/3pB4/6p2/3K3R1 w - - 0 1",
+    "name": "江湖野局152",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "2bak4/4a4/4b4/9/6NRR/2B6/1rP1P3N/3pB4/4p4/3K5 w - - 0 1",
+    "name": "江湖野局153",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "3k1r3/4P4/9/9/9/6C1C/2c6/3pB4/2p6/3K2R1R w - - 0 1",
+    "name": "玉麟翻波",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "1c1k5/4P4/4b1R2/4prp2/7CR/9/9/B2p5/4p4/3K1p3 w - - 0 1",
+    "name": "二顧草盧",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "4k4/1P1P1P1P1/9/9/9/9/9/1p3p3/3rp1C2/5K3 w - - 0 1",
+    "name": "雪壓梅梢",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "2bk5/4P4/3r2P2/9/7C1/7R1/9/4p4/3pp2p1/5K3 w - - 0 1",
+    "name": "江湖野局154",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "4ck3/2P1P4/9/7P1/r3n3R/8C/9/9/3p1p3/2B1K4 w - - 0 1",
+    "name": "江湖野局155",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "1r2k1P2/9/4b1P2/2P6/c8/9/9/3B4R/2p1A4/3K5 w - - 0 1",
+    "name": "江湖野局156",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "3k5/4P4/3rb4/1P5C1/7C1/7R1/p8/9/5p3/3AK4 w - - 0 1",
+    "name": "江湖野局157",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "3ack1P1/4P4/b3b4/9/9/9/8R/4p3R/3pnr2C/4K4 w - - 0 1",
+    "name": "猿猴摘果",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "5kc2/3PP4/9/9/9/9/5p3/4p4/3p3p1/2B1K1RRc w - - 0 1",
+    "name": "江湖野局158",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "5k3/4a4/4b4/2p4RP/2P4RP/9/4p4/5p3/4p4/3p1K3 w - - 0 1",
+    "name": "雙擒五將",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "4k4/4a4/3ac4/9/6P2/4p4/6R2/3p5/4r4/3K1p1CR w - - 0 1",
+    "name": "江湖野局159",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3k2r2/4P4/9/p8/c8/6P2/7CR/9/3np2p1/3p1K1C1 w - - 0 1",
+    "name": "泰山壓頂",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "2b1rk3/3P5/4bP3/9/9/9/4p2C1/2p1p2C1/3p1r3/3NK1RR1 w - - 0 1",
+    "name": "江湖野局160",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "9/9/4k4/9/2b6/9/9/3pppR2/5pR2/4K1B2 w - - 0 1",
+    "name": "高祖斬蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "3akaR2/9/6R2/4C4/9/5c3/2P3P1P/9/1r1p1p3/4K4 w - - 0 1",
+    "name": "江湖野局161",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "4k4/2r6/4c1P2/9/9/9/9/1Cp3p2/4p4/3K1R1R1 w - - 0 1",
+    "name": "江湖野局162",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "3k5/Pr2PP3/7c1/1P2p4/9/9/9/9/3C1p1p1/4K4 w - - 0 1",
+    "name": "小連環",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "3k5/4PP3/9/9/1r6C/4P3R/9/8n/p3p4/2c2K3 w - - 0 1",
+    "name": "江湖野局163",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "3k2p2/4P4/9/9/9/2B1cnN2/9/7CR/4p4/2Cp1K3 w - - 0 1",
+    "name": "江湖野局164",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "1r2k4/5P3/6P2/9/9/8C/9/p2Cp4/4p4/3K1R2R w - - 0 1",
+    "name": "江湖野局165",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "5k3/4R4/5r3/6P2/7Cc/7C1/3p5/9/3p1p1R1/2nAKA3 w - - 0 1",
+    "name": "長板橋",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "3ak1bP1/4aP3/1R2b4/1N7/c1C6/9/4P4/2p1B2r1/4p4/3K5 w - - 0 1",
+    "name": "緊守虎牢",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "4k4/3P1P3/3C2Rrb/9/5P3/9/9/4p1r2/4p3p/3K2R2 w - - 0 1",
+    "name": "孤山放鶴",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "5k3/4P4/4br3/9/9/2B1P1C2/3pp1R2/B8/2p1p4/3K2R2 w - - 0 1",
+    "name": "關山飛渡",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "5k3/3PP2P1/3cP4/9/5rC2/8n/4p4/4p4/4p4/3K2R2 w - - 0 1",
+    "name": "帝庭捐軀",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "2b2C3/Pr3k3/4R4/5P3/9/9/9/3pN4/3pp4/5K3 w - - 0 1",
+    "name": "倒掛珠簾",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "2c2k3/4P3P/5r3/9/9/5rBC1/7C1/3pB2R1/4p4/3K3R1 w - - 0 1",
+    "name": "完璧歸趙",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "3a1k3/4a4/4c4/9/1cb6/6R2/9/3pB3C/2p1Arn2/4K2R1 w - - 0 1",
+    "name": "落影驚龍",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "rc3k1P1/4P4/4b4/9/c8/8R/P7R/6p1C/4pr3/2BK2B2 w - - 0 1",
+    "name": "二氣周瑜",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "3akc3/2PPar3/9/5P3/9/9/9/1p5C1/4p3p/5K1RR w - - 0 1",
+    "name": "虎口拔牙",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  },
+  {
+    "fen": "4k4/3Pa4/4b4/9/8p/C8/2P1P4/2rcp3B/4p4/1R1K5 w - - 0 1",
+    "name": "先發制人",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:13.000Z"
+  },
+  {
+    "fen": "3k4c/4an3/3PbaP2/9/9/8R/9/p8/r8/p2Kc1r2 w - - 0 1",
+    "name": "馬陷泥潭",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:14.000Z"
+  },
+  {
+    "fen": "3k4r/4P4/9/9/3P5/6RRC/3c1r3/5p3/4p4/5K3 w - - 0 1",
+    "name": "智勇雙全",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:15.000Z"
+  },
+  {
+    "fen": "2nak1C1P/3P3R1/3ab1N2/4P4/9/6B2/4pr3/4p3B/1p2p2c1/3K3p1 w - - 0 1",
+    "name": "芳洲拾翠",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:16.000Z"
+  },
+  {
+    "fen": "1P1k1r3/4P4/b8/6CCR/6p2/1c7/6P2/3A5/3p1p3/3AK4 w - - 0 1",
+    "name": "陌上柳煙",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:17.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/3CP4/8R/8R/9/2r5C/3rB4/3n4n/4K4 w - - 0 1",
+    "name": "雙馬盤槽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:18.000Z"
+  },
+  {
+    "fen": "3k1P3/4P4/b3c4/2P6/9/1C4B2/1n7/9/4p2p1/5K3 w - - 0 1",
+    "name": "醉翁之意",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:19.000Z"
+  },
+  {
+    "fen": "2nk2b2/4P4/8R/8R/9/7CC/5p3/6p2/3r1p3/4K4 w - - 0 1",
+    "name": "險過韶關",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:20.000Z"
+  },
+  {
+    "fen": "1P2k2C1/3P5/9/9/9/9/R4N1c1/9/4r1p2/C4K1p1 w - - 0 1",
+    "name": "鎮守三關",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:21.000Z"
+  },
+  {
+    "fen": "2bnk1c1n/4aRN1r/3Rba3/4p4/4P4/4N4/3C5/4c4/2p1p1r2/3K5 w - - 0 1",
+    "name": "雲鶴飛泉",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:22.000Z"
+  },
+  {
+    "fen": "1P2k4/3P5/2R3P2/6p1p/2b6/9/2c6/4p1r2/4AK3/3A5 w - - 0 1",
+    "name": "天地交泰",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:23.000Z"
+  },
+  {
+    "fen": "4k4/1P3r1P1/P4P3/9/9/9/9/9/2p1A2cN/3K1A3 w - - 0 1",
+    "name": "各守封疆",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:24.000Z"
+  },
+  {
+    "fen": "5kb2/4P4/6R1b/9/9/8C/8C/4p4/5p3/1p2Kc3 w - - 0 1",
+    "name": "小伏炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:25.000Z"
+  },
+  {
+    "fen": "4k4/9/9/2P6/9/9/4p4/5p3/4p4/1R1R1K3 w - - 0 1",
+    "name": "三仙鬥法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:26.000Z"
+  },
+  {
+    "fen": "5r3/9/4k3C/9/4P4/9/8R/4p4/4p4/2BK5 w - - 0 1",
+    "name": "飛鴻印雪",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:00.000Z"
+  },
+  {
+    "fen": "4rk3/3P5/4bP3/9/9/9/3pp3C/4p3C/3p1r3/4K1R1R w - - 0 1",
+    "name": "閃象伏兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:01.000Z"
+  },
+  {
+    "fen": "3k2b2/4PP3/8c/7R1/7R1/7C1/9/4p4/2pr1p3/4K4 w - - 0 1",
+    "name": "橫雲斷岭",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:02.000Z"
+  },
+  {
+    "fen": "4k4/4a4/5P3/7CR/c8/2B1pCB2/9/9/4r4/2pp1K3 w - - 0 1",
+    "name": "江湖野局166",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:03.000Z"
+  },
+  {
+    "fen": "3k5/P3P3P/9/9/p8/8P/c8/3ABp2r/4K1p2/3A4R w - - 0 1",
+    "name": "一醉岳陽",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:04.000Z"
+  },
+  {
+    "fen": "4k4/2CP5/4b4/9/6b2/8N/9/8R/2p1p1p2/2R2K3 w - - 0 1",
+    "name": "三星圖",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:05.000Z"
+  },
+  {
+    "fen": "4k4/3PaP3/4N4/9/9/9/9/4n4/3pAp3/4K4 w - - 0 1",
+    "name": "梅花陣",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:06.000Z"
+  },
+  {
+    "fen": "3k5/1n3P3/4r4/P6C1/7C1/7R1/7R1/3p5/4p4/3K1p3 w - - 0 1",
+    "name": "馬前撥水",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:07.000Z"
+  },
+  {
+    "fen": "NP1k5/2P2n3/b4n3/9/2P6/9/9/9/c2p3C1/1p2Kc1rR w - - 0 1",
+    "name": "打虎救駕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:08.000Z"
+  },
+  {
+    "fen": "1C1k5/2P6/5n3/2P5R/9/9/9/9/3p2p2/4Kcprc w - - 0 1",
+    "name": "棋緣作品5",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:09.000Z"
+  },
+  {
+    "fen": "3k4C/2P1a4/3Nb4/9/9/9/7RC/5n3/r3rn3/p2K4p w - - 0 1",
+    "name": "羅成奪印",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:10.000Z"
+  },
+  {
+    "fen": "2b1k2P1/5P3/9/8R/9/9/8R/B8/2p1r2c1/2BK2p1C w - - 0 1",
+    "name": "枝繁葉茂",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:11.000Z"
+  },
+  {
+    "fen": "P1c2k3/4P2P1/1Pr2r3/6C2/9/2P6/6R2/4B4/3p1p2R/4K4 w - - 0 1",
+    "name": "引弓待發",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-30T16:00:12.000Z"
+  }
+]

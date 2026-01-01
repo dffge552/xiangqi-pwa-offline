@@ -1,0 +1,274 @@
+[
+  {
+    "fen": "3a1a1P1/3k5/9/9/9/9/9/9/1N2K4/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:h9g9\u0000",
+    "bestMove": "h9g9\u0000",
+    "timestamp": "2025-10-24T11:39:50.001Z"
+  },
+  {
+    "fen": "5a1P1/9/4k4/9/9/9/9/3K5/9/7N1 w - - 0 1",
+    "type": "單馬單兵 vs 單士",
+    "typeFull": "單馬單兵 vs 單士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 單士",
+      "typeFull": "單馬單兵 vs 單士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 1
+      },
+      "totalPieces": 5,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d2d1\u0000",
+    "bestMove": "d2d1\u0000",
+    "timestamp": "2025-10-24T11:39:51.188Z"
+  },
+  {
+    "fen": "4Pa3/4aN3/5k3/9/9/9/9/9/9/4K4 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f8h7\u0000",
+    "bestMove": "f8h7\u0000",
+    "timestamp": "2025-10-24T11:39:52.825Z"
+  },
+  {
+    "fen": "5a2P/9/4ka3/9/9/5N3/9/3K5/9/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f4g6\u0000",
+    "bestMove": "f4g6\u0000",
+    "timestamp": "2025-10-24T11:39:55.265Z"
+  },
+  {
+    "fen": "3ak3P/9/5a3/9/9/9/9/3K5/N8/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a1b3\u0000",
+    "bestMove": "a1b3\u0000",
+    "timestamp": "2025-10-24T11:39:57.631Z"
+  },
+  {
+    "fen": "2P1k4/4a4/5a3/9/9/9/9/9/4K3N/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i1g2\u0000",
+    "bestMove": "i1g2\u0000",
+    "timestamp": "2025-10-24T11:39:58.823Z"
+  },
+  {
+    "fen": "4ka1P1/4a4/9/9/9/9/9/3K5/6N2/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d2e2\u0000",
+    "bestMove": "d2e2\u0000",
+    "timestamp": "2025-10-24T11:40:00.012Z"
+  },
+  {
+    "fen": "5a1P1/3N1k3/3a5/9/9/9/9/3K5/9/9 w - - 0 1",
+    "type": "單馬單兵 vs 2士",
+    "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+    "classification": {
+      "type": "單馬單兵 vs 2士",
+      "typeFull": "單馬單兵 vs 2士 [紅:底兵1]",
+      "redPieces": {
+        "P": 1,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 1,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d2e2\u0000",
+    "bestMove": "d2e2\u0000",
+    "timestamp": "2025-10-24T11:40:01.198Z"
+  }
+]

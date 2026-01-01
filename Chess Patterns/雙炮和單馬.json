@@ -1,0 +1,101 @@
+[
+  {
+    "fen": "9/9/5k3/9/3C1n3/4C4/9/9/3K5/9 w - - 0 1",
+    "type": "雙炮 vs 單馬",
+    "typeFull": "雙炮 vs 單馬",
+    "classification": {
+      "type": "雙炮 vs 單馬",
+      "typeFull": "雙炮 vs 單馬",
+      "redPieces": {
+        "C": 2
+      },
+      "blackPieces": {
+        "n": 1
+      },
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:00.000Z"
+  },
+  {
+    "fen": "1n7/9/4k4/4C4/7C1/9/9/9/9/4K4 w - - 0 1",
+    "type": "雙炮 vs 單馬",
+    "typeFull": "雙炮 vs 單馬",
+    "classification": {
+      "type": "雙炮 vs 單馬",
+      "typeFull": "雙炮 vs 單馬",
+      "redPieces": {
+        "C": 2
+      },
+      "blackPieces": {
+        "n": 1
+      },
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:01.000Z"
+  },
+  {
+    "fen": "4k4/9/9/9/9/9/1n7/5KC2/3C5/9 w - - 0 1",
+    "type": "雙炮 vs 單馬",
+    "typeFull": "雙炮 vs 單馬",
+    "classification": {
+      "type": "雙炮 vs 單馬",
+      "typeFull": "雙炮 vs 單馬",
+      "redPieces": {
+        "C": 2
+      },
+      "blackPieces": {
+        "n": 1
+      },
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:02.000Z"
+  }
+]

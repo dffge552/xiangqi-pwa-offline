@@ -1,0 +1,122 @@
+[
+  {
+    "fen": "3ak1b2/4a4/4b4/3P5/7R1/2B1p1r2/9/B3C4/4A4/3K1A3 w - - 0 1",
+    "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+    "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:中卒1]",
+    "classification": {
+      "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+      "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:中卒1]",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "p": 1,
+        "r": 1
+      },
+      "totalPieces": 13,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:50:00.000Z"
+  },
+  {
+    "fen": "3ak1b2/4a4/4b4/3PR4/9/2B1rp3/9/B3C4/4A4/3K1A3 w - - 0 1",
+    "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+    "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:中卒1]",
+    "classification": {
+      "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+      "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:中卒1]",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "p": 1,
+        "r": 1
+      },
+      "totalPieces": 13,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:50:01.000Z"
+  },
+  {
+    "fen": "3ak1b2/4a4/4b4/3P3R1/9/2B6/4p4/B2C2r2/4A4/3K1A3 w - - 0 1",
+    "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+    "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:低卒1]",
+    "classification": {
+      "type": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車",
+      "typeFull": "單俥單炮單兵雙仕雙相 vs 雙士雙象單卒單車 [紅:高兵1;黑:低卒1]",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "p": 1,
+        "r": 1
+      },
+      "totalPieces": 13,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 1,
+          "low": 1,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:50:02.000Z"
+  }
+]

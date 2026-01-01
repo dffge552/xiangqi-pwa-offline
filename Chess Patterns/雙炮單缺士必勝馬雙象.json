@@ -1,0 +1,290 @@
+[
+  {
+    "fen": "4k4/1C7/b8/2n6/2b6/6B2/9/B2ACK3/9/9 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬2象",
+    "typeFull": "2相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬2象",
+      "typeFull": "2相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:b8b6\u0000",
+    "bestMove": "b8b6\u0000",
+    "timestamp": "2025-10-25T06:23:27.880Z"
+  },
+  {
+    "fen": "1C1k5/9/8b/2C6/6b2/2B6/9/8B/3n1K3/3A5 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬2象",
+    "typeFull": "2相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬2象",
+      "typeFull": "2相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i2g4\u0000",
+    "bestMove": "i2g4\u0000",
+    "timestamp": "2025-10-25T06:23:29.121Z"
+  },
+  {
+    "fen": "3C2b2/9/4k4/6n2/9/9/9/B3B4/9/1C2KA3 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬單象",
+    "typeFull": "2相單仕2炮 vs 單馬單象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬單象",
+      "typeFull": "2相單仕2炮 vs 單馬單象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 1,
+        "n": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f0e1\u0000",
+    "bestMove": "f0e1\u0000",
+    "timestamp": "2025-10-25T06:23:30.363Z"
+  },
+  {
+    "fen": "2b6/5k3/8b/9/6n2/9/2C6/B3K4/9/2C2AB2 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬2象",
+    "typeFull": "2相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬2象",
+      "typeFull": "2相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:c0c9\u0000",
+    "bestMove": "c0c9\u0000",
+    "timestamp": "2025-10-25T06:23:31.628Z"
+  },
+  {
+    "fen": "2bk3C1/9/1C7/9/2b6/6B2/9/5A1nB/4K4/9 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬2象",
+    "typeFull": "2相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬2象",
+      "typeFull": "2相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:h9c9\u0000",
+    "bestMove": "h9c9\u0000",
+    "timestamp": "2025-10-25T06:23:32.883Z"
+  },
+  {
+    "fen": "2b6/9/4bk3/8n/4C4/2B6/9/C2A5/4K4/6B2 w - - 0 1",
+    "type": "2相單仕2炮 vs 單馬2象",
+    "typeFull": "2相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "2相單仕2炮 vs 單馬2象",
+      "typeFull": "2相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "B": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e1d1\u0000",
+    "bestMove": "e1d1\u0000",
+    "timestamp": "2025-10-25T06:23:34.129Z"
+  },
+  {
+    "fen": "2b6/3k5/8b/9/9/2BCC4/9/3K5/n8/5A3 w - - 0 1",
+    "type": "單相單仕2炮 vs 單馬2象",
+    "typeFull": "單相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "單相單仕2炮 vs 單馬2象",
+      "typeFull": "單相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "B": 1,
+        "C": 2,
+        "A": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e4e3\u0000",
+    "bestMove": "e4e3\u0000",
+    "timestamp": "2025-10-25T06:23:37.720Z"
+  },
+  {
+    "fen": "2b2k3/C2n5/b8/9/9/9/9/9/1C2A4/4K1B2 w - - 0 1",
+    "type": "單相單仕2炮 vs 單馬2象",
+    "typeFull": "單相單仕2炮 vs 單馬2象",
+    "classification": {
+      "type": "單相單仕2炮 vs 單馬2象",
+      "typeFull": "單相單仕2炮 vs 單馬2象",
+      "redPieces": {
+        "C": 2,
+        "A": 1,
+        "B": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "n": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e1f2\u0000",
+    "bestMove": "e1f2\u0000",
+    "timestamp": "2025-10-25T06:23:38.955Z"
+  }
+]

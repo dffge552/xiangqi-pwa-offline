@@ -1,0 +1,464 @@
+[
+  {
+    "fen": "3a5/4ak3/9/3R5/5P3/9/r8/7C1/r2p5/4K4 w - - 0 1",
+    "name": "基本杀法 1。对面笑（4）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:17.965Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/7r1/4R4/4B4/9/4K1B2 w - - 0 1",
+    "name": "基本杀法 1。对面笑（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:18.879Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/4R4/9/3r3C1/9/4K4 w - - 0 1",
+    "name": "基本杀法 2。海底捞月 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:19.790Z"
+  },
+  {
+    "fen": "2ba1ab2/4k4/9/9/5N3/9/9/1R2B3B/4r4/5K3 w - - 0 1",
+    "name": "基本杀法 3。卧槽马（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:20.694Z"
+  },
+  {
+    "fen": "3k1a3/4a4/9/2R6/N8/9/6n2/5K3/4r4/9 w - - 0 1",
+    "name": "基本杀法 5。高钓马（1）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:21.598Z"
+  },
+  {
+    "fen": "4ka3/1N2a4/4c4/9/9/3R3R1/4c4/4B4/4A1rn1/3AK1B2 w - - 0 1",
+    "name": "基本杀法 6。立马车（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:22.516Z"
+  },
+  {
+    "fen": "5ab2/3ka4/4b4/R3p3p/9/2P6/4P1r2/N3B4/4Ar3/4KAB1c w - - 0 1",
+    "name": "基本杀法 5。高钓马（3）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:23.431Z"
+  },
+  {
+    "fen": "3PNk3/4a4/4Ra3/9/9/4p4/9/4p1r2/9/3K5 w - - 0 1",
+    "name": "基本杀法 8。八角马（3）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:24.346Z"
+  },
+  {
+    "fen": "3a1k3/2r1a4/9/4C3N/9/9/9/9/2p6/4KA3 w - - 0 1",
+    "name": "基本杀法 11。马后炮（3）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:25.260Z"
+  },
+  {
+    "fen": "5k3/2r6/5a3/6C2/5N3/9/9/9/2p6/4K4 w - - 0 1",
+    "name": "基本杀法 11。马后炮（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:26.183Z"
+  },
+  {
+    "fen": "2ba3R1/4a4/4bk1N1/9/9/9/2pp5/4B4/4rp3/2BK5 w - - 0 1",
+    "name": "基本杀法 12。车马冷着（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:27.102Z"
+  },
+  {
+    "fen": "2bakc3/1C2a1n2/4b2Rr/9/2P3N2/9/5n3/2C1B4/4A4/4KAB1c w - - 0 1",
+    "name": "基本杀法 14。闷杀（1） - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:28.025Z"
+  },
+  {
+    "fen": "4kab1r/4a4/1r2b4/p2RC3p/2p6/9/9/9/4A4/R3K4 w - - 0 1",
+    "name": "基本杀法 15。铁门栓（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:28.945Z"
+  },
+  {
+    "fen": "2baka3/5P3/b8/9/9/9/9/9/3K5/7C1 w - - 0 1",
+    "name": "基本杀法 15。铁门栓（5）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:29.867Z"
+  },
+  {
+    "fen": "4ka3/4a4/b3c4/nr7/2p3b2/2PR5/4C4/Bp2C4/4A4/c3KAB2 w - - 0 1",
+    "name": "基本杀法 16。天地炮（1）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:30.790Z"
+  },
+  {
+    "fen": "2Rakc3/4n4/4b4/9/4C4/9/4c4/2n1B3C/1r2A4/4KA3 w - - 0 1",
+    "name": "基本杀法 17。炮辗丹沙（3）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:31.710Z"
+  },
+  {
+    "fen": "2bakN3/4aR3/4b4/1C1R5/6n2/9/C3c4/2n1B3c/4Ar3/4KA3 w - - 0 1",
+    "name": "基本杀法 18。大刀挖心（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:32.631Z"
+  },
+  {
+    "fen": "3a1k2C/2c1a4/6C2/9/9/7R1/1r1n5/9/4A1c2/4PAB2 w",
+    "name": "基本杀法 19。夹车炮（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:33.553Z"
+  },
+  {
+    "fen": "3a1k3/4a4/6R2/8R/2r6/9/9/1r7/4A4/3K1A3 w - - 0 1",
+    "name": "基本杀法 21。双车错（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:34.475Z"
+  },
+  {
+    "fen": "3k1ab2/4a4/4c4/9/R1b2r2p/9/4P1P2/4B1N2/4Apr2/1RB1KA3 w - - 0 1",
+    "name": "基本杀法 21。双车错（1）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:35.397Z"
+  },
+  {
+    "fen": "2b1ka3/1R2aR3/4b1n2/9/9/9/4r4/C8/4A1p1r/4KA3 w - - 0 1",
+    "name": "基本杀法 22。双车胁士（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:36.340Z"
+  },
+  {
+    "fen": "4k4/4a4/2P5n/5N3/9/5R3/9/9/2p2p2r/C3K4 w",
+    "name": "双照将杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:38.165Z"
+  },
+  {
+    "fen": "2b1kab2/4aP1R1/5c3/5R3/6r2/9/9/4B4/4A4/2BAK4 w",
+    "name": "三车闹士 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:00:39.081Z"
+  },
+  {
+    "fen": "r4k3/9/9/9/9/4R4/9/9/9/4K4 w - - 0 1",
+    "name": "对面笑杀 01-基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:00.000Z"
+  },
+  {
+    "fen": "4ka3/3P1P3/4b4/9/9/9/9/9/3p2p2/4K4 w",
+    "name": "二鬼拍门 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:17.301Z"
+  },
+  {
+    "fen": "1Cbak2r1/4aR3/4b1n2/p1N1p4/2p6/3R2P2/P1P1c4/4B4/1r2A4/2B1KA3 w",
+    "name": "大胆穿心 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:18.222Z"
+  },
+  {
+    "fen": "2bak4/4aR3/c3b2r1/2R1C4/9/9/9/9/1r7/3AK4 w",
+    "name": "大胆穿心 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:19.124Z"
+  },
+  {
+    "fen": "2bak4/1C2a1n2/2R1br3/4p4/9/2P6/9/2C1B4/4A4/4KAB1c w",
+    "name": "闷宫杀法 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:20.032Z"
+  },
+  {
+    "fen": "4kab2/4a4/2N1b4/9/9/1R7/5r3/2c1BA3/6n2/2BA1KC2 w",
+    "name": "列马车杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:20.940Z"
+  },
+  {
+    "fen": "4kab2/4a4/2Ncb2C1/6p2/9/1R3RP2/P1r4r1/4B4/2n1A4/2BA1K3 w",
+    "name": "列马车杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:21.845Z"
+  },
+  {
+    "fen": "3aka3/5P3/4b4/r3N4/9/8R/9/2n6/9/4KA3 w",
+    "name": "钓鱼马杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:22.758Z"
+  },
+  {
+    "fen": "3ak1bR1/4a4/4b4/2pN5/9/6B2/2r3r2/4B4/4A4/3AK4 w",
+    "name": "侧面虎杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:23.663Z"
+  },
+  {
+    "fen": "3k1a3/4a4/4b4/pR2p3p/6p2/2PN5/P3c3P/4B4/4A4/2BAK4 w",
+    "name": "侧面虎杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:24.572Z"
+  },
+  {
+    "fen": "2b1k4/9/4b4/9/9/9/4R4/9/4K4/9 w",
+    "name": "基本杀法 单车破双象（底象）.PGN - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:25.491Z"
+  },
+  {
+    "fen": "4k1b2/9/4b4/3R5/9/9/9/9/3K5/3pp4 w",
+    "name": "基本杀法 单车破双象（黑方有底卒走闲） - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:26.405Z"
+  },
+  {
+    "fen": "4ka3/1N2a4/4c4/9/9/3R3R1/4c4/4B4/4A1rn1/3AK1B2 w",
+    "name": "立马车杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:27.314Z"
+  },
+  {
+    "fen": "2bak4/1C2a1n2/2R1br3/4p4/9/2P6/9/2C1B4/4A4/4KAB1c w",
+    "name": "基本杀法26 闷宫 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:28.229Z"
+  },
+  {
+    "fen": "r1bak4/4a2N1/n3b4/4Crp2/1R2p4/9/3C4p/3A5/4A1R2/c3K3c w",
+    "name": "组合运用 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:29.146Z"
+  },
+  {
+    "fen": "2b1ka3/4a4/r1n1b1n2/p1R1p1p1p/9/2NRP4/P1c3P1P/1C2C4/2r6/2BAKAB2 w",
+    "name": "组合运用 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:30.055Z"
+  },
+  {
+    "fen": "6C2/9/3k5/4P4/9/9/1p7/4K3B/9/5C2r w",
+    "name": "三进兵杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:30.968Z"
+  },
+  {
+    "fen": "9/9/3k1a3/2R6/3P5/9/1p3pp2/4B4/3p2r2/5K3 w",
+    "name": "三进兵杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:31.885Z"
+  },
+  {
+    "fen": "3a1k3/4a4/6R2/8R/2r6/9/1r7/9/4A4/3K1A3 w",
+    "name": "双车错杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:32.791Z"
+  },
+  {
+    "fen": "3k1ab2/4a4/4c4/9/R1b2r2p/9/4P1P2/4B1N2/4Apr2/1RB1KA3 w",
+    "name": "双车错杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:33.694Z"
+  },
+  {
+    "fen": "1Rbakabc1/9/9/2CR5/p3C4/3p3rP/P8/4B1r2/c3A1p2/2BA1K3 w",
+    "name": "车炮抽杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:34.606Z"
+  },
+  {
+    "fen": "C2k1a3/1R2a4/2nc5/9/2b3n1p/P8/2p6/4BC3/2p1A2r1/4KAB1c w",
+    "name": "夹车炮杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:35.513Z"
+  },
+  {
+    "fen": "2bakN3/4aR3/4b4/1C1R5/6n2/9/C3c4/2n1B3c/4Ar3/4KA3 w",
+    "name": "大刀剜心 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:36.425Z"
+  },
+  {
+    "fen": "4kab2/4aR3/4b4/4C4/9/6R2/5p3/9/3r3r1/4KA3 w",
+    "name": "大刀剜心 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:04:37.332Z"
+  },
+  {
+    "fen": "3ak4/4aP3/9/9/p1b6/9/3C5/9/9/4K4 w",
+    "name": "铁门闩杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:06:55.928Z"
+  },
+  {
+    "fen": "3akn3/1c2a2n1/5C3/9/9/5C3/9/9/9/4K4 w",
+    "name": "闷杀杀法 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:06:56.842Z"
+  },
+  {
+    "fen": "2bak4/1C2a1n2/4b2Rr/4p4/2P3N2/9/5n3/2C1B4/4A4/4KAB1c w",
+    "name": "闷杀杀法 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:06:57.767Z"
+  },
+  {
+    "fen": "3aka3/9/4c1N2/1C7/9/9/1r5n1/C3B4/4A4/4KAB2 w",
+    "name": "重炮杀法 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:06:58.675Z"
+  },
+  {
+    "fen": "5k3/2r6/5a3/6C2/5N3/9/9/9/2p6/4K4 w",
+    "name": "马后炮杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:06:59.582Z"
+  },
+  {
+    "fen": "2ba3R1/4a4/4bk1N1/9/9/9/2pp5/4B4/4rp3/2BK5 w",
+    "name": "车马冷着 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:00.486Z"
+  },
+  {
+    "fen": "3aka3/9/9/5N2C/9/9/4c2n1/4B4/4A4/3AK4 w",
+    "name": "马后炮杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:01.386Z"
+  },
+  {
+    "fen": "4kab2/3Pa4/4b4/1N1N5/9/9/9/4Bp3/3p4p/5K2c w",
+    "name": "双马饮泉 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:02.305Z"
+  },
+  {
+    "fen": "1R1ak1b1R/9/1CNc3r1/4p4/6p1p/9/P8/4B1n2/2nCA2r1/2BAK3c w",
+    "name": "拔簧马杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:03.219Z"
+  },
+  {
+    "fen": "5ab2/3ka4/4b4/R3p3p/9/9/4P1r2/N3B4/4Ar3/4KAB1c w",
+    "name": "高钓马（侧面虎） 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:04.135Z"
+  },
+  {
+    "fen": "4ka3/1N2a4/4c4/9/9/3R3R1/4c4/4B4/4A1rn1/3AK1B2 w",
+    "name": "立马车杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:05.037Z"
+  },
+  {
+    "fen": "3k1a3/4a4/9/2R6/N8/9/6n2/5K3/4r4/9 w",
+    "name": "高钓马（侧面虎） 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:05.959Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/4C2R1/4r4/9/9/3K5 w",
+    "name": "海底捞月 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:06.881Z"
+  },
+  {
+    "fen": "2ba1k3/2N1a2n1/4bc3/p2C3Rp/5N3/4P4/P8/1R4rr1/4K4/2BA1A2c w",
+    "name": "卧槽马杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:07.797Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/4R4/9/3r3C1/9/4K4 w",
+    "name": "海底捞月 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:08.701Z"
+  },
+  {
+    "fen": "3k3r1/1c7/9/4R4/9/9/9/4R4/r8/4K4 w",
+    "name": "白脸将杀 02 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:09.623Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/7r1/4R4/4B4/9/4K1B2 w",
+    "name": "白脸将杀 01 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:10.533Z"
+  },
+  {
+    "fen": "2b1ka3/1R2aR3/4b1n2/9/9/C8/9/4r4/4A1p1r/4KA3 w",
+    "name": "象棋残局基本杀法 - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:11.437Z"
+  },
+  {
+    "fen": "r1bak4/4a2N1/n3b4/4Crp2/1R2p4/9/3C4p/3A5/4A1R2/c3K3c w",
+    "name": "基本杀法组合运用（2）. - 基本杀法",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T09:07:12.351Z"
+  }
+]

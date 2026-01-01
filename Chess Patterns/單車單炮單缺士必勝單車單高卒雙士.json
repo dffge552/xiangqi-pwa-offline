@@ -1,0 +1,40 @@
+[
+  {
+    "fen": "4k4/4a4/5a3/3R3C1/9/9/3p1r3/8B/3KA4/6B2 w - - 0 1",
+    "type": "單俥單炮單仕雙相 vs 雙士單卒單車",
+    "typeFull": "單俥單炮單仕雙相 vs 雙士單卒單車 [黑:高卒1]",
+    "classification": {
+      "type": "單俥單炮單仕雙相 vs 雙士單卒單車",
+      "typeFull": "單俥單炮單仕雙相 vs 雙士單卒單車 [黑:高卒1]",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "A": 1,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "p": 1,
+        "r": 1
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 1,
+          "low": 1,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:00:00.000Z"
+  }
+]

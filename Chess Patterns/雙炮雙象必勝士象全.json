@@ -1,0 +1,212 @@
+[
+  {
+    "fen": "2ba1k3/4a4/4b4/9/9/6B2/9/4K3B/9/C1C6 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:00.000Z"
+  },
+  {
+    "fen": "2ba1ab2/4k4/6C2/9/1C7/6B2/9/8B/9/5K3 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:01.000Z"
+  },
+  {
+    "fen": "3ak4/C3a4/4b3b/9/9/2B6/9/B8/3K5/5C3 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:02.000Z"
+  },
+  {
+    "fen": "2b2a3/9/b2ak4/9/4C4/2B6/9/4B4/9/3K2C2 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:03.000Z"
+  },
+  {
+    "fen": "2b2k3/9/b2a1a3/3C5/9/9/3C5/B7B/9/3K5 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:04.000Z"
+  },
+  {
+    "fen": "3ak1b2/4a1C2/9/9/6b2/2B2C3/9/3K5/9/6B2 w - - 0 1",
+    "type": "雙相雙炮 vs 雙士雙象",
+    "typeFull": "雙相雙炮 vs 雙士雙象",
+    "classification": {
+      "type": "雙相雙炮 vs 雙士雙象",
+      "typeFull": "雙相雙炮 vs 雙士雙象",
+      "redPieces": {
+        "C": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-26T00:00:05.000Z"
+  }
+]

@@ -1,0 +1,144 @@
+[
+
+  {
+    "fen": "4k1b2/9/3aba3/8P/NP7/9/9/9/9/4K4 w - - 0 1",
+    "type": "單馬2兵 vs 2象2士",
+    "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+    "classification": {
+      "type": "單馬2兵 vs 2象2士",
+      "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+      "redPieces": {
+        "P": 2,
+        "N": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "a": 2
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:b5b6\u0000",
+    "bestMove": "b5b6\u0000",
+    "timestamp": "2025-10-25T07:31:38.714Z"
+  },
+  {
+    "fen": "3a1kN2/9/b2a5/1P7/3P2b2/9/9/3K5/9/9 w - - 0 1",
+    "type": "單馬2兵 vs 2象2士",
+    "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+    "classification": {
+      "type": "單馬2兵 vs 2象2士",
+      "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+      "redPieces": {
+        "N": 1,
+        "P": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:b6c6\u0000",
+    "bestMove": "b6c6\u0000",
+    "timestamp": "2025-10-25T07:31:39.920Z"
+  },
+  {
+    "fen": "2ba5/4ak3/b8/9/P6P1/9/9/9/1N7/4K4 w - - 0 1",
+    "type": "單馬2兵 vs 2象2士",
+    "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+    "classification": {
+      "type": "單馬2兵 vs 2象2士",
+      "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+      "redPieces": {
+        "P": 2,
+        "N": 1
+      },
+      "blackPieces": {
+        "b": 2,
+        "a": 2
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:h5h6\u0000",
+    "bestMove": "h5h6\u0000",
+    "timestamp": "2025-10-25T07:31:41.131Z"
+  },
+ 
+  {
+    "fen": "9/4a4/3kba2b/2P6/N3P4/9/9/5K3/9/9 w - - 0 1",
+    "type": "單馬2兵 vs 2象2士",
+    "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+    "classification": {
+      "type": "單馬2兵 vs 2象2士",
+      "typeFull": "單馬2兵 vs 2象2士 [紅:高兵2]",
+      "redPieces": {
+        "P": 2,
+        "N": 1
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 9,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a5b7\u0000",
+    "bestMove": "a5b7\u0000",
+    "timestamp": "2025-10-25T07:31:43.571Z"
+  }
+]

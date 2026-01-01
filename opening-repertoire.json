@@ -1,0 +1,1850 @@
+[
+  {
+    "fen": "rnbaka1nr/9/1c2b2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "順相局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/1c2b2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "列相局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn4c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn4c1/p1p1p1p1p/9/6P2/P1P1P3P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "飛相進三兵對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "飛相進七兵對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c3c3/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對左仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/3c3c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/3c3c1/p1p1p1p1p/9/9/P1P1P1P1P/1CN1B2C1/9/R1BAKA1NR b - - 0 1",
+    "name": "飛相進左馬對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/3c3c1/p1p1p1p1p/9/9/P1P1P1P1P/NC2B2C1/9/R1BAKA1NR b - - 0 1",
+    "name": "飛相左邊馬對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:09.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c3c3/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/8R/RN1AKABN1 b - - 0 1",
+    "name": "飛相橫車對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:10.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/3c3c1/p1p1p1p1p/9/6P2/P1P1P3P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "飛相進三兵對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:11.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/3c3c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "飛相進七兵對右仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:12.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對左中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1CN1B1NC1/9/R1BAKA2R b - - 0 1",
+    "name": "飛相轉屏風馬對左中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對右中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c1c5/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對左過宮炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c1c5/p1p1p1p1p/9/9/P1P1P1P1P/1C2B1NC1/9/RNBAKA2R w - - 0 1",
+    "name": "飛相進右馬對左過宮炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c1c2n2/p1p1p3p/6p2/9/P1P1P1P1P/1C2B1NC1/9/RNBAKA1R1 w - - 0 1",
+    "name": "飛相進右馬對左過宮炮－紅直車對黑進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c1c2n2/p1p1p3p/6p2/9/P1P1P1P1P/1C2B1N1C/9/RNBAKA1R1 b - - 0 1",
+    "name": "飛相進右馬對左過宮炮－紅直車邊炮對黑進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/5c1c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對右過宮炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對進7卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/9/P1P1P1P1P/1CN1B2C1/9/R1BAKA1NR b - - 0 1",
+    "name": "飛相進左馬對進7卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/2P6/P3P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相互進7兵局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p3p1p1p/2p6/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR w - - 0 1",
+    "name": "飛相對進3卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/9/P1P1P1P1P/1C4NC1/9/RNBAKAB1R w - - 0 1",
+    "name": "起馬對進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/9/P1P1P1P1P/1C4N1C/9/RNBAKAB1R b - - 0 1",
+    "name": "起馬轉邊炮對進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p3p3p/2p3p2/9/P1P1P1P1P/1CN2C3/9/R1BAKABNR b - - 0 1",
+    "name": "起馬轉仕角炮對進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p3p1p1p/2p6/9/P1P1P1P1P/1CN1C4/9/R1BAKABNR b - - 0 1",
+    "name": "起馬轉中炮對進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p3p1p1p/2p6/6P2/P1P1P3P/1CN4C1/9/R1BAKABNR b - - 0 1",
+    "name": "起馬互進七兵局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C3C3/9/RNBAKABNR w - - 0 1",
+    "name": "仕角炮對進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/3C3C1/9/RNBAKABNR w - - 0 1",
+    "name": "仕角炮對右中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/3C2NC1/9/RNBAKAB1R w - - 0 1",
+    "name": "仕角炮轉反宮馬對右中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/9/P1P1P1P1P/1C3C3/9/RNBAKABNR w - - 0 1",
+    "name": "仕角炮對進7卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C1C5/9/RNBAKABNR w - - 0 1",
+    "name": "過宮炮對進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabn1/8r/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C1C5/9/RNBAKABNR w - - 0 1",
+    "name": "過宮炮對橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/1C1C5/9/RNBAKABNR w - - 0 1",
+    "name": "過宮炮對左中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C1C2N2/9/RNBAKABR1 b - - 0 1",
+    "name": "過宮炮直車對左中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C1C2N2/9/RNBAKABR1 w - - 0 1",
+    "name": "過宮炮直車對左中炮橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn4c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "中炮對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "r1b1kabnr/4a4/1cn4c1/p1p1p3p/6p2/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對進右馬上士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "r1bakabn1/9/1cn4cr/p1p1p3p/6p2/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對鴛鴦炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/c1n4c1/p1p1p3p/6p2/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對三步虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "中炮對進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakab2/7cr/1c4n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對龜背炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4n2/p1p1p3p/6p2/2P6/P3P1PcP/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對左炮封車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:06.000Z"
+  },
+  {
+    "fen": "r1bakabn1/8r/1cn4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "中炮對單提馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakabn1/8r/1cn2c3/p1p1p1p1p/9/6P2/P1P1P3P/1C2C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "中炮對士角炮轉單提馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabn1/3r5/1cn4c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對單提馬橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:09.000Z"
+  },
+  {
+    "fen": "r1bakabn1/3r5/1cn4c1/p1p1p1p1p/9/1C7/P1P1P1P1P/4C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮巡河炮對單提馬橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:10.000Z"
+  },
+  {
+    "fen": "r1bakabn1/3r5/1cn4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮進7兵對單提馬橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:11.000Z"
+  },
+  {
+    "fen": "rnbakab2/9/1c4n1c/p1p1p1p1p/7r1/6P2/P1P1P3P/1CN1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "中炮對左三步虎騎河車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4n1c/p1p1p3p/6p2/2P6/P3P1P1P/1CN1C1N2/8R/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車對左三步虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4n1c/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮巡河炮對左三步虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4n1c/pC2p1p1p/2p6/6P2/P1P1P3P/2N1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮過河炮對左三步虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3n1c/p1p1p1p1p/9/2P3P2/P3P3P/1CN1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮兩頭蛇對左三步虎",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:04.000Z"
+  },
+  {
+    "fen": "1rbaka2r/9/1cn1bcn2/p3p1p1p/2p6/6P2/P1P1P3P/N2CC1N2/9/1RBAKAB1R w - - 0 1",
+    "name": "中炮對反宮馬後補左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:05.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/1cn2cn2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:06.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn2c3/p1p1p1p1p/9/2P6/P3P1P1P/1CN1C4/9/R1BAKABNR w - - 0 1",
+    "name": "中炮急進左馬對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/1cn2cn2/p1p1p1pRp/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "中炮過河車對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabnr/9/1cn2c3/p1p1p3p/6p2/2P6/P3P1P1P/1C2C1N2/8R/RNBAKAB2 b - - 0 1",
+    "name": "中炮右横車對反宫馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:09.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/1cn2cn2/p1p1p3p/6p2/1CP6/P3P1P1P/4C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮巡河炮對反宫馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:10.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/1cn2cn2/pCp1p3p/6p2/2P6/P3P1P1P/4C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "五八炮對反宫馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:11.000Z"
+  },
+  {
+    "fen": "1rbaka2r/9/1cn1bcn2/p3p1p1p/2p6/6P2/P1P1P3P/N2CC1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五六炮緩開車對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:12.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/1cn2cn2/p1p1p3p/6p2/2P6/P3P1P1P/3CC1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "五六炮左正馬對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:13.000Z"
+  },
+  {
+    "fen": "1rbakab1r/9/1cn2cn2/p1p1p3p/6p2/2P6/P3P1P1P/3CC1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "五六炮左正馬對反宮馬－黑右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:14.000Z"
+  },
+  {
+    "fen": "1rbakab1r/9/c1n2cn2/p1p1p1p1p/9/9/P1P1P1P1P/2NCC1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五六炮左正馬對反宮馬－黑右直車邊炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:15.000Z"
+  },
+  {
+    "fen": "1rbakab1r/9/c1n2cn2/p1p1p3p/6p2/2P6/P3P1P1P/2NCC1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五六炮左正馬對反宮馬－黑右直車邊炮進7卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:16.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/c1n2cn2/p1p1p1p1p/9/2P6/P3P1P1P/2C1C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "五七炮對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:17.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn2cn2/p1p1p1p1p/9/2P3P2/P3P3P/2C1C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "五七炮對反宮馬左直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:18.000Z"
+  },
+  {
+    "fen": "r1bakab2/3r5/1cn2cn2/p1p1p1p1p/9/6P2/P1P1P3P/N1C1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五七炮對反宮馬左橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:19.000Z"
+  },
+  {
+    "fen": "1r1akab1r/9/1cn1bcn2/p3p1p1p/2p6/6P2/P1P1P3P/N1C1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五七炮對反宮馬右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:20.000Z"
+  },
+  {
+    "fen": "r2akab1r/9/1cn1bcn2/p3p1p1p/2p6/6P2/P1P1P3P/N1C1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五七炮互進三兵對反宮馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:21.000Z"
+  },
+  {
+    "fen": "1r1akab1r/9/2n1bcn2/p3p1p1p/2p6/6P2/PcP1P3P/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對反宮馬－黑右砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:22.000Z"
+  },
+  {
+    "fen": "1rbaka2r/9/2n1bcn2/p3p3p/6p2/2p6/Pc2P3P/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對反宮馬－紅棄雙兵對黑右砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-01T16:00:23.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3n1c/p1p1p3p/6p2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮七路馬對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:01.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/2n3nc1/p1p1p3p/6p2/2PN5/Pc2P1P1P/1C2C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "中炮七路馬對屏風馬－紅左馬盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:02.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/2n3nc1/p1p1p3p/6p2/2P1P4/Pc4P1P/1CN1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "中炮七路馬對屏風馬－紅進中兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/2n3n2/p1p1p3p/6p2/2P1P4/Pc4PcP/1CN1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "中炮七路馬對屏風馬－紅進中兵對黑雙砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p1p1p/9/9/P1P1P1P1P/NC2C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "中炮左邊馬對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:05.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1cn1b1nc1/p3p1p1p/2p6/6P2/P1P1P3P/NC2C1N2/R8/2BAKABR1 b - - 0 1",
+    "name": "中炮左邊馬對屏風馬－紅色左橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:06.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/2P6/P3P1P1P/1CN1C1N2/8R/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車(其他)對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:07.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1n2/p1p1p3p/6pc1/2PN5/P3P1P1P/1C2C1N2/5R3/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車(其他)對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bak2r1/4a4/1cn1b1nc1/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/5R3/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車對屏風馬－紅巡河炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:09.000Z"
+  },
+  {
+    "fen": "r3kabr1/4a4/1cn1b1nc1/p1p1p3p/6p2/2P6/P3P1P1P/C1N1C1N2/5R3/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車對屏風馬－紅邊炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:10.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1nc1/p1p1p3p/6p2/2P1P4/P5P1P/1CN1C1N2/8R/R1BAKAB2 b - - 0 1",
+    "name": "中炮右橫車對屏風馬－紅進中兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:11.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p3p1p1p/2p6/7R1/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮巡河車對屏風馬－紅不進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:12.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p3p1p1p/2p6/7R1/P1P1P1P1P/NC2C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮巡河車對屏風馬－紅進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:13.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p2Rp/6p2/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:14.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p2Rp/6p2/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬(不包括兩頭蛇)",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:15.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p2Rp/6p2/9/P1P1P1P1P/NC2C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車左邊馬對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:16.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p3p2Rp/2p3p2/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p3p2Rp/2p3p2/9/P1P1P1P1P/1CN1C1N2/R8/2BAKAB2 b - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇－紅左橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:01.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/2n3nc1/pc2p2Rp/2p3p2/9/P1P1P1P1P/1CN1C1N2/R8/2BAKAB2 w - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇－紅左橫車對黑高右炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:02.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/2n1b1nc1/pc2p3p/2p3p2/6PR1/P1P1P3P/1CN1C1N2/R8/2BAKAB2 b - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇－紅左橫車兑三兵對黑高右炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:03.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/2n1b1nc1/pc2p3p/2p3p2/2P4R1/P3P1P1P/1CN1C1N2/R8/2BAKAB2 b - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇－紅左橫車兑七兵對黑高右炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:04.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/2n1b1nc1/p3p3p/1cp3p2/2P3PR1/P3P3P/1CN1C1N2/R8/2BAKAB2 b - - 0 1",
+    "name": "中炮過河車七路馬對屏風馬兩頭蛇－紅左橫車兑雙兵對黑高右炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-03T16:00:05.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a4/1cn3nc1/p1p1p2Rp/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬上士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1nc1/p1p1p2Rp/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬飛象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "2bakabr1/r8/1cn3nc1/p1p1p2Rp/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn4c1/p1p1p2Rp/5np2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬左馬盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn4c1/p1p1p2Rp/5np2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬左馬盤河－紅七路馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "2bakabr1/r8/1cn4c1/p1p1p2Rp/5np2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬左馬盤河－紅七路馬黑橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b2c1/p1p1p2Rp/5np2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬左馬盤河－紅七路馬對黑飛右象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:07.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b2c1/p1p1p2Rp/5np2/2P6/P3P1P1P/C1N1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬左馬盤河－紅邊炮對黑飛右象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3n1c/p1p1p2Rp/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/8c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－黑退邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "r1bakabr1/8c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅七路馬對黑退邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a3c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅七路馬對黑退邊砲上右士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a3c/1cn3n2/p1p1p1R1p/6p2/2PN5/P3P1P1P/1C2C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅左馬盤河對黑退邊砲上右士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a3c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/C1N1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅左邊炮對黑退邊砲上右士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a3c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/C1N1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅左邊炮對黑退邊砲上右士右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r1bakabr1/8c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/NC2C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅左邊馬對黑退邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakabr1/8c/1cn3n2/p1p1p1R1p/6p2/2P6/P3P1P1P/3CC1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅仕角炮對黑退邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabr1/8c/1cn3n2/p1p1p1R1p/6p2/2P1P4/P5P1P/1C2C1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "中炮過河車互進七兵對屏風馬平砲兌車－紅進中兵對黑退邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:09.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4nc1/p1p1p3p/6p2/9/P1P1P1P1P/2NCC1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "五六炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1nc1/p3p1p1p/2p6/6P2/P1P1P3P/N2CC1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五六炮左邊馬對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "1rbakabr1/9/1cn3nc1/p1p1p3p/6p2/9/P1P1P1P1P/N2CC1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五炮左邊馬對屏風馬－黑進７卒右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "1rbakabr1/9/2n3nc1/p1p1p3p/6p2/9/PcP1P1P1P/N2CC1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五六炮左邊馬對屏風馬－黑進７卒右直車右砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p2Rp/6p2/9/P1P1P1P1P/3CC1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "五六炮過河車對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "1rbakabr1/9/1cn3nc1/p1p1p2Rp/6p2/9/P1P1P1P1P/3CC1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "五六炮過河車對屏風馬－黑進７卒右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p3p2Rp/2p3p2/9/P1P1P1P1P/3CC1N2/9/RNBAKAB2 w - - 0 1",
+    "name": "五六炮過河車對屏風馬－黑兩頭蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c4nc1/p1p1p3p/6p2/9/P1P1P1P1P/N1C1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "五七炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/9/P1P1P1P1P/N1C1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五七炮對屏風馬進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a4/1cn3nc1/p1p1p3p/6p2/9/P1P1P1P1P/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七砲對屏風馬進７卒－紅左直車對黑右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a4/1cn3nc1/p1p1p3p/6p2/9/P1P1P1P1P/N1C1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五七砲對屏風馬進７卒－黑右直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a4/1cn3n2/p1p1p3p/6p2/9/P1P1P1PcP/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七炮對屏風馬進７卒－紅左直車對黑右直車左砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a4/2n3nc1/p1p1p3p/1c4p2/9/P1P1P1P1P/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七炮對屏風馬進７卒－紅左直車對黑右直車右砲巡河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "1rb1kabr1/4a4/2n3nc1/p1p1p3p/6p2/9/PcP1P1P1P/N1C1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "五七炮對屏風馬進７卒－紅左直車對黑右直車右砲過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a4/2n3nc1/p1p1p3p/1c4p2/9/P1P1P1P1P/N1C1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五七炮對屏風馬進７卒－黑右砲巡河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/2P6/P3P1P1P/2C1C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "五七炮互進七兵對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3n2/p3p1p1p/2p6/6P2/P1P1P2cP/N1C1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五七炮對屏風馬進３卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1c4nc1/p3p1p1p/1np6/6P2/P1P1P3P/2C1C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "五七炮對屏風馬進３卒右馬外盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1c4nc1/4p1p1p/pnp6/6P2/P1P1P3P/N1C1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1c4nc1/4p1p1p/pnp6/6P2/P1P1P3P/N1C1C1N2/R8/2BAKABR1 b - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1c2b1nc1/4p1p1p/pnp6/6P2/P1P1P3P/N1C1C1N2/R8/2BAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車對黑飛左象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1c2b1nc1/4p1p1p/pnp6/5NP2/P1P1P3P/N1C1C4/R8/2BAKABR1 b - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車右馬盤河對黑飛左象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1c2b1nc1/4p1p1p/pnp6/6PR1/P1P1P3P/N1C1C1N2/R8/2BAKAB2 b - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車右車巡河對黑飛左象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1c2b1nc1/4p1p1p/pnp6/6P2/P1P1P3P/N1C1C1N2/R8/2BAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車對黑飛右象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1c4nc1/4p1p1p/1np6/p5P2/P1P1P3P/N1C1C1N2/R8/2BAKABR1 w - - 0 1",
+    "name": "五七炮互進三兵對屏風馬邊卒右馬外盤河－紅左橫車對黑兌邊卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮巡河炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1cn1b1nc1/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "中炮巡河炮對屏風馬－黑飛左象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "2baka1r1/r8/1cn1b1nc1/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "中炮巡河炮對屏風馬－黑飛左象右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1cn1b1n2/p1p1p3p/6pc1/1CP6/P3P1P1P/2N1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "中炮巡河炮對屏風馬－黑飛左象左砲巡河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1nc1/p1p1p3p/6p2/1CP6/P3P1P1P/2N1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "中炮巡河炮對屏風馬－黑飛右象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn4c1/p1p1p3p/6pn1/1CPN5/P3P1P1P/4C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮巡河炮對屏風馬－紅左馬盤河對黑左馬外盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b2c1/p1p1p3p/6pn1/1CPN5/P3P1P1P/4C1N2/8R/R1BAKAB2 b - - 0 1",
+    "name": "中炮巡河炮緩開車對屏風馬左馬外盤河－紅右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn4c1/pCp1p2Rp/5np2/9/P1P1P1P1P/N3C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "五八炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/pC2p1p1p/2p6/6P2/P1P1P3P/4C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:01.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1cn1b1nc1/pC2p1p1p/2p6/6P2/P1P1P3P/2N1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左正馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:02.000Z"
+  },
+  {
+    "fen": "2bakabr1/r8/1cn3nc1/pC2p1p1p/2p6/6P2/P1P1P3P/N3C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:03.000Z"
+  },
+  {
+    "fen": "r1b1kabr1/4a4/1cn3nc1/pC2p1p1p/2p6/6P2/P1P1P3P/N3C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左邊馬對黑上士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:04.000Z"
+  },
+  {
+    "fen": "r2akabr1/9/1cn1b1nc1/pC2p3p/2p3p2/6P2/P1P1P3P/N3C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左邊馬對黑兌７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:05.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/1C2p1p1p/p1p6/6P2/P1P1P3P/N3C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左邊馬對黑邊卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:06.000Z"
+  },
+  {
+    "fen": "r1baka1r1/9/1cn1b1nc1/2C1p1p1p/p1p6/6P2/P1P1P3P/N3C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅左邊馬平炮壓馬對黑邊卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:07.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1C1p1p1p/2p6/6P2/P1P1P3P/4C1N2/9/RNBAKAB1R b - - 0 1",
+    "name": "五八炮互進三兵對屏風馬－紅平炮壓馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:08.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/1cn3nc1/p1p1p3p/6p2/9/P1P1P1P1P/C1N1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "五九炮對屏風馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-06T16:00:09.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "順炮緩開車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/6P2/P1P1P3P/1C2C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "順炮緩開車對橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/6P2/P1P1P3P/1C2C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "順炮緩開車對直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 b - - 0 1",
+    "name": "順炮橫車對緩開車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 w - - 0 1",
+    "name": "順炮橫車對直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 0 1",
+    "name": "順炮橫車對直車巡河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "順炮直車對緩開車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p3p/6p2/9/P1P1P1P1P/NC2C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "順炮直車對緩開車——黑左橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "2bakab1r/r8/1cn1c1n2/p1p1p3p/6p2/2P6/P3P1P1P/1CN1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "順炮直車對緩開車－黑右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1c2c1n2/p3p3p/2p3p2/7R1/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 0 1",
+    "name": "順炮直車對緩開車－黑兌直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/2n1c1n2/p1p1p3p/6p2/2P6/Pc2P1P1P/1CN1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "順炮直車對緩開車－黑過河炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "r1bakab1r/9/c1n1c1n2/p1p1p1p1p/9/2P6/P3P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "順炮直車對緩開－黑邊砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "順炮直車對橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakab2/3r5/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1CN1C1N2/4A4/R1B1KABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅先上仕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/NC2C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅左邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "r1bakab2/3r5/nc2c1n2/p1p1p1p1p/9/2P4R1/P3P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "順炮直車對橫車－紅巡河車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1pRp/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "順炮直車對橫車－紅過河車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/3CC1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakab2/3r5/1c2c1n2/p1p1p1p1p/9/6P2/P1P1P3P/1CN1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅進三兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakab2/3r5/1c2c1n2/p1p1p1p1p/9/2P6/P3P1P1P/1CN1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅進七兵",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "r1bakab2/3r5/nc2c1n2/p1p1p1p1p/9/2P3P2/P3P3P/1CN1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "順炮直車對橫車－紅兩頭蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "2bakab2/r2r5/1cn1c1n2/p1p1p1p1p/9/2P3P2/P3P3P/1CN1C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "順炮直車對橫車－紅兩頭蛇對黑雙橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n2/p1p1p1p1p/9/2P6/P3P1PcP/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮不進三兵對左砲封車轉列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n2/p1p1p1p1p/9/5NP2/P1P1P2cP/1C2C4/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮進三兵對左砲封車轉列炮－紅右馬盤河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n2/p1p1p1p1p/9/6P2/P1P1P2cP/1CN1C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "中炮進三兵對左砲封車轉列炮－紅七路馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n2/p1p1p1p1p/9/6P2/P1P1P2cP/NC2C1N2/9/R1BAKABR1 b - - 0 1",
+    "name": "中炮進三兵對左砲封車轉列炮－紅左邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/1C2c1n2/p1p1p1p1p/9/6P2/P1P1P2cP/4C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮進三兵對左砲封車轉列炮－紅進炮打馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n2/p1p1p1p1p/9/2P3P2/P3P2cP/1C2C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "中炮進三兵對左砲封車轉列炮－紅兩頭蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n1c/p1p1p1p1p/9/6P2/P1P1P3P/1CN1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "中炮對左三步虎轉列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakab2/9/4c1n1c/p1p1p1p1p/9/2P1P2r1/P5P1P/1CN1C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "中炮進中兵對左三步虎騎河車轉列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n1c/p1p1p1p1p/9/6P2/P1P1P3P/1CN1C1N2/9/1RBAKAB1R b - - 0 1",
+    "name": "中炮對左三步虎轉列炮－紅左直車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1n1c/p1p1p1p1p/9/2P3P2/P3P3P/1CN1C1N2/9/R1BAKAB1R b - - 0 1",
+    "name": "中炮對左三步虎轉列炮－紅兩頭蛇",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/4c2c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "中炮對列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/4c1nc1/p1p1p1p1p/9/6P2/P1P1P3P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "中炮對後補列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1nc1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKABR1 w - - 0 1",
+    "name": "中炮右直車對後補列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabr1/9/4c1nc1/p1p1p1pRp/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 1",
+    "name": "中炮過河車對後補列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "r1bakabr1/9/2n1c1nc1/p1p1p1p1p/9/6P2/P1P1P3P/1CN1C1N2/9/1RBAKAB1R b - - 0 1",
+    "name": "中炮左直車對後補列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "1rbakabr1/9/2n1c1nc1/p1p1p1p1p/9/2P6/P3P1P1P/1CN1C1N2/9/1RBAKABR1 w - - 0 1",
+    "name": "中炮雙直車對後補列炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/1c2b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對飛象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/1c2b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1CN4C1/9/R1BAKABNR b - - 0 1",
+    "name": "仙人指路(進右馬)對飛象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對中炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c1c5/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對過宮炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c3c3/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對仕角炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1cc6/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對金鉤炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/2P6/P3P1P1P/1CN4C1/9/R1BAKABNR b - - 0 1",
+    "name": "仙人指路互進右馬局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p1p1p/9/2P3P2/P3P3P/1C5C1/9/RNBAKABNR b - - 0 1",
+    "name": "兩頭蛇對進右馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/2c3nc1/p1p1p1p1p/9/2P3P2/P3P3P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "兩頭蛇對進右馬轉卒底砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:09.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/2c4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路對卒底砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/2c4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "仙人指路飛相對卒底砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/2c4c1/p1p1p1p1p/9/2P6/P3P1P1P/4C2C1/9/RNBAKABNR b - - 0 1",
+    "name": "仙人指路轉右中炮對卒底砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/2c4c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/9/RNBAKABNR b - - 0 1",
+    "name": "仙人指路轉左中砲對卒底砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbaka1nr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛右象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbaka1nr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/NC2C4/9/R1BAKABNR b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛右象－紅右邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "r1baka1nr/9/n1c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/NC2C4/9/R1BAKABNR w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛右象－互進邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/2c1c4/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲轉順炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/9/RNBAKABNR w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C4/4A4/RNB1KABNR b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅先上仕",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB1R b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅進左馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅進左馬對黑右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/1C2C1N2/9/RNBAKABR1 b - - 0 1",
+    "name": "仙人指路轉左中炮卒底砲飛左象－紅左直車對黑右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "r3kab2/1r1na4/2c1b2cn/p1p1p1p1p/9/2PN5/P3P1P1P/C3C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右馬盤河對黑右橫車上士",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "r2akab2/3n5/2c1b2cn/p1p1p1p1p/9/2PN5/P3P1P1P/Cr2C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右馬盤河對黑右橫車過河",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "r2akab2/1r1n5/2c1b2cn/p1p1p1p2/8p/2PN5/P3P1P1P/C3C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右馬盤河對黑右橫車邊卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p3p1p1p/2p6/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB1R w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－黑進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p3p1p1p/9/2p6/P3P1P1P/NC2C1N2/9/R1BAKAB1R w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－黑連進７卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "r2akabnr/3n5/2c1b2c1/p3p1p1p/9/2p6/P3P1P1P/NC2C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右邊馬對黑連進７卒拐角馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p3p1p1p/9/2p6/P3P1P1P/NC2C1N2/9/R1BAKABR1 w - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右邊馬對黑連進７卒右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p3p1p1p/9/2p6/P3P1P1P/NC2C1N2/4A4/R1B1KABR1 b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅左直車右邊馬上仕對黑連進７卒右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p3p1p1p/9/2p4R1/P3P1P1P/NC2C1N2/9/R1BAKAB2 b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅巡河車右邊馬對黑連進７卒右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rn1akabn1/8r/2c1b2c1/p3p1p1p/9/2p6/P3P1P1P/NC2C1N2/9/1RBAKABR1 b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅雙直車右邊馬對黑連進７卒右橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p1p1p1p1p/9/2P6/P3P1P1P/NC2C4/9/R1BAKABNR b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅右邊馬",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rn1akabnr/9/2c1b2c1/p1p1C1p1p/9/2P6/P3P1P1P/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "仙人指路轉左中炮對卒底砲飛左象－紅炮打中卒",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/2P6/P3P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+    "name": "對兵局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/2P6/P3P1P1P/1CN4C1/9/R1BAKABNR b - - 0 1",
+    "name": "對兵進右馬局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p3p/6p2/2P6/P3P1P1P/1CN4C1/9/R1BAKABNR w - - 0 1",
+    "name": "對兵互進右馬局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p3p/6p2/2P6/P3P1P1P/1CN1B2C1/9/R2AKABNR b - - 0 1",
+    "name": "對兵對進右馬局－紅飛相",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p3p/6p2/2P6/P3P1P1P/1CN4C1/R8/2BAKABNR b - - 0 1",
+    "name": "對兵對進右馬局－紅橫車",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakab1r/9/1c4nc1/p1p1p3p/6p2/2P6/P3P1P1P/C1N4C1/9/R1BAKABNR b - - 0 1",
+    "name": "對兵對進右馬局－紅邊炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p3p/6p2/2P6/P3P1P1P/1C4C2/9/RNBAKABNR b - - 0 1",
+    "name": "對兵轉兵底炮",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c2c4/p1p1p3p/6p2/2P6/P3P1P1P/1C4C2/9/RNBAKABNR w - - 0 1",
+    "name": "對兵轉兵底炮對右中砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/4c2c1/p1p1p3p/6p2/2P6/P3P1P1P/1C4C2/9/RNBAKABNR w - - 0 1",
+    "name": "對兵轉兵底炮對左中砲",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-11-07T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR b - - 0 1",
+    "name": "中炮-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:00.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2B2C1/9/RNBAKA1NR b - - 0 1",
+    "name": "飛相局-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:01.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/6P2/P1P1P3P/1C5C1/9/RNBAKABNR b - - 0 1",
+    "name": "仙人指路-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:02.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C4NC1/9/RNBAKAB1R b - - 0 1",
+    "name": "起馬局-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:03.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C3C3/9/RNBAKABNR b - - 0 1",
+    "name": "仕角炮-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:04.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C1C5/9/RNBAKABNR b - - 0 1",
+    "name": "過宮炮-常見開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:05.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4A4/RNBAK1BNR b - - 0 1",
+    "name": "上仕局-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:06.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C4C2/9/RNBAKABNR b - - 0 1",
+    "name": "兵底炮-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:07.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1CC6/9/RNBAKABNR b - - 0 1",
+    "name": "金鈎炮-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:08.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5CN/9/RNBAKAB1R b - - 0 1",
+    "name": "邊馬局-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:09.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/7C1/P1P1P1P1P/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "巡河炮-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:10.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C6C/9/RNBAKABNR b - - 0 1",
+    "name": "邊炮局-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:11.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C7/7C1/RNBAKABNR b - - 0 1",
+    "name": "龜背炮-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:12.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1pCp/9/9/P1P1P1P1P/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "過河炮-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:13.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/8P/P1P1P1P2/1C5C1/9/RNBAKABNR b - - 0 1",
+    "name": "九尾龜(起邊兵)-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:14.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/4P4/P1P3P1P/1C5C1/9/RNBAKABNR b - - 0 1",
+    "name": "急先鋒(起中兵)-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:15.000Z"
+  },
+  {
+    "fen": "rnbakabCr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "下馬威(揮炮打馬)-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:16.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5CB/9/RNBAKA1NR b - - 0 1",
+    "name": "游離相(八卦陣前身)-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:17.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/8R/RNBAKABN1 b - - 0 1",
+    "name": "鐵滑車-冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:18.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5CR/9/RNBAKABN1 b - - 0 1",
+    "name": "寶炮車(車一進二保炮棄馬)-極冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:19.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/7C1/9/P1P1P1P1P/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "揚威炮(炮二進三至對方巡河線)-極冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:20.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1PCP/1C7/9/RNBAKABNR b - - 0 1",
+    "name": "夾卒炮(炮二進一保中兵)-極冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:21.000Z"
+  },
+  {
+    "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/4K4/RNBA1ABNR b - - 0 1",
+    "name": "御駕親征(帥五進一)-極冷門開局",
+    "result": "egtb:",
+    "bestMove": "",
+    "timestamp": "2025-10-31T16:00:22.000Z"
+  }
+]

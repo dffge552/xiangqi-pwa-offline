@@ -1,0 +1,23 @@
+{
+  "name": "棋弈江湖 - 中國象棋",
+  "short_name": "象棋",
+  "description": "離線可玩的中國象棋，支援 AI 對弈與棋盤識別",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5dc",
+  "theme_color": "#f5f5dc",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

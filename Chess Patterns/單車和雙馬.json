@@ -1,0 +1,68 @@
+[
+  {
+    "fen": "9/5k3/9/4n4/9/4Rn3/9/9/9/4K4 w - - 0 1",
+    "type": "單俥 vs 雙馬",
+    "typeFull": "單俥 vs 雙馬",
+    "classification": {
+      "type": "單俥 vs 雙馬",
+      "typeFull": "單俥 vs 雙馬",
+      "redPieces": {
+        "R": 1
+      },
+      "blackPieces": {
+        "n": 2
+      },
+      "totalPieces": 5,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T09:09:04.000Z"
+  },
+  {
+    "fen": "9/5k3/9/4n4/9/3n5/4R4/9/9/4K4 w - - 0 1",
+    "type": "單俥 vs 雙馬",
+    "typeFull": "單俥 vs 雙馬",
+    "classification": {
+      "type": "單俥 vs 雙馬",
+      "typeFull": "單俥 vs 雙馬",
+      "redPieces": {
+        "R": 1
+      },
+      "blackPieces": {
+        "n": 2
+      },
+      "totalPieces": 5,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T09:09:05.000Z"
+  }
+]

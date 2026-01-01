@@ -1,0 +1,82 @@
+[
+  {
+    "fen": "3n1k3/4a4/4bar2/2P2R3/4N4/2B6/9/4B4/4A4/3K1A3 w - - 0 1",
+    "type": "單俥單馬單兵雙仕雙相 vs 單士雙象單馬單車",
+    "typeFull": "單俥單馬單兵雙仕雙相 vs 單士雙象單馬單車 [紅:高兵1]",
+    "classification": {
+      "type": "單俥單馬單兵雙仕雙相 vs 單士雙象單馬單車",
+      "typeFull": "單俥單馬單兵雙仕雙相 vs 單士雙象單馬單車 [紅:高兵1]",
+      "redPieces": {
+        "R": 1,
+        "N": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "b": 2,
+        "n": 1,
+        "r": 1
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:44:00.000Z"
+  },
+  {
+    "fen": "3nka3/4a4/4b2r1/2P1R4/9/2B3N2/9/4B4/4A4/3K1A3 w - - 0 1",
+    "type": "單俥單馬單兵雙仕雙相 vs 雙士單象單馬單車",
+    "typeFull": "單俥單馬單兵雙仕雙相 vs 雙士單象單馬單車 [紅:高兵1]",
+    "classification": {
+      "type": "單俥單馬單兵雙仕雙相 vs 雙士單象單馬單車",
+      "typeFull": "單俥單馬單兵雙仕雙相 vs 雙士單象單馬單車 [紅:高兵1]",
+      "redPieces": {
+        "R": 1,
+        "N": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 1,
+        "n": 1,
+        "r": 1
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:44:01.000Z"
+  }
+]

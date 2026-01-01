@@ -1,0 +1,282 @@
+[
+  {
+    "fen": "9/5k3/9/1R7/9/7r1/2C6/5A3/9/4K4 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:b6f6\u0000",
+    "bestMove": "b6f6\u0000",
+    "timestamp": "2025-10-25T09:52:44.517Z"
+  },
+  {
+    "fen": "5k3/9/9/9/9/5C3/9/9/4K4/3A1rR2 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "C": 1,
+        "A": 1,
+        "R": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:g0f0\u0000",
+    "bestMove": "g0f0\u0000",
+    "timestamp": "2025-10-25T09:52:45.688Z"
+  },
+  {
+    "fen": "9/5k3/9/9/9/4r4/8C/3A5/9/4K3R w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "C": 1,
+        "A": 1,
+        "R": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e0d0\u0000",
+    "bestMove": "e0d0\u0000",
+    "timestamp": "2025-10-25T09:52:48.034Z"
+  },
+  {
+    "fen": "9/5r3/5k3/9/9/9/9/3K5/9/C2R1A3 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "C": 1,
+        "R": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:d0c0\u0000",
+    "bestMove": "d0c0\u0000",
+    "timestamp": "2025-10-25T09:52:49.215Z"
+  },
+  {
+    "fen": "9/9/3k5/1C7/9/6r2/9/9/R3K4/3A5 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "C": 1,
+        "R": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:a1d1\u0000",
+    "bestMove": "a1d1\u0000",
+    "timestamp": "2025-10-25T09:52:50.388Z"
+  },
+  {
+    "fen": "9/9/3k5/2C6/7R1/9/9/9/5K2r/5A3 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "C": 1,
+        "R": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f1f2\u0000",
+    "bestMove": "f1f2\u0000",
+    "timestamp": "2025-10-25T09:52:52.722Z"
+  },
+  {
+    "fen": "2R6/2rk5/9/9/9/3C5/9/3A5/9/5K3 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:c9c8\u0000",
+    "bestMove": "c9c8\u0000",
+    "timestamp": "2025-10-25T09:52:53.899Z"
+  },
+  {
+    "fen": "9/3k5/5R3/9/9/9/6C2/3r5/4K4/5A3 w - - 0 1",
+    "type": "單車單仕單炮 vs 單車",
+    "typeFull": "單車單仕單炮 vs 單車",
+    "classification": {
+      "type": "單車單仕單炮 vs 單車",
+      "typeFull": "單車單仕單炮 vs 單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "A": 1
+      },
+      "blackPieces": {
+        "r": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f7f4\u0000",
+    "bestMove": "f7f4\u0000",
+    "timestamp": "2025-10-25T09:52:55.075Z"
+  }
+]

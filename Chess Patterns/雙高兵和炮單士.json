@@ -1,0 +1,138 @@
+[
+  {
+    "fen": "4k4/4a4/9/4P4/3P5/9/9/7c1/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單士單砲",
+    "typeFull": "2兵 vs 單士單砲 [紅:高兵2]",
+    "classification": {
+      "type": "2兵 vs 單士單砲",
+      "typeFull": "2兵 vs 單士單砲 [紅:高兵2]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  },
+  {
+    "fen": "4k4/8c/5a3/1P7/3P5/9/9/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單士單砲",
+    "typeFull": "2兵 vs 單士單砲 [紅:高兵2]",
+    "classification": {
+      "type": "2兵 vs 單士單砲",
+      "typeFull": "2兵 vs 單士單砲 [紅:高兵2]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 0,
+          "bottom": 0,
+          "normal": 2
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  },
+  {
+    "fen": "4k4/3P4c/5a3/3P5/9/9/9/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單士單砲",
+    "typeFull": "2兵 vs 單士單砲 [紅:低兵1+高兵1]",
+    "classification": {
+      "type": "2兵 vs 單士單砲",
+      "typeFull": "2兵 vs 單士單砲 [紅:低兵1+高兵1]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 1,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  },
+  {
+    "fen": "3a4c/4k1P2/9/4P4/9/9/9/9/9/3K5 w - - 0 1",
+    "type": "2兵 vs 單士單砲",
+    "typeFull": "2兵 vs 單士單砲 [紅:低兵1+高兵1]",
+    "classification": {
+      "type": "2兵 vs 單士單砲",
+      "typeFull": "2兵 vs 單士單砲 [紅:低兵1+高兵1]",
+      "redPieces": {
+        "P": 2
+      },
+      "blackPieces": {
+        "a": 1,
+        "c": 1
+      },
+      "totalPieces": 6,
+      "pawnAnalysis": {
+        "red": {
+          "total": 2,
+          "low": 1,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-24T10:30:00.000Z"
+  }
+]

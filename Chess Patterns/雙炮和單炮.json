@@ -1,0 +1,35 @@
+[
+  {
+    "fen": "3c5/9/3k5/9/9/9/9/4K4/4C4/6C2 w - - 0 1",
+    "type": "雙炮 vs 單炮",
+    "typeFull": "雙炮 vs 單炮",
+    "classification": {
+      "type": "雙炮 vs 單炮",
+      "typeFull": "雙炮 vs 單炮",
+      "redPieces": {
+        "C": 2
+      },
+      "blackPieces": {
+        "c": 1
+      },
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:00.000Z"
+  }
+]

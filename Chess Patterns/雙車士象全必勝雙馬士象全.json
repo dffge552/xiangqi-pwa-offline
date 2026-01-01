@@ -1,0 +1,113 @@
+[
+  {
+    "fen": "3ak1b2/3Ra4/4bn3/4R4/6n2/9/9/4B4/4A4/2B1KA3 w - - 0 1",
+    "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "classification": {
+      "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "redPieces": {
+        "R": 2,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "n": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:20:00.000Z"
+  },
+  {
+    "fen": "3nknb2/4a4/3ab4/4R4/9/4R4/9/4B4/4A4/2B1KA3 w - - 0 1",
+    "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "classification": {
+      "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "redPieces": {
+        "R": 2,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "n": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:20:01.000Z"
+  },
+  {
+    "fen": "2bk1a3/1n2a4/3nb4/4R4/9/4R4/9/4B4/4A4/2B1KA3 w - - 0 1",
+    "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+    "classification": {
+      "type": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "typeFull": "雙俥雙仕雙相 vs 雙士雙象雙馬",
+      "redPieces": {
+        "R": 2,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2,
+        "n": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:20:02.000Z"
+  }
+]

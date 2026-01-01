@@ -1,0 +1,305 @@
+[
+ 
+  {
+    "fen": "3a1a3/9/3k5/9/2b3b1P/9/9/5A3/1C2K4/2BA2B2 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "A": 2,
+        "C": 1,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i5h5\u0000",
+    "bestMove": "i5h5\u0000",
+    "timestamp": "2025-10-25T02:13:43.156Z"
+  },
+  {
+    "fen": "3k5/4a4/4ba1Cb/9/6P2/9/9/3A5/9/2B1KAB2 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:g5g6\u0000",
+    "bestMove": "g5g6\u0000",
+    "timestamp": "2025-10-25T02:13:44.371Z"
+  },
+  {
+    "fen": "3a5/9/3ak3b/5P3/6b1C/2B6/9/3A5/3K5/3A2B2 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "B": 2,
+        "A": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:i5i3\u0000",
+    "bestMove": "i5i3\u0000",
+    "timestamp": "2025-10-25T02:13:45.591Z"
+  },
+  {
+    "fen": "9/4k4/3aba3/5C3/4P1b2/2B6/9/3KBA3/4A4/9 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "B": 2,
+        "A": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e5e6\u0000",
+    "bestMove": "e5e6\u0000",
+    "timestamp": "2025-10-25T02:13:46.830Z"
+  },
+  {
+    "fen": "2C6/4a4/3abk3/9/3P2b2/9/9/3K1A3/9/2BA2B2 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:c9c1\u0000",
+    "bestMove": "c9c1\u0000",
+    "timestamp": "2025-10-25T02:13:48.044Z"
+  },
+ 
+ 
+
+  {
+    "fen": "5a3/9/3a1k3/9/2b1P1bC1/2B6/9/3ABA3/5K3/9 w - - 0 1",
+    "type": "2相2仕單炮單兵 vs 2象2士",
+    "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+    "classification": {
+      "type": "2相2仕單炮單兵 vs 2象2士",
+      "typeFull": "2相2仕單炮單兵 vs 2象2士 [紅:高兵1]",
+      "redPieces": {
+        "P": 1,
+        "C": 1,
+        "B": 2,
+        "A": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 12,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e5f5\u0000",
+    "bestMove": "e5f5\u0000",
+    "timestamp": "2025-10-25T02:13:54.229Z"
+  },
+  
+  {
+    "fen": "2bak4/4a4/4b4/9/8P/2B3B2/9/5K3/1C2A4/3A5 w - - 0 1",
+    "type": "單炮單高兵雙仕雙相 vs 雙士雙象",
+    "typeFull": "單炮單高兵雙仕雙相 vs 雙士雙象",
+    "classification": {
+      "type": "單炮單高兵雙仕雙相 vs 雙士雙象",
+      "typeFull": "單炮單高兵雙仕雙相 vs 雙士雙象",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:00.000Z"
+  },
+  {
+    "fen": "2ba1k3/4a4/4b4/9/8P/2B3B2/9/4K4/1C2A4/3A5 w - - 0 1",
+    "type": "單炮單高兵雙仕雙相 vs 雙士雙象",
+    "typeFull": "單炮單高兵雙仕雙相 vs 雙士雙象",
+    "classification": {
+      "type": "單炮單高兵雙仕雙相 vs 雙士雙象",
+      "typeFull": "單炮單高兵雙仕雙相 vs 雙士雙象",
+      "redPieces": {
+        "C": 1,
+        "P": 1,
+        "A": 2,
+        "B": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 2
+      },
+      "totalPieces": 10,
+      "pawnAnalysis": {
+        "red": {
+          "total": 1,
+          "low": 0,
+          "bottom": 0,
+          "normal": 1
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T00:00:01.000Z"
+  }
+]
+
+ 

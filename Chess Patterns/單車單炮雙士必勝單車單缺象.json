@@ -1,0 +1,39 @@
+[
+  {
+    "fen": "4k4/4a4/3a5/9/4r1b2/3R5/9/5A2C/4A4/3K5 w - - 0 1",
+    "type": "單俥單炮雙仕 vs 雙士單象單車",
+    "typeFull": "單俥單炮雙仕 vs 雙士單象單車",
+    "classification": {
+      "type": "單俥單炮雙仕 vs 雙士單象單車",
+      "typeFull": "單俥單炮雙仕 vs 雙士單象單車",
+      "redPieces": {
+        "R": 1,
+        "C": 1,
+        "A": 2
+      },
+      "blackPieces": {
+        "a": 2,
+        "b": 1,
+        "r": 1
+      },
+      "totalPieces": 8,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:需要查詢",
+    "bestMove": "需要查詢",
+    "timestamp": "2025-10-25T10:08:00.000Z"
+  }
+]

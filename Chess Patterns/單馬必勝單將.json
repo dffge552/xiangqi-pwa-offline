@@ -1,0 +1,157 @@
+[
+  {
+    "fen": "3k5/9/9/9/9/9/9/1N3K3/9/9 w - - 0 1",
+    "type": "單馬 vs 單將",
+    "typeFull": "單馬 vs 單將",
+    "classification": {
+      "type": "單馬 vs 單將",
+      "typeFull": "單馬 vs 單將",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {},
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:b2c4\u0000",
+    "bestMove": "b2c4\u0000",
+    "timestamp": "2025-10-25T00:44:23.802Z"
+  },
+  {
+    "fen": "4k4/9/9/9/5N3/9/9/3K5/9/9 w - - 0 1",
+    "type": "單馬 vs 單將",
+    "typeFull": "單馬 vs 單將",
+    "classification": {
+      "type": "單馬 vs 單將",
+      "typeFull": "單馬 vs 單將",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {},
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f5g7\u0000",
+    "bestMove": "f5g7\u0000",
+    "timestamp": "2025-10-25T00:44:24.970Z"
+  },
+  {
+    "fen": "3k5/9/9/9/9/4N4/9/4K4/9/9 w - - 0 1",
+    "type": "單馬 vs 單將",
+    "typeFull": "單馬 vs 單將",
+    "classification": {
+      "type": "單馬 vs 單將",
+      "typeFull": "單馬 vs 單將",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {},
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e4d6\u0000",
+    "bestMove": "e4d6\u0000",
+    "timestamp": "2025-10-25T00:44:26.137Z"
+  },
+  {
+    "fen": "9/9/4k4/9/9/9/9/9/9/4NK3 w - - 0 1",
+    "type": "單馬 vs 單將",
+    "typeFull": "單馬 vs 單將",
+    "classification": {
+      "type": "單馬 vs 單將",
+      "typeFull": "單馬 vs 單將",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {},
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:e0d2\u0000",
+    "bestMove": "e0d2\u0000",
+    "timestamp": "2025-10-25T00:44:27.304Z"
+  },
+  {
+    "fen": "9/9/3k5/9/9/9/9/5K3/N8/9 w - - 0 1",
+    "type": "單馬 vs 單將",
+    "typeFull": "單馬 vs 單將",
+    "classification": {
+      "type": "單馬 vs 單將",
+      "typeFull": "單馬 vs 單將",
+      "redPieces": {
+        "N": 1
+      },
+      "blackPieces": {},
+      "totalPieces": 3,
+      "pawnAnalysis": {
+        "red": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        },
+        "black": {
+          "total": 0,
+          "low": 0,
+          "bottom": 0,
+          "normal": 0
+        }
+      }
+    },
+    "result": "egtb:f2e2\u0000",
+    "bestMove": "f2e2\u0000",
+    "timestamp": "2025-10-25T00:44:28.471Z"
+  }
+]
