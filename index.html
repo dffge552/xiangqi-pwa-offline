@@ -16571,7 +16571,7 @@
     }
 
     /**
-     * 🎨 創建 AI 分析按鈕
+     * 🎨 創建 AI 分析按鈕（固定底部，符合原有風格）
      */
     function createAIAnalysisButton() {
         // 檢查是否已存在
@@ -16579,39 +16579,132 @@
             return;
         }
 
-        // 創建按鈕
-        const button = document.createElement('button');
-        button.id = 'ai-analyze-btn';
-        button.textContent = '🤖 AI 分析';
-        button.style.cssText = `
-        background: #4CAF50;
-        color: white;
-        border: none;
-        padding: 12px 20px;
-        font-size: 16px;
-        border-radius: 5px;
-        cursor: pointer;
-        margin: 10px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-        transition: background 0.3s ease;
+        // 🔥 檢測是否為移動設備
+        const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || window.innerWidth < 768;
+
+        if (isMobile) {
+            // === 移動設備：固定在底部 ===
+            const container = document.createElement('div');
+            container.id = 'ai-analyze-container';
+            container.style.cssText = `
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: transparent;
+        z-index: 9999;
+        padding: 0;                    /* ✅ 改成 0 */
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     `;
 
-        button.onmouseover = () => {
-            if (!button.disabled) button.style.background = '#45a049';
-        };
-        button.onmouseout = () => {
-            if (!button.disabled) button.style.background = '#4CAF50';
-        };
+            const button = document.createElement('button');
+            button.id = 'ai-analyze-btn';
+            button.textContent = '🤖 AI 分析';
+            button.style.cssText = `
+        padding: 12px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+        margin: 10px 16px;              /* ✅ 改成與上方按鈕一致 */
+        width: calc(100% - 32px);       /* ✅ 減去左右 margin */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        transition: background-color 0.3s ease;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: transparent;
+    `;
+            // hover/active 效果
+            button.addEventListener('mouseenter', () => {
+                if (!button.disabled) button.style.backgroundColor = '#45a049';
+            });
 
-        button.onclick = () => {
-            if (aiAnalysisManager) {
-                aiAnalysisManager.analyzePosition();
+            button.addEventListener('mouseleave', () => {
+                if (!button.disabled) button.style.backgroundColor = '#4CAF50';
+            });
+
+            // 觸控反饋
+            button.addEventListener('touchstart', () => {
+                if (!button.disabled) button.style.backgroundColor = '#45a049';
+            }, { passive: true });
+
+            button.addEventListener('touchend', () => {
+                if (!button.disabled) {
+                    setTimeout(() => {
+                        button.style.backgroundColor = '#4CAF50';
+                    }, 150);
+                }
+            }, { passive: true });
+
+            // 點擊事件
+            button.onclick = () => {
+                if (aiAnalysisManager) {
+                    aiAnalysisManager.analyzePosition();
+                }
+            };
+
+            container.appendChild(button);
+            document.body.appendChild(container);
+
+            console.log('✅ AI 分析按鈕已創建（移動設備固定底部）');
+
+        } else {
+            // === 桌面設備：加到控制面板 ===
+            const regretButton = Array.from(document.querySelectorAll('button')).find(btn =>
+                btn.textContent.includes('悔棋') || btn.textContent.includes('undo')
+            );
+
+            let buttonContainer = regretButton ? regretButton.parentElement :
+                document.getElementById('controls') ||
+                document.body;
+
+            const button = document.createElement('button');
+            button.id = 'ai-analyze-btn';
+            button.textContent = '🤖 AI 分析';
+
+            // 🔥 複製其他按鈕的樣式
+            if (regretButton) {
+                button.className = regretButton.className;
+                button.style.cssText = regretButton.style.cssText;
+            } else {
+                button.style.cssText = `
+                padding: 12px 20px;
+                background-color: #4CAF50;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 14px;
+                font-weight: bold;
+                margin: 5px;
+            `;
             }
-        };
 
-        // 加到控制面板
-        const controlPanel = document.getElementById('controls') || document.body;
-        controlPanel.appendChild(button);
+            // hover 效果
+            button.addEventListener('mouseenter', () => {
+                if (!button.disabled) button.style.backgroundColor = '#45a049';
+            });
+
+            button.addEventListener('mouseleave', () => {
+                if (!button.disabled) button.style.backgroundColor = '#4CAF50';
+            });
+
+            // 點擊事件
+            button.onclick = () => {
+                if (aiAnalysisManager) {
+                    aiAnalysisManager.analyzePosition();
+                }
+            };
+
+            buttonContainer.appendChild(button);
+
+            console.log('✅ AI 分析按鈕已創建（桌面設備側邊）');
+        }
     }
 
     /**
@@ -23488,92 +23581,7 @@
         setTimeout(closeNotification, 5000);
     }
 
-    // ==================== 第一部分：皮卡魚 API 類別（加在代碼最前面） ====================
 
-    class PikafishRecognitionAPI {
-        constructor() {
-            // 🔥 改這行
-            // ❌ 原本：this.apiUrl = 'http://localhost:3001/api/pikafish-recognize';
-            // ✅ 改成：
-            this.apiUrl = 'https://xiangqiai.com/api/board_recognition';
-
-            this.rateLimitDelay = 10000;
-            this.lastRequestTime = 0;
-        }
-
-        async recognizeImage(imageFile) {
-            const now = Date.now();
-            const timeSinceLastRequest = now - this.lastRequestTime;
-
-            if (timeSinceLastRequest < this.rateLimitDelay) {
-                const waitTime = this.rateLimitDelay - timeSinceLastRequest;
-                throw new Error(`請等待 ${Math.ceil(waitTime / 1000)} 秒後再試`);
-            }
-
-            try {
-                const formData = new FormData();
-                formData.append('image', imageFile);
-
-                console.log('📤 上傳到皮卡魚 API...');
-
-                const response = await fetch(this.apiUrl, {
-                    method: 'POST',
-                    headers: {
-                        'accept': 'application/json, text/plain, */*',
-                        'origin': 'https://xiangqiai.com',
-                        'referer': 'https://xiangqiai.com/'
-                    },
-                    body: formData
-                });
-
-                this.lastRequestTime = Date.now();
-
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-                }
-
-                const result = await response.json();
-                console.log('✅ 皮卡魚回應:', result);
-
-                if (result.code !== 200 || !result.data || !result.data.fen) {
-                    throw new Error(result.msg || '識別失敗');
-                }
-
-                return {
-                    success: true,
-                    fen: result.data.fen,
-                    highConfidence: result.data.high_confidence,
-                    orientation: result.data.orientation,
-                    perspective: result.data.perspective
-                };
-
-            } catch (error) {
-                console.error('❌ 皮卡魚識別失敗:', error);
-                throw error;
-            }
-        }
-
-        async recognizeFromCanvas(canvas) {
-            return new Promise((resolve, reject) => {
-                canvas.toBlob(async (blob) => {
-                    if (!blob) {
-                        reject(new Error('無法轉換 Canvas 為圖片'));
-                        return;
-                    }
-                    try {
-                        const file = new File([blob], 'board.jpg', { type: 'image/jpeg' });
-                        const result = await this.recognizeImage(file);
-                        resolve(result);
-                    } catch (error) {
-                        reject(error);
-                    }
-                }, 'image/jpeg', 0.95);
-            });
-        }
-    }
-
-    // 🔥 初始化皮卡魚 API 實例（全局）
-    const pikafishAPI = new PikafishRecognitionAPI();
 
 
     // ========== 修復後的 ONNX 模型推理模塊 ==========
@@ -27255,11 +27263,16 @@
             <h4><span class="mode-badge mode-3">🐟 模式三</span> 皮卡魚 API 識別（推薦）</h4>
             <p><strong>適用場景</strong>：追求最高準確度，且有網路連線</p>
 
-            <div class="tip">
-                <strong>✨ 強烈推薦</strong><br>
-                皮卡魚線上辨識是<strong>準確度最高、最省時</strong>的識別方式！<br>
-                特別適合實體棋盤（深色/異色棋子也能準確識別）。
-            </div>
+          <div class="tip">
+    <strong>✨ 強烈推薦</strong><br>
+    皮卡魚線上辨識是<strong>準確度最高、最省時</strong>的識別方式！<br>
+    特別適合實體棋盤（深色/異色棋子也能準確識別）
+</div>
+
+<div class="warning" style="margin-top: 10px;">
+    <strong>⚠️ 平台限制</strong><br>
+    本功能為<strong>電腦版應用軟體專用</strong>，目前尚未開放手機版本使用
+</div>
 
             <div class="step-box">
                 <strong>操作流程</strong>
@@ -28590,287 +28603,7 @@
         }
 
 
-// ==================== 第五部分：皮卡魚流程（新增） ====================
 
-// 🌐 檢測網路連線狀態
-        async function checkNetworkConnection() {
-            // 方法1: 檢查 navigator.onLine
-            if (!navigator.onLine) {
-                return { connected: false, message: '您的設備未連接到網路' };
-            }
-
-            // 方法2: 實際測試網路連通性
-            try {
-                const controller = new AbortController();
-                const timeoutId = setTimeout(() => controller.abort(), 5000); // 5秒超時
-
-                const response = await fetch('https://www.google.com/favicon.ico', {
-                    method: 'HEAD',
-                    mode: 'no-cors',
-                    cache: 'no-cache',
-                    signal: controller.signal
-                });
-
-                clearTimeout(timeoutId);
-                return { connected: true };
-            } catch (error) {
-                if (error.name === 'AbortError') {
-                    return { connected: false, message: '網路連線超時，請檢查網路狀態' };
-                }
-                return { connected: false, message: '無法連接到網路，請檢查網路設置' };
-            }
-        }
-
-
-// 🎨 顯示網路錯誤提示 UI
-        function showNetworkError(message) {
-            statusDisplay.innerHTML = `
-        <div style="text-align: center;">
-            <div style="font-size: 48px; margin-bottom: 16px;">📡❌</div>
-            <div style="font-size: 20px; font-weight: bold; margin-bottom: 12px; color: #721c24;">
-                網路未連接
-            </div>
-            <div style="font-size: 14px; color: #721c24; margin-bottom: 20px; line-height: 1.6;">
-                ${message}<br>
-                <strong>皮卡魚 API 需要網路連線才能識別棋盤</strong>
-            </div>
-
-            <div style="background: #fff3cd; padding: 12px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #ffc107;">
-                <div style="font-size: 13px; color: #856404; text-align: left;">
-                    <strong>📌 解決方法：</strong><br>
-                    1. 檢查您的 Wi-Fi 或行動網路是否已開啟<br>
-                    2. 確認網路連線穩定<br>
-                    3. 如果使用 VPN，請嘗試關閉後重試<br>
-                    4. 重新整理頁面後再試一次
-                </div>
-            </div>
-
-            <div style="display: flex; gap: 10px; justify-content: center;">
-                <button id="retry-network-btn" style="
-                    padding: 12px 24px;
-                    background: #28a745;
-                    color: white;
-                    border: none;
-                    border-radius: 5px;
-                    cursor: pointer;
-                    font-weight: bold;
-                    font-size: 14px;
-                    transition: all 0.2s;
-                ">
-                    🔄 重新檢測網路
-                </button>
-
-                <button id="use-offline-btn" style="
-                    padding: 12px 24px;
-                    background: #6c757d;
-                    color: white;
-                    border: none;
-                    border-radius: 5px;
-                    cursor: pointer;
-                    font-weight: bold;
-                    font-size: 14px;
-                    transition: all 0.2s;
-                ">
-                    📱 改用離線識別
-                </button>
-            </div>
-        </div>
-    `;
-
-            statusDisplay.style.background = '#f8d7da';
-            statusDisplay.style.color = '#721c24';
-            statusDisplay.style.border = '2px solid #dc3545';
-
-            // 🔥 綁定按鈕事件
-            setTimeout(() => {
-                const retryBtn = document.getElementById('retry-network-btn');
-                const offlineBtn = document.getElementById('use-offline-btn');
-
-                if (retryBtn) {
-                    retryBtn.addEventListener('click', () => {
-                        startPikafishFlow(); // 重新執行皮卡魚流程
-                    });
-
-                    retryBtn.addEventListener('mouseenter', () => {
-                        retryBtn.style.background = '#218838';
-                        retryBtn.style.transform = 'translateY(-2px)';
-                    });
-                    retryBtn.addEventListener('mouseleave', () => {
-                        retryBtn.style.background = '#28a745';
-                        retryBtn.style.transform = 'translateY(0)';
-                    });
-                }
-
-                if (offlineBtn) {
-                    offlineBtn.addEventListener('click', () => {
-                        showRecognitionChoice(); // 返回識別方式選擇
-                    });
-
-                    offlineBtn.addEventListener('mouseenter', () => {
-                        offlineBtn.style.background = '#5a6268';
-                        offlineBtn.style.transform = 'translateY(-2px)';
-                    });
-                    offlineBtn.addEventListener('mouseleave', () => {
-                        offlineBtn.style.background = '#6c757d';
-                        offlineBtn.style.transform = 'translateY(0)';
-                    });
-                }
-            }, 50);
-        }
-
-        async function startPikafishFlow() {
-            console.log('🐟 用戶選擇：皮卡魚線上識別');
-
-            // 🌐 步驟 0: 檢測網路連線
-            statusDisplay.textContent = '🌐 正在檢測網路連線...';
-            statusDisplay.style.background = '#d1ecf1';
-            statusDisplay.style.color = '#0c5460';
-            statusDisplay.style.border = '2px solid #17a2b8';
-
-            const networkStatus = await checkNetworkConnection();
-
-            if (!networkStatus.connected) {
-                console.error('❌ 網路未連接:', networkStatus.message);
-                showNetworkError(networkStatus.message);
-                return; // 中斷流程
-            }
-
-            console.log('✅ 網路連線正常');
-
-            currentStep = 3;
-            updateStepIndicator();
-            statusDisplay.textContent = '🐟 正在上傳到皮卡魚 API，請稍候...';
-            statusDisplay.style.background = '#cce5ff';
-            statusDisplay.style.color = '#004085';
-            statusDisplay.style.border = '2px solid #007bff';
-
-            try {
-                // 🔥 使用原始全尺寸圖片上傳（未經任何處理）
-                const sourceCanvas = window.originalFullCanvas || canvas;
-                console.log('📤 上傳圖片尺寸:', sourceCanvas.width, 'x', sourceCanvas.height);
-
-                // 🔥 調用皮卡魚 API
-                const result = await pikafishAPI.recognizeFromCanvas(sourceCanvas);
-
-                console.log('========================================');
-                console.log('🐟 皮卡魚識別結果（原始）:');
-                console.log('   - FEN:', result.fen);
-                console.log('   - 高信心度:', result.highConfidence);
-                console.log('   - 棋盤方向:', result.orientation);
-                console.log('   - 視角:', result.perspective);
-
-                // 🔥 自動修正：只修正前3段（前3行）錯誤的卒(p)改成車(r)
-                let correctedFen = result.fen;
-                const fenParts = correctedFen.split(' ');
-
-                if (fenParts.length >= 1) {
-                    let boardParts = fenParts[0].split('/');
-
-                    // 🔥 只修正前3行（索引 0, 1, 2）
-                    for (let i = 0; i < 3 && i < boardParts.length; i++) {
-                        boardParts[i] = boardParts[i].replace(/p/g, 'r');
-                    }
-
-                    // 重組 FEN
-                    fenParts[0] = boardParts.join('/');
-                    correctedFen = fenParts.join(' ');
-
-                    if (correctedFen !== result.fen) {
-                        console.log('🔧 自動修正：前3段的卒(p)已改成車(r)');
-                        console.log('   - 修正 FEN:', correctedFen);
-                    }
-                }
-
-                console.log('========================================\n');
-
-                // 🔥 使用修正後的 FEN 導入到虛擬棋盤
-                fenInput.value = correctedFen;
-                parseFENToBoard(correctedFen);
-
-                currentStep = 4;
-                updateStepIndicator();
-
-                // 🔥 顯示成功訊息
-                statusDisplay.innerHTML = `
-            <div style="text-align: center;">
-                <div style="font-size: 20px; margin-bottom: 8px;">✅ 識別完成！</div>
-                <div style="font-size: 13px; color: #155724; line-height: 1.6;">
-                    <strong>信心度:</strong> ${result.highConfidence ? '高 ✓' : '中'}<br>
-                    <strong>棋盤方向:</strong> ${result.orientation === 'horizontal' ? '橫盤' : '豎盤'}<br>
-                    <strong>視角:</strong> ${result.perspective === 'w' ? '紅方視角' : '黑方視角'}
-                </div>
-                <div style="margin-top: 12px; font-size: 12px; color: #666;">
-                    請檢查左側虛擬棋盤，確認無誤後點擊「應用到主棋盤」
-                </div>
-            </div>
-        `;
-                statusDisplay.style.background = '#d4edda';
-                statusDisplay.style.color = '#155724';
-                statusDisplay.style.border = '2px solid #28a745';
-
-            } catch (error) {
-                console.error('❌ 皮卡魚識別失敗:', error);
-
-                // 🔥 判斷是否為網路錯誤
-                if (error.message.includes('NetworkError') ||
-                    error.message.includes('Failed to fetch') ||
-                    error.message.includes('timeout')) {
-                    showNetworkError('網路連線中斷或超時');
-                    return;
-                }
-
-                currentStep = 1;
-                updateStepIndicator();
-
-                let errorMsg = error.message;
-                if (error.message.includes('等待')) {
-                    errorMsg = error.message;
-                } else if (error.message.includes('HTTP')) {
-                    errorMsg = '網路連線失敗，請檢查網路狀態';
-                } else {
-                    errorMsg = '識別失敗: ' + error.message;
-                }
-
-                statusDisplay.innerHTML = `
-            <div style="text-align: center;">
-                <div style="font-size: 18px; margin-bottom: 8px;">❌ ${errorMsg}</div>
-                <button id="retry-recognition-btn" style="
-                    margin-top: 12px;
-                    padding: 10px 20px;
-                    background: #ffc107;
-                    color: #333;
-                    border: none;
-                    border-radius: 5px;
-                    cursor: pointer;
-                    font-weight: bold;
-                    transition: all 0.2s;
-                ">
-                    🔄 重新選擇識別方式
-                </button>
-            </div>
-        `;
-                statusDisplay.style.background = '#f8d7da';
-                statusDisplay.style.color = '#721c24';
-                statusDisplay.style.border = '2px solid #dc3545';
-
-                // 🔥 綁定重試按鈕
-                setTimeout(() => {
-                    const retryBtn = document.getElementById('retry-recognition-btn');
-                    if (retryBtn) {
-                        retryBtn.addEventListener('click', showRecognitionChoice);
-
-                        retryBtn.addEventListener('mouseenter', () => {
-                            retryBtn.style.background = '#e0a800';
-                            retryBtn.style.transform = 'translateY(-2px)';
-                        });
-                        retryBtn.addEventListener('mouseleave', () => {
-                            retryBtn.style.background = '#ffc107';
-                            retryBtn.style.transform = 'translateY(0)';
-                        });
-                    }
-                }, 50);
-            }
-        }
 
 
         function showRecognitionChoice() {
@@ -28955,30 +28688,11 @@
                     遊戲軟體截圖，雙模型自動識別
                 </div>
             </button>
-
-            <button id="choose-pikafish" style="
-                padding: 16px 20px;
-                background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-                color: white;
-                border: none;
-                border-radius: 10px;
-                cursor: pointer;
-                font-weight: bold;
-                font-size: 15px;
-                transition: all 0.3s;
-                box-shadow: 0 4px 15px rgba(245,87,108,0.4);
-            ">
-                🐟 皮卡魚
-                <div style="font-size: 11px; margin-top: 6px; opacity: 0.95;">
-                    線上 API 識別，最高準確度
-                </div>
-            </button>
         </div>
 
         <div style="margin-top: 20px; padding: 12px; background: #f8f9fa; border-radius: 8px; font-size: 11px; color: #666; line-height: 1.6;">
             💡 <strong>實體棋盤</strong>：適合淺色系棋子<br>
-            🎮 <strong>線上截圖</strong>：需載入兩個模型<br>
-            🌐 <strong>皮卡魚</strong>：雲端 API，每 10 秒限一次
+            🎮 <strong>線上截圖</strong>：雙模型自動識別紅黑陣營
         </div>
 
         <button id="close-choice-dialog" style="
@@ -29002,7 +28716,6 @@
             setTimeout(() => {
                 const localBtn = document.getElementById('choose-local-model');
                 const onlineBtn = document.getElementById('choose-online-screenshot');
-                const pikaBtn = document.getElementById('choose-pikafish');
                 const closeBtn = document.getElementById('close-choice-dialog');
 
                 // 关闭弹窗函数
@@ -29040,22 +28753,6 @@
                     });
                 }
 
-                // 皮卡鱼
-                if (pikaBtn) {
-                    pikaBtn.addEventListener('click', () => {
-                        closeDialog();
-                        startPikafishFlow();
-                    });
-                    pikaBtn.addEventListener('mouseenter', () => {
-                        pikaBtn.style.transform = 'translateY(-2px)';
-                        pikaBtn.style.boxShadow = '0 6px 20px rgba(245,87,108,0.6)';
-                    });
-                    pikaBtn.addEventListener('mouseleave', () => {
-                        pikaBtn.style.transform = 'none';
-                        pikaBtn.style.boxShadow = '0 4px 15px rgba(245,87,108,0.4)';
-                    });
-                }
-
                 // 取消按钮
                 if (closeBtn) {
                     closeBtn.addEventListener('click', closeDialog);
@@ -29073,7 +28770,6 @@
                 });
             }, 50);
         }
-
 
         // 重置界面
         function resetInterface() {
