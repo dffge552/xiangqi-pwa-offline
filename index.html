@@ -32758,6 +32758,342 @@
         initGameInstructionsSystem();
     }
 
+    // PWA 安裝系統（Android 專用）
+    (function() {
+        let deferredPrompt = null;
+        let installDialogInstance = null;
+
+        // 檢測是否為 iOS 裝置
+        function isIOS() {
+            return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        }
+
+        // 主要安裝提示函數（Android/電腦版）
+        function showInstallDialog() {
+            const dialog = document.createElement('div');
+            dialog.id = 'install-dialog';
+            dialog.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            font-family: 'Microsoft JhengHei', sans-serif;
+        `;
+
+            const dialogContent = document.createElement('div');
+            dialogContent.style.cssText = `
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            max-width: 500px;
+            width: 90%;
+            text-align: center;
+            max-height: 90vh;
+            overflow-y: auto;
+        `;
+
+            dialogContent.innerHTML = `
+            <h3 style="margin-bottom: 20px; color: #333;">📱 安裝到桌面</h3>
+
+            <div style="margin-bottom: 25px; font-size: 16px; line-height: 1.6; color: #555;">
+                <p>將象棋遊戲安裝到您的裝置，隨時都能快速開啟！</p>
+            </div>
+
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+                <div style="font-size: 14px; color: #666; margin-bottom: 15px;">
+                    ✨ <strong>安裝優點：</strong>
+                </div>
+                <ul style="text-align: left; color: #666; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+                    <li>像 APP 一樣直接開啟，不用輸入網址</li>
+                    <li>可以離線遊玩，沒網路也能下棋</li>
+                    <li><strong>AI 對弈與棋盤分析功能完整支援</strong></li>
+                    <li>獨立視窗，更專注的遊戲體驗</li>
+                    <li>佔用空間極小，不會影響手機效能</li>
+                </ul>
+            </div>
+
+            <div style="background: #fff3cd; border: 2px solid #ffc107; padding: 15px; border-radius: 8px; margin-bottom: 25px;">
+                <div style="font-size: 13px; color: #856404; line-height: 1.6;">
+                    <strong>⚠️ 系統支援說明：</strong><br>
+                    <span style="color: #28a745;">✓ Android 系統</span>：完整支援所有功能（AI 對弈、棋盤識別、分析等）<br>
+                    <span style="color: #dc3545;">✗ iOS 系統</span>：目前因技術限制，AI 相關功能暫不支援
+                </div>
+            </div>
+
+            <div style="margin-bottom: 20px;">
+                <button id="install-confirm-btn" style="
+                    background: #4CAF50;
+                    color: white;
+                    padding: 15px 30px;
+                    border: none;
+                    border-radius: 8px;
+                    cursor: pointer;
+                    font-size: 18px;
+                    font-weight: bold;
+                    box-shadow: 0 2px 10px rgba(76, 175, 80, 0.3);
+                    transition: all 0.3s ease;
+                "
+                onmouseover="this.style.background='#45a049'; this.style.transform='translateY(-2px)'"
+                onmouseout="this.style.background='#4CAF50'; this.style.transform='translateY(0)'">
+                    📥 立即安裝（Android 適用）
+                </button>
+            </div>
+
+            <div style="text-align: center;">
+                <button id="install-cancel-btn" style="
+                    background: #6c757d;
+                    color: white;
+                    padding: 10px 20px;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    font-size: 14px;
+                ">暫時不要</button>
+            </div>
+        `;
+
+            dialog.appendChild(dialogContent);
+            document.body.appendChild(dialog);
+
+            document.getElementById('install-confirm-btn').addEventListener('click', triggerInstall);
+            document.getElementById('install-cancel-btn').addEventListener('click', closeInstallDialog);
+
+            dialog.addEventListener('click', function(e) {
+                if (e.target === dialog) {
+                    closeInstallDialog();
+                }
+            });
+
+            return dialog;
+        }
+
+        // iOS 專用說明對話框
+        function showIOSInstructionDialog() {
+            const dialog = document.createElement('div');
+            dialog.id = 'install-dialog';
+            dialog.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            font-family: 'Microsoft JhengHei', sans-serif;
+        `;
+
+            const dialogContent = document.createElement('div');
+            dialogContent.style.cssText = `
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            max-width: 500px;
+            width: 90%;
+            text-align: center;
+            max-height: 90vh;
+            overflow-y: auto;
+        `;
+
+            dialogContent.innerHTML = `
+            <h3 style="margin-bottom: 20px; color: #333;">🍎 iOS 系統說明</h3>
+
+            <div style="background: #fff3cd; border: 2px solid #ffc107; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
+                <div style="font-size: 15px; color: #856404; line-height: 1.8;">
+                    <strong>⚠️ 重要提醒</strong><br><br>
+                    目前完整版（含 AI 對弈、棋盤識別、局面分析）<strong>僅支援 Android 系統</strong><br><br>
+                    <span style="color: #dc3545;">iOS 系統因瀏覽器技術限制，AI 相關功能暫時無法使用</span>
+                </div>
+            </div>
+
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
+                <div style="font-size: 14px; color: #666; margin-bottom: 15px;">
+                    📱 <strong>iOS 手動安裝方式：</strong>
+                </div>
+                <ol style="text-align: left; color: #666; font-size: 14px; line-height: 2; margin: 0; padding-left: 20px;">
+                    <li>點擊 Safari 底部的 <strong>「分享」</strong> 按鈕 📤</li>
+                    <li>往下滑找到 <strong>「加入主畫面」</strong></li>
+                    <li>點擊 <strong>「新增」</strong> 完成安裝</li>
+                </ol>
+                <div style="margin-top: 15px; padding: 10px; background: #fff; border-radius: 5px; font-size: 13px; color: #999;">
+                    ※ 注意：iOS 版本將不包含 AI 功能
+                </div>
+            </div>
+
+            <div style="text-align: center;">
+                <button id="ios-close-btn" style="
+                    background: #6c757d;
+                    color: white;
+                    padding: 12px 25px;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    font-size: 14px;
+                ">我知道了</button>
+            </div>
+        `;
+
+            dialog.appendChild(dialogContent);
+            document.body.appendChild(dialog);
+
+            document.getElementById('ios-close-btn').addEventListener('click', closeInstallDialog);
+
+            dialog.addEventListener('click', function(e) {
+                if (e.target === dialog) {
+                    closeInstallDialog();
+                }
+            });
+
+            return dialog;
+        }
+
+        // 觸發安裝提示
+        async function triggerInstall() {
+            if (!deferredPrompt) {
+                alert('抱歉，您的瀏覽器不支援安裝功能，或者已經安裝過了！');
+                closeInstallDialog();
+                return;
+            }
+
+            deferredPrompt.prompt();
+
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`安裝結果: ${outcome}`);
+
+            if (outcome === 'accepted') {
+                console.log('用戶接受安裝');
+            } else {
+                console.log('用戶拒絕安裝');
+            }
+
+            deferredPrompt = null;
+            closeInstallDialog();
+        }
+
+        // 關閉安裝對話框
+        function closeInstallDialog() {
+            const dialog = document.getElementById('install-dialog');
+            if (dialog) {
+                dialog.remove();
+                installDialogInstance = null;
+            }
+        }
+
+        // 創建安裝按鈕
+        function addInstallButton() {
+            const feedbackButton = Array.from(document.querySelectorAll('button')).find(btn =>
+                btn.textContent.includes('問題回報')
+            );
+
+            const regretButton = Array.from(document.querySelectorAll('button')).find(btn =>
+                btn.textContent.includes('悔棋') || btn.textContent.includes('undo')
+            );
+
+            let buttonContainer = feedbackButton ? feedbackButton.parentElement :
+                (regretButton ? regretButton.parentElement : document.body);
+
+            const installButton = document.createElement('button');
+            installButton.id = 'pwa-install-button';
+
+            // iOS 顯示不同文字
+            if (isIOS()) {
+                installButton.textContent = '📱 iOS 安裝說明';
+            } else {
+                installButton.textContent = '📱 安裝應用';
+            }
+
+            installButton.style.display = 'inline-block'; // iOS 也顯示按鈕
+
+            if (feedbackButton || regretButton) {
+                const referenceButton = feedbackButton || regretButton;
+                installButton.className = referenceButton.className;
+                installButton.style.cssText = referenceButton.style.cssText;
+                installButton.style.backgroundColor = '#2196F3';
+            } else {
+                installButton.style.cssText = `
+                padding: 12px 20px;
+                background-color: #2196F3;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 14px;
+                font-weight: bold;
+                margin: 5px;
+            `;
+            }
+
+            installButton.addEventListener('click', function() {
+                if (!installDialogInstance) {
+                    // iOS 顯示說明對話框
+                    if (isIOS()) {
+                        installDialogInstance = showIOSInstructionDialog();
+                    } else {
+                        installDialogInstance = showInstallDialog();
+                    }
+                }
+            });
+
+            buttonContainer.appendChild(installButton);
+
+            return installButton;
+        }
+
+        // 監聽安裝提示事件（僅 Android/電腦）
+        window.addEventListener('beforeinstallprompt', (e) => {
+            console.log('偵測到可安裝 PWA');
+            e.preventDefault();
+            deferredPrompt = e;
+
+            const installButton = document.getElementById('pwa-install-button');
+            if (installButton && !isIOS()) {
+                installButton.style.display = 'inline-block';
+            }
+        });
+
+        // 監聽安裝成功事件
+        window.addEventListener('appinstalled', () => {
+            console.log('PWA 安裝成功！');
+            deferredPrompt = null;
+
+            const installButton = document.getElementById('pwa-install-button');
+            if (installButton) {
+                installButton.style.display = 'none';
+            }
+
+            closeInstallDialog();
+
+            alert('安裝成功！您現在可以從桌面或應用程式列表中開啟象棋遊戲了！');
+        });
+
+        // 初始化安裝系統
+        function initInstallSystem() {
+            if (window.matchMedia('(display-mode: standalone)').matches) {
+                console.log('應用已在獨立模式下運行（已安裝）');
+                return;
+            }
+
+            addInstallButton();
+            console.log('PWA 安裝系統已初始化');
+        }
+
+        // 執行初始化
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initInstallSystem);
+        } else {
+            initInstallSystem();
+        }
+    })();
 
 
     // ==================== 遊戲設置系統 ====================
