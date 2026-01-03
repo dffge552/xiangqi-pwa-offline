@@ -32820,11 +32820,11 @@
         initGameInstructionsSystem();
     }
 
-    // PWA 安裝系統（修正版）
+    // PWA 安裝系統（增強除錯版）
     (function() {
         let deferredPrompt = null;
         let installDialogInstance = null;
-        let promptEventReceived = false; // 新增：追蹤事件是否觸發過
+        let promptEventReceived = false;
 
         // 檢測是否為 iOS 裝置
         function isIOS() {
@@ -32835,6 +32835,169 @@
         function isInstalled() {
             return window.matchMedia('(display-mode: standalone)').matches ||
                 window.navigator.standalone === true;
+        }
+
+        // 🔥 新增：PWA 條件檢查器
+        async function checkPWARequirements() {
+            const results = {
+                https: window.location.protocol === 'https:' || window.location.hostname === 'localhost',
+                manifest: false,
+                serviceWorker: false,
+                manifestValid: false,
+                icons: false
+            };
+
+            // 檢查 manifest
+            try {
+                const manifestLink = document.querySelector('link[rel="manifest"]');
+                if (manifestLink) {
+                    const response = await fetch(manifestLink.href);
+                    const manifest = await response.json();
+                    results.manifest = true;
+
+                    // 檢查必要欄位
+                    results.manifestValid = !!(
+                        manifest.name &&
+                        manifest.short_name &&
+                        manifest.start_url &&
+                        manifest.display
+                    );
+
+                    // 檢查圖示
+                    results.icons = !!(
+                        manifest.icons &&
+                        manifest.icons.length > 0 &&
+                        manifest.icons.some(icon => icon.sizes.includes('192x192')) &&
+                        manifest.icons.some(icon => icon.sizes.includes('512x512'))
+                    );
+                }
+            } catch (e) {
+                console.error('Manifest 檢查失敗:', e);
+            }
+
+            // 檢查 Service Worker
+            if ('serviceWorker' in navigator) {
+                const registrations = await navigator.serviceWorker.getRegistrations();
+                results.serviceWorker = registrations.length > 0;
+            }
+
+            return results;
+        }
+
+        // 🔥 新增：顯示診斷對話框
+        async function showDiagnosticDialog() {
+            const requirements = await checkPWARequirements();
+
+            const dialog = document.createElement('div');
+            dialog.id = 'diagnostic-dialog';
+            dialog.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            font-family: 'Microsoft JhengHei', sans-serif;
+        `;
+
+            const dialogContent = document.createElement('div');
+            dialogContent.style.cssText = `
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+        `;
+
+            const getStatusIcon = (status) => status ? '✅' : '❌';
+            const getStatusColor = (status) => status ? '#28a745' : '#dc3545';
+
+            dialogContent.innerHTML = `
+            <h3 style="margin-bottom: 20px; color: #333;">🔍 PWA 安裝診斷報告</h3>
+
+            <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+                <div style="margin-bottom: 15px;">
+                    <strong>環境檢測：</strong>
+                </div>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                    <li style="padding: 8px 0; color: ${getStatusColor(requirements.https)}">
+                        ${getStatusIcon(requirements.https)} HTTPS 或 Localhost
+                    </li>
+                    <li style="padding: 8px 0; color: ${getStatusColor(requirements.manifest)}">
+                        ${getStatusIcon(requirements.manifest)} Manifest 檔案存在
+                    </li>
+                    <li style="padding: 8px 0; color: ${getStatusColor(requirements.manifestValid)}">
+                        ${getStatusIcon(requirements.manifestValid)} Manifest 必要欄位完整
+                    </li>
+                    <li style="padding: 8px 0; color: ${getStatusColor(requirements.icons)}">
+                        ${getStatusIcon(requirements.icons)} 圖示規格符合 (192x192, 512x512)
+                    </li>
+                    <li style="padding: 8px 0; color: ${getStatusColor(requirements.serviceWorker)}">
+                        ${getStatusIcon(requirements.serviceWorker)} Service Worker 已註冊
+                    </li>
+                    <li style="padding: 8px 0; color: ${getStatusColor(promptEventReceived)}">
+                        ${getStatusIcon(promptEventReceived)} beforeinstallprompt 事件已觸發
+                    </li>
+                </ul>
+            </div>
+
+            <div style="background: #fff3cd; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+                <strong>💡 電腦模擬測試提示：</strong><br>
+                <div style="margin-top: 10px; font-size: 14px; line-height: 1.6;">
+                    1. 確認網址列右側有無 <strong>「⊕ 安裝」</strong> 圖示<br>
+                    2. 或點擊 Chrome 選單 → <strong>「安裝 [應用名稱]」</strong><br>
+                    3. 開啟 DevTools → Application → Manifest 檢查錯誤<br>
+                    4. 使用真實 Android 裝置測試更準確
+                </div>
+            </div>
+
+            ${!requirements.https ? `
+                <div style="background: #f8d7da; padding: 15px; border-radius: 8px; margin-bottom: 20px; color: #721c24;">
+                    <strong>⚠️ HTTPS 問題：</strong><br>
+                    PWA 必須在 HTTPS 或 localhost 環境下運行
+                </div>
+            ` : ''}
+
+            ${!requirements.serviceWorker ? `
+                <div style="background: #f8d7da; padding: 15px; border-radius: 8px; margin-bottom: 20px; color: #721c24;">
+                    <strong>⚠️ Service Worker 未註冊：</strong><br>
+                    請確認 sw.js 檔案存在且已正確註冊
+                </div>
+            ` : ''}
+
+            <div style="text-align: center;">
+                <button id="diagnostic-close-btn" style="
+                    background: #4CAF50;
+                    color: white;
+                    padding: 12px 25px;
+                    border: none;
+                    border-radius: 5px;
+                    cursor: pointer;
+                    font-size: 14px;
+                    font-weight: bold;
+                ">我知道了</button>
+            </div>
+        `;
+
+            dialog.appendChild(dialogContent);
+            document.body.appendChild(dialog);
+
+            document.getElementById('diagnostic-close-btn').addEventListener('click', () => {
+                dialog.remove();
+            });
+
+            dialog.addEventListener('click', (e) => {
+                if (e.target === dialog) {
+                    dialog.remove();
+                }
+            });
         }
 
         // 主要安裝提示函數（Android/電腦版）
@@ -32888,14 +33051,6 @@
                 </ul>
             </div>
 
-            <div style="background: #fff3cd; border: 2px solid #ffc107; padding: 15px; border-radius: 8px; margin-bottom: 25px;">
-                <div style="font-size: 13px; color: #856404; line-height: 1.6;">
-                    <strong>⚠️ 系統支援說明：</strong><br>
-                    <span style="color: #28a745;">✓ Android 系統</span>：完整支援所有功能（AI 對弈、棋盤識別、分析等）<br>
-                    <span style="color: #dc3545;">✗ iOS 系統</span>：目前因技術限制，AI 相關功能暫不支援
-                </div>
-            </div>
-
             <div style="margin-bottom: 20px;">
                 <button id="install-confirm-btn" style="
                     background: #4CAF50;
@@ -32911,7 +33066,7 @@
                 "
                 onmouseover="this.style.background='#45a049'; this.style.transform='translateY(-2px)'"
                 onmouseout="this.style.background='#4CAF50'; this.style.transform='translateY(0)'">
-                    📥 立即安裝（Android 適用）
+                    📥 立即安裝
                 </button>
             </div>
 
@@ -32977,14 +33132,6 @@
             dialogContent.innerHTML = `
             <h3 style="margin-bottom: 20px; color: #333;">🍎 iOS 系統說明</h3>
 
-            <div style="background: #fff3cd; border: 2px solid #ffc107; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
-                <div style="font-size: 15px; color: #856404; line-height: 1.8;">
-                    <strong>⚠️ 重要提醒</strong><br><br>
-                    目前完整版（含 AI 對弈、棋盤識別、局面分析）<strong>僅支援 Android 系統</strong><br><br>
-                    <span style="color: #dc3545;">iOS 系統因瀏覽器技術限制，AI 相關功能暫時無法使用</span>
-                </div>
-            </div>
-
             <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 25px;">
                 <div style="font-size: 14px; color: #666; margin-bottom: 15px;">
                     📱 <strong>iOS 手動安裝方式：</strong>
@@ -32994,9 +33141,6 @@
                     <li>往下滑找到 <strong>「加入主畫面」</strong></li>
                     <li>點擊 <strong>「新增」</strong> 完成安裝</li>
                 </ol>
-                <div style="margin-top: 15px; padding: 10px; background: #fff; border-radius: 5px; font-size: 13px; color: #999;">
-                    ※ 注意：iOS 版本將不包含 AI 功能
-                </div>
             </div>
 
             <div style="text-align: center;">
@@ -33026,7 +33170,7 @@
             return dialog;
         }
 
-        // 顯示提示對話框（已安裝或不支援）
+        // 顯示提示對話框
         function showInfoDialog(title, message) {
             const dialog = document.createElement('div');
             dialog.id = 'install-info-dialog';
@@ -33086,32 +33230,27 @@
             });
         }
 
-        // 🔥 修正版：觸發安裝提示
+        // 觸發安裝提示
         async function triggerInstall() {
-            // 先檢查是否真的已安裝
             if (isInstalled()) {
                 showInfoDialog('✅ 已安裝', '此應用已經安裝在您的裝置上了！');
                 closeInstallDialog();
                 return;
             }
 
-            // 如果沒有 deferredPrompt，給更明確的提示
             if (!deferredPrompt) {
                 if (promptEventReceived) {
-                    // 事件觸發過但已用掉
                     showInfoDialog('💡 提示', '安裝提示已使用過，請重新整理頁面後再試！');
                 } else {
-                    // 事件從未觸發 - 可能是瀏覽器限制
                     showInfoDialog(
                         '⚠️ 無法自動安裝',
-                        '您的瀏覽器可能不支援自動安裝，或需要更多互動後才能安裝。<br><br>請嘗試：<br>1. 在頁面多瀏覽一下<br>2. 重新整理後再試<br>3. 使用 Chrome 瀏覽器'
+                        '您的瀏覽器可能不支援自動安裝。<br><br>請嘗試：<br>1. 點擊網址列的「安裝」圖示<br>2. 或使用 Chrome 選單中的「安裝」選項<br>3. 點擊「檢查安裝條件」查看詳細資訊'
                     );
                 }
                 closeInstallDialog();
                 return;
             }
 
-            // 正常安裝流程
             try {
                 deferredPrompt.prompt();
                 const { outcome } = await deferredPrompt.userChoice;
@@ -33143,7 +33282,6 @@
 
         // 創建安裝按鈕
         function addInstallButton() {
-            // 如果已安裝，不顯示按鈕
             if (isInstalled()) {
                 console.log('應用已安裝，不顯示安裝按鈕');
                 return;
@@ -33160,10 +33298,10 @@
             let buttonContainer = feedbackButton ? feedbackButton.parentElement :
                 (regretButton ? regretButton.parentElement : document.body);
 
+            // 主要安裝按鈕
             const installButton = document.createElement('button');
             installButton.id = 'pwa-install-button';
 
-            // iOS 顯示不同文字
             if (isIOS()) {
                 installButton.textContent = '📱 iOS 安裝說明';
             } else {
@@ -33203,15 +33341,43 @@
 
             buttonContainer.appendChild(installButton);
 
-            return installButton;
+            // 🔥 新增：診斷按鈕
+            const diagnosticButton = document.createElement('button');
+            diagnosticButton.id = 'pwa-diagnostic-button';
+            diagnosticButton.textContent = '🔍 檢查安裝條件';
+            diagnosticButton.style.display = 'inline-block';
+
+            if (feedbackButton || regretButton) {
+                const referenceButton = feedbackButton || regretButton;
+                diagnosticButton.className = referenceButton.className;
+                diagnosticButton.style.cssText = referenceButton.style.cssText;
+                diagnosticButton.style.backgroundColor = '#007bff';
+            } else {
+                diagnosticButton.style.cssText = `
+                padding: 12px 20px;
+                background-color: #007bff;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 14px;
+                font-weight: bold;
+                margin: 5px;
+            `;
+            }
+
+            diagnosticButton.addEventListener('click', showDiagnosticDialog);
+            buttonContainer.appendChild(diagnosticButton);
+
+            return { installButton, diagnosticButton };
         }
 
-        // 監聽安裝提示事件（僅 Android/電腦）
+        // 監聽安裝提示事件
         window.addEventListener('beforeinstallprompt', (e) => {
             console.log('✅ 偵測到可安裝 PWA');
             e.preventDefault();
             deferredPrompt = e;
-            promptEventReceived = true; // 標記事件已觸發
+            promptEventReceived = true;
 
             const installButton = document.getElementById('pwa-install-button');
             if (installButton && !isIOS()) {
@@ -33230,7 +33396,6 @@
             }
 
             closeInstallDialog();
-
             alert('安裝成功！您現在可以從桌面或應用程式列表中開啟象棋遊戲了！');
         });
 
@@ -33244,15 +33409,11 @@
             addInstallButton();
             console.log('✅ PWA 安裝系統已初始化');
 
-            // 🔥 新增：延遲檢查 beforeinstallprompt 是否觸發
+            // 延遲檢查
             setTimeout(() => {
                 if (!promptEventReceived && !isIOS()) {
-                    console.warn('⚠️ beforeinstallprompt 事件未觸發，可能需要滿足以下條件：');
-                    console.warn('1. 使用 HTTPS');
-                    console.warn('2. 有有效的 manifest.json');
-                    console.warn('3. 註冊了 Service Worker');
-                    console.warn('4. 用戶與頁面有互動');
-                    console.warn('5. 未曾安裝過或已解除安裝');
+                    console.warn('⚠️ beforeinstallprompt 事件未觸發');
+                    console.warn('請點擊「檢查安裝條件」按鈕查看詳細診斷資訊');
                 }
             }, 3000);
         }
