@@ -18928,34 +18928,89 @@
         // 🔥 检测是否为移动设备
         const isMobile = window.innerWidth <= 768;
 
+
+
         const container = document.createElement('div');
         container.style.cssText = `
-        position: fixed;
-        top: ${isMobile ? '0' : '50%'};
-        left: ${isMobile ? '0' : '50%'};
-        transform: ${isMobile ? 'none' : 'translate(-50%, -50%)'};
-        background: white;
-        border: ${isMobile ? 'none' : '2px solid #333'};
-        border-radius: ${isMobile ? '0' : '10px'};
-        padding: ${isMobile ? '10px' : '20px'};
-        z-index: 1000;
-        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        max-height: ${isMobile ? '100vh' : '95vh'};
-        overflow-y: auto;
-        width: ${isMobile ? '100vw' : 'auto'};
-        min-width: ${isMobile ? 'auto' : '700px'};
-        max-width: ${isMobile ? '100vw' : '90vw'};
-        box-sizing: border-box;
-    `;
+    position: fixed;
+    top: ${isMobile ? '0' : '50%'};
+    left: ${isMobile ? '0' : '50%'};
+    transform: ${isMobile ? 'none' : 'translate(-50%, -50%)'};
+    background: white;
+    border: ${isMobile ? 'none' : '2px solid #333'};
+    border-radius: ${isMobile ? '0' : '10px'};
+    padding: ${isMobile ? '10px' : '20px'};
+    z-index: 1000;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    max-height: ${isMobile ? '100vh' : '95vh'};
+    overflow-y: auto;
+    width: ${isMobile ? '100vw' : 'auto'};
+    height: ${isMobile ? '100vh' : 'auto'};
+    min-width: ${isMobile ? 'auto' : '700px'};
+    max-width: ${isMobile ? '100vw' : '90vw'};
+    box-sizing: border-box;
+`;
 
         const title = document.createElement('h3');
         title.textContent = '自定義棋盤';
         title.style.cssText = `
-        margin: 0 0 ${isMobile ? '10px' : '15px'} 0;
-        text-align: center;
-        color: #333;
-        font-size: ${isMobile ? '18px' : '20px'};
-    `;
+    margin: 0 0 ${isMobile ? '10px' : '15px'} 0;
+    text-align: center;
+    color: #333;
+    font-size: ${isMobile ? '18px' : '20px'};
+`;
+        // 🔥 右上角紅叉關閉按鈕
+        const closeXButton = document.createElement('button');
+        closeXButton.innerHTML = '✕';
+        closeXButton.style.cssText = `
+    position: absolute;
+    top: ${isMobile ? '8px' : '15px'};
+    right: ${isMobile ? '8px' : '15px'};
+    width: ${isMobile ? '32px' : '28px'};
+    height: ${isMobile ? '32px' : '28px'};
+    background: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: ${isMobile ? '20px' : '18px'};
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(220, 53, 69, 0.4);
+    transition: all 0.2s ease;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    line-height: 1;
+    padding: 0;
+`;
+
+        closeXButton.addEventListener('click', () => {
+            selectedPosition = null;
+            document.body.removeChild(container);
+        });
+
+        if (isMobile) {
+            closeXButton.addEventListener('touchstart', () => {
+                closeXButton.style.transform = 'scale(0.9)';
+                closeXButton.style.background = '#c82333';
+            });
+            closeXButton.addEventListener('touchend', () => {
+                closeXButton.style.transform = 'scale(1)';
+                closeXButton.style.background = '#dc3545';
+            });
+        } else {
+            closeXButton.addEventListener('mouseenter', () => {
+                closeXButton.style.transform = 'scale(1.1)';
+                closeXButton.style.background = '#c82333';
+            });
+            closeXButton.addEventListener('mouseleave', () => {
+                closeXButton.style.transform = 'scale(1)';
+                closeXButton.style.background = '#dc3545';
+            });
+        }
 
         // 翻转状态指示器
         const flipIndicator = document.createElement('div');
@@ -19828,6 +19883,7 @@
 
         // 组装界面
         container.appendChild(title);
+        container.appendChild(closeXButton);  // 👈 新增這行
         container.appendChild(flipIndicator);
         container.appendChild(errorDisplay);
         container.appendChild(successDisplay);
