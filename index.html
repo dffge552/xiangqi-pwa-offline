@@ -20325,13 +20325,23 @@
                         const piece = this.fenCharToPiece(char);
                         if (piece && col < 9) {
                             board[row][col] = piece;
-                        }
+                        }btn.onclick = () => {
+                            // 允許取消選擇
+                            if (btn.classList.contains('active')) {
+                                btn.classList.remove('active');
+                                btn.style.background = 'white';
+                                btn.style.color = '#666';
+                                btn.style.borderColor = '#e0e0e0';
+                                btn.style.transform = 'none';
+                                trainer.currentEndgameType = null;
                         col++;
                     }
                 }
             }
 
             return { board, currentPlayer };
+        }
+            }
         }
 
         fenCharToPiece(char) {
@@ -20899,7 +20909,7 @@
                 }
             };
 
-            btn.onclick = () => {
+            btn.onclick = async () => {
                 document.querySelectorAll('.mode-button').forEach(b => {
                     b.classList.remove('active');
                     b.style.background = 'white';
