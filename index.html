@@ -11186,8 +11186,14 @@
 
                         // 🔥 延遲發送後續命令
                         setTimeout(() => {
+                            // 🧠 [AI學習/強化] 原本固定 Threads=1，但頁面已設定 COOP/COEP，
+                            // WASM 建置也支援 pthread/SharedArrayBuffer，因此可以安全地
+                            // 開多線程，讓同樣的深度在同樣時間內算得更準。保守封頂在 3，
+                            // 避免低階裝置卡頓。
+                            const safeThreads = Math.max(1, Math.min(3, (navigator.hardwareConcurrency || 2) - 1));
                             this.sendCommand('setoption name UCI_Variant value xiangqi');
-                            this.sendCommand('setoption name Threads value 1');
+                            this.sendCommand(`setoption name Threads value ${safeThreads}`);
+                            this.sendCommand('setoption name Hash value 128');
                             this.sendCommand('isready');
                         }, 100);
                     };
@@ -12438,13 +12444,18 @@
 
                 // 7. 开始分析
                 const results = await new Promise((resolve, reject) => {
+                    // 🧠 [AI學習/強化] 原本這裡只給 1000ms 就會強制 stop，
+                    // 深度15的搜索在單線程/多線程下都很難在1秒內算完，
+                    // 等於「分析」按鈕給出的其實是被腰斬的淺層結果。
+                    // 手動點擊分析屬於非即時場景，給更充裕的時間讓引擎真正算到位。
+                    const ANALYSIS_TIMEOUT_MS = 15000;
                     const timeout = setTimeout(() => {
-                        console.warn('AI 思考超时，尝试停止搜索...');
+                        console.warn(`AI 思考超时(${ANALYSIS_TIMEOUT_MS}ms)，尝试停止搜索...`);
                         this.sendCommand('stop');
                         setTimeout(() => {
                             reject(new Error('AI 思考超时'));
                         }, 2000);
-                    }, 1000);
+                    }, ANALYSIS_TIMEOUT_MS);
 
                     this.once('bestmove', (move, rawMsg, multiPVResults) => {
                         clearTimeout(timeout);
@@ -35440,5 +35451,8 @@
     // ========== 新程式碼結束 ==========
 
 </script>
+
+<!-- 🧠 AI 对局学习模块：总结 AI 输棋对局并从中学习，详见 ai-learning.js 顶部说明 -->
+<script src="./ai-learning.js"></script>
 </body>
 </html>
